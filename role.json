@@ -1796,10 +1796,17 @@
   "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
-      "limit": 0,
+      "limit": 53,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 53,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 53,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T06:51:25.317Z"
+        }
+      ]
     },
     "8043169731": {
       "limit": 0,
