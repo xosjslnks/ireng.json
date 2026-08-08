@@ -2371,15 +2371,15 @@
       "autoCancelAt": "2026-08-08T11:50:54.528Z",
       "chatId": -1003596848958,
       "createdAt": "2026-08-08T11:45:55.796Z",
-      "lastCheckedAt": "2026-08-08T11:46:02.306Z"
+      "lastCheckedAt": "2026-08-08T11:46:17.307Z"
     }
   ],
   "pakasirUsage": {
     "2026-08-08": {
-      "total": 56,
+      "total": 57,
       "endpoints": {
         "/pakasir/transactioncreate": 9,
-        "/pakasir/transactiondetail": 46,
+        "/pakasir/transactiondetail": 47,
         "/pakasir/transactioncancel": 1
       }
     }
