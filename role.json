@@ -1807,7 +1807,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786176468949-8d072374",
+      "nomor": "6283174288931",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "Traalynx [𝑭𝑳]",
+        "username": "CeoLynxiee"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-08T08:07:48.949Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2096,14 +2108,20 @@
     },
     "7975136339": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSK3BGPI-4023",
           "at": "2026-08-08T08:07:28.488Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-08T08:07:48.951Z"
         }
       ]
     }
