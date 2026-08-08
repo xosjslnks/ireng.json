@@ -1807,30 +1807,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786178958168-c3fe9b4f",
-      "nomor": "380681216224",
-      "requestedBy": {
-        "id": 8408113812,
-        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-        "username": "SaifSTBX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T08:49:18.168Z"
-    },
-    {
-      "id": "1786179302056-ab4855c2",
-      "nomor": "6285177157346",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T08:55:02.056Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
