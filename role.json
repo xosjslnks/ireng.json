@@ -2119,15 +2119,15 @@
       "autoCancelAt": "2026-08-08T07:10:09.019Z",
       "chatId": -1003596848958,
       "createdAt": "2026-08-08T07:05:11.648Z",
-      "lastCheckedAt": "2026-08-08T07:05:24.088Z"
+      "lastCheckedAt": "2026-08-08T07:05:39.095Z"
     }
   ],
   "pakasirUsage": {
     "2026-08-08": {
-      "total": 13,
+      "total": 14,
       "endpoints": {
         "/pakasir/transactioncreate": 3,
-        "/pakasir/transactiondetail": 10
+        "/pakasir/transactiondetail": 11
       }
     }
   },
