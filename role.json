@@ -1807,52 +1807,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786176468949-8d072374",
-      "nomor": "6283174288931",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "Traalynx [𝑭𝑳]",
-        "username": "CeoLynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T08:07:48.949Z"
-    },
-    {
-      "id": "1786177796933-b31833a6",
-      "nomor": "6285129356842",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T08:29:56.933Z"
-    },
-    {
-      "id": "1786177803410-9177ea56",
-      "nomor": "6285142262671",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T08:30:03.410Z"
-    },
-    {
-      "id": "1786177810437-ad32d18e",
-      "nomor": "6283162075176",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T08:30:10.437Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
