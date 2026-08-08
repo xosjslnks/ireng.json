@@ -2025,7 +2025,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-msjytpsb-2da87d",
+        "targetUsername": "mazznjoll",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-08-08T06:06:06.251Z",
+        "requestedBy": {
+          "id": 8788855625,
+          "name": "Support Monzo Banking Service",
+          "username": "Official_Monzo_SupportService089",
+          "role": "partner"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-08-08T06:01:06.657Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
