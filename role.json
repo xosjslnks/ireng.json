@@ -1748,30 +1748,7 @@
       "addedAt": "2026-05-21T04:48:00.262Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786166098581-ff3888d2",
-      "nomor": "6283176302723",
-      "requestedBy": {
-        "id": 7815231950,
-        "name": "𝐕ΣППۧ𝐈𝐗",
-        "username": "Vennixn"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T05:14:58.581Z"
-    },
-    {
-      "id": "1786166111936-331ad330",
-      "nomor": "6283176302725",
-      "requestedBy": {
-        "id": 7815231950,
-        "name": "𝐕ΣППۧ𝐈𝐗",
-        "username": "Vennixn"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T05:15:11.936Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "8043169731": {
       "limit": 0,
@@ -1811,8 +1788,8 @@
     },
     "7815231950": {
       "limit": 10,
-      "used": 3,
-      "remaining": 7,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -1837,6 +1814,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-08T05:15:11.937Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-08T05:16:02.453Z"
         }
       ]
     },
