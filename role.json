@@ -1802,6 +1802,25 @@
           "at": "2026-08-08T04:59:50.292Z"
         }
       ]
+    },
+    "7534088692": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
+    "8788855625": {
+      "limit": 32,
+      "used": 0,
+      "remaining": 32,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 32,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T05:00:41.932Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [],
