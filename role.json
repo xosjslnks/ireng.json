@@ -2032,9 +2032,9 @@
       ]
     },
     "8473203086": {
-      "limit": 10,
+      "limit": 17,
       "used": 1,
-      "remaining": 9,
+      "remaining": 16,
       "history": [
         {
           "type": "ADD",
@@ -2047,6 +2047,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-08T06:53:05.645Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 7,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T06:54:29.008Z"
         }
       ]
     }
