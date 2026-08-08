@@ -1807,7 +1807,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786179744748-6c5742b3",
+      "nomor": "249125725391",
+      "requestedBy": {
+        "id": 8602402800,
+        "name": "Mazz",
+        "username": "mazznjoll"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-08T09:02:24.748Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2178,14 +2190,20 @@
     },
     "8602402800": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSK59JRK-9CA3",
           "at": "2026-08-08T09:02:09.530Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-08T09:02:24.750Z"
         }
       ]
     }
