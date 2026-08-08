@@ -1795,6 +1795,12 @@
   ],
   "pendingNumbers": [],
   "numberLimits": {
+    "1539901407": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
     "8043169731": {
       "limit": 0,
       "used": 0,
@@ -1814,10 +1820,17 @@
       "history": []
     },
     "8167686814": {
-      "limit": 0,
+      "limit": 15,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 15,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 15,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T06:44:01.029Z"
+        }
+      ]
     },
     "8311655220": {
       "limit": 0,
