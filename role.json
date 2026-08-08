@@ -1807,19 +1807,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786181115889-7cca716a",
-      "nomor": "6285857891848",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T09:25:15.889Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
