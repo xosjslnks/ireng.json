@@ -2370,15 +2370,16 @@
       "expiresAt": "2026-08-08T11:55:54.528Z",
       "autoCancelAt": "2026-08-08T11:50:54.528Z",
       "chatId": -1003596848958,
-      "createdAt": "2026-08-08T11:45:55.796Z"
+      "createdAt": "2026-08-08T11:45:55.796Z",
+      "lastCheckedAt": "2026-08-08T11:46:02.306Z"
     }
   ],
   "pakasirUsage": {
     "2026-08-08": {
-      "total": 55,
+      "total": 56,
       "endpoints": {
         "/pakasir/transactioncreate": 9,
-        "/pakasir/transactiondetail": 45,
+        "/pakasir/transactiondetail": 46,
         "/pakasir/transactioncancel": 1
       }
     }
