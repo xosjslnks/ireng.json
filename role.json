@@ -1791,10 +1791,17 @@
       "history": []
     },
     "7906329645": {
-      "limit": 0,
+      "limit": 8,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 8,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 8,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T04:59:50.292Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [],
