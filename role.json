@@ -1804,9 +1804,9 @@
       ]
     },
     "7534088692": {
-      "limit": 1015,
+      "limit": 5,
       "used": 0,
-      "remaining": 1015,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -1819,6 +1819,12 @@
           "qty": 1010,
           "note": "OWNER_ADD",
           "at": "2026-08-08T05:01:14.552Z"
+        },
+        {
+          "type": "SET",
+          "qty": 5,
+          "note": "OWNER_SET",
+          "at": "2026-08-08T05:01:36.407Z"
         }
       ]
     },
