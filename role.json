@@ -2025,33 +2025,7 @@
     }
   },
   "linkgb": {
-    "pending": [
-      {
-        "id": "lg-msjytpsb-2da87d",
-        "targetUsername": "mazznjoll",
-        "targetUserId": null,
-        "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-08-08T06:06:06.251Z",
-        "requestedBy": {
-          "id": 8788855625,
-          "name": "Support Monzo Banking Service",
-          "username": "Official_Monzo_SupportService089",
-          "role": "partner"
-        },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": null,
-        "reviewChatId": null,
-        "reviewMessageId": null,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
-        "createdAt": "2026-08-08T06:01:06.657Z",
-        "approvedBy": null,
-        "approvedAt": null
-      }
-    ],
+    "pending": [],
     "active": [],
     "history": [
       {
@@ -2070,6 +2044,20 @@
         },
         "cancelledAt": "2026-08-08T06:00:44.839Z",
         "createdAt": "2026-08-08T05:57:41.889Z"
+      },
+      {
+        "id": "lg-msjytpsb-2da87d",
+        "targetUsername": "mazznjoll",
+        "targetUserId": null,
+        "requestedBy": {
+          "id": 8788855625,
+          "name": "Support Monzo Banking Service",
+          "username": "Official_Monzo_SupportService089",
+          "role": "partner"
+        },
+        "status": "proof_timeout",
+        "cancelledAt": "2026-08-08T06:06:40.169Z",
+        "createdAt": "2026-08-08T06:01:06.657Z"
       }
     ],
     "expireMinutes": 10,
