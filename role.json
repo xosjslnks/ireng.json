@@ -1670,5 +1670,12 @@
   "pendingNumbers": [],
   "numberLimits": {},
   "buylimitInvoices": [],
-  "pakasirUsage": {}
+  "pakasirUsage": {},
+  "linkgb": {
+    "pending": [],
+    "active": [],
+    "history": [],
+    "expireMinutes": 10,
+    "reviewGroupId": -1818822
+  }
 }
