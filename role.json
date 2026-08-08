@@ -28,7 +28,7 @@
       "id": 8492332284,
       "name": "𝘹𝙊𝙗𝙀",
       "username": "xobedevelopment2",
-      "chatId": -1003596848958
+      "chatId": -5591850551
     },
     {
       "id": 8272410627,
@@ -699,6 +699,9 @@
     ],
     "-1003320005121": [
       6821406318
+    ],
+    "-5591850551": [
+      8492332284
     ]
   },
   "partner": [
@@ -717,6 +720,12 @@
       "title": "𝐌𝐔𝐑𝐁𝐔𝐆 𝐁𝐘 𝐈𝐊𝐘𝐘 ☠️",
       "username": "-",
       "type": "supergroup"
+    },
+    {
+      "id": -5591850551,
+      "title": "ACC BUYER SCRIPT JPM XOBE NEW ERA",
+      "username": "-",
+      "type": "group"
     }
   ],
   "delauto": {
@@ -1775,6 +1784,13 @@
       "username": "-",
       "type": "supergroup",
       "addedAt": "2026-05-21T04:48:00.262Z"
+    },
+    {
+      "id": -5591850551,
+      "title": "ACC BUYER SCRIPT JPM XOBE NEW ERA",
+      "username": "-",
+      "type": "group",
+      "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
   "pendingNumbers": [],
@@ -2025,7 +2041,7 @@
         },
         "chatId": -1003596848958,
         "promptMessageId": null,
-        "proofMessageId": null,
+        "proofMessageId": 36380,
         "reviewChatId": null,
         "reviewMessageId": null,
         "status": "pending",
