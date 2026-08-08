@@ -1747,30 +1747,7 @@
       "addedAt": "2026-05-21T04:48:00.262Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786165470929-93c731cf",
-      "nomor": "6285113180291",
-      "requestedBy": {
-        "id": 7906329645,
-        "name": "TICO",
-        "username": "XxnxXxcx"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T05:04:30.929Z"
-    },
-    {
-      "id": "1786165514670-82eb8436",
-      "nomor": "6283121441659",
-      "requestedBy": {
-        "id": 7906329645,
-        "name": "TICO",
-        "username": "XxnxXxcx"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T05:05:14.671Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "8043169731": {
       "limit": 0,
