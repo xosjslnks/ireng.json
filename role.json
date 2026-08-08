@@ -1804,10 +1804,17 @@
       ]
     },
     "7534088692": {
-      "limit": 0,
+      "limit": 5,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T05:00:51.966Z"
+        }
+      ]
     },
     "8788855625": {
       "limit": 32,
