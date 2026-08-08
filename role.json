@@ -2107,34 +2107,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-msjzbxgw-8a9a81",
         "targetUsername": "mazznjoll",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-08-08T06:20:16.016Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+8_TL4SVnSS5jN2Y1",
+        "messageId": 36533,
+        "createdBy": {
           "id": 8788855625,
           "name": "Support Monzo Banking Service",
           "username": "Official_Monzo_SupportService089",
           "role": "partner"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 36417,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 661,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2"
+        },
         "createdAt": "2026-08-08T06:15:16.407Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-08-08T06:59:47.464Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
