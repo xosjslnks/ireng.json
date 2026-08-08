@@ -611,6 +611,12 @@
       "name": "Rose",
       "username": "MissRose_bot",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8602402800,
+      "name": "Mazz",
+      "username": "mazznjoll",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -695,7 +701,8 @@
       8272410627,
       7815231950,
       8473203086,
-      609517172
+      609517172,
+      8602402800
     ],
     "-1003320005121": [
       6821406318
@@ -2112,7 +2119,7 @@
       {
         "id": "lg-msjzbxgw-8a9a81",
         "targetUsername": "mazznjoll",
-        "targetUserId": null,
+        "targetUserId": 8602402800,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+8_TL4SVnSS5jN2Y1",
@@ -2130,7 +2137,9 @@
         },
         "createdAt": "2026-08-08T06:15:16.407Z",
         "approvedAt": "2026-08-08T06:59:47.464Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-08T07:00:14.301Z",
+        "joinedByName": "Mazz"
       }
     ],
     "history": [
