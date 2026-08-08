@@ -1925,10 +1925,17 @@
       ]
     },
     "8259824445": {
-      "limit": 0,
+      "limit": 9,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 9,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 9,
+          "note": "OWNER_ADD",
+          "at": "2026-08-08T05:21:46.895Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
