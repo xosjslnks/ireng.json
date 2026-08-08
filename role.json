@@ -1793,19 +1793,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786171627896-1e89f1c7",
-      "nomor": "6288994546845",
-      "requestedBy": {
-        "id": 8167686814,
-        "name": "Kenzo",
-        "username": "Kenzo_aja99"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T06:47:07.896Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 0,
