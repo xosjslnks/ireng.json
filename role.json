@@ -719,9 +719,30 @@
     }
   ],
   "delauto": {
-    "active": false,
+    "active": true,
     "lastRunDate": "2026-06-13",
     "logs": [
+      {
+        "id": "DA-20260808-122345-01EU8",
+        "trigger": "OWNER",
+        "status": "TURN_ON",
+        "date": "2026-08-08",
+        "time": "12:23:45",
+        "scheduleTime": "00:00",
+        "nextRunAt": "2026-08-09 00:00 WIB",
+        "actorId": 8492332284,
+        "actorName": "𝘹𝙊𝙗𝙀",
+        "dbBefore": 0,
+        "dbAfter": 0,
+        "logBefore": 0,
+        "logAfter": 0,
+        "totalDB": 0,
+        "totalLog": 0,
+        "durationMs": 0,
+        "attempt": 1,
+        "message": "DELAUTO aktif. Jadwal berikutnya 2026-08-09 00:00 WIB",
+        "error": null
+      },
       {
         "id": "DA-20260613-141940-D2B82",
         "trigger": "OWNER",
@@ -1710,7 +1731,7 @@
         "error": null
       }
     ],
-    "nextRunDate": "2026-06-14",
+    "nextRunDate": "2026-08-09",
     "scheduleTime": "00:00",
     "timeZone": "Asia/Jakarta",
     "catchUp": true,
@@ -1718,7 +1739,7 @@
     "notifyOnZero": true,
     "maxLogs": 60,
     "lastRunAt": "2026-06-13 24:00:06 WIB",
-    "nextRunAt": "2026-06-14 00:00 WIB",
+    "nextRunAt": "2026-08-09 00:00 WIB",
     "lastErrorAt": null,
     "stats": {
       "totalRuns": 41,
