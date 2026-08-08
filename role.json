@@ -2263,15 +2263,15 @@
       "autoCancelAt": "2026-08-08T08:52:46.399Z",
       "chatId": -1003596848958,
       "createdAt": "2026-08-08T08:47:47.278Z",
-      "lastCheckedAt": "2026-08-08T08:47:54.144Z"
+      "lastCheckedAt": "2026-08-08T08:48:09.146Z"
     }
   ],
   "pakasirUsage": {
     "2026-08-08": {
-      "total": 43,
+      "total": 44,
       "endpoints": {
         "/pakasir/transactioncreate": 6,
-        "/pakasir/transactiondetail": 36,
+        "/pakasir/transactiondetail": 37,
         "/pakasir/transactioncancel": 1
       }
     }
