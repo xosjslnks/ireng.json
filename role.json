@@ -1800,19 +1800,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786172759695-d92074ca",
-      "nomor": "6283117179447",
-      "requestedBy": {
-        "id": 8259824445,
-        "name": "~jy",
-        "username": "cenexe123"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-08T07:05:59.695Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
