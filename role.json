@@ -1843,41 +1843,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786236511363-6ee11b54",
-      "nomor": "6285607212681",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T00:48:31.363Z"
-    },
-    {
-      "id": "1786236702495-51a5fc76",
-      "nomor": "6283162075176",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T00:51:42.495Z"
-    },
-    {
-      "id": "1786236710877-5a25a12d",
-      "nomor": "6285142262671",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T00:51:50.877Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
