@@ -1900,30 +1900,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786297207718-5b6560fc",
-      "nomor": "380970280352",
-      "requestedBy": {
-        "id": 8408113812,
-        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-        "username": "SaifSTBX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T17:40:07.718Z"
-    },
-    {
-      "id": "1786297241241-3f8b7321",
-      "nomor": "380968902630",
-      "requestedBy": {
-        "id": 8408113812,
-        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-        "username": "SaifSTBX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T17:40:41.241Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
