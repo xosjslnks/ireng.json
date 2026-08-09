@@ -643,6 +643,12 @@
       "name": "REYZZ",
       "username": "ReyzzVeinhard",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8781773557,
+      "name": "DANZ•FRX",
+      "username": "DANZFRX",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -732,7 +738,8 @@
       7975136339,
       1848342025,
       1914866836,
-      8291830357
+      8291830357,
+      8781773557
     ],
     "-1003320005121": [
       6821406318
@@ -2839,7 +2846,7 @@
       {
         "id": "lg-mslt0geh-8a9254",
         "targetUsername": "danzfrx",
-        "targetUserId": null,
+        "targetUserId": 8781773557,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+foejcMSsxANjYjFl",
@@ -2857,7 +2864,9 @@
         },
         "createdAt": "2026-08-09T12:53:55.693Z",
         "approvedAt": "2026-08-09T13:03:53.692Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-09T13:06:07.890Z",
+        "joinedByName": "DANZ•FRX"
       }
     ],
     "history": [
