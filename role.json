@@ -1843,7 +1843,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786235024696-4c2519fb",
+      "nomor": "6288215428220",
+      "requestedBy": {
+        "id": 7358111125,
+        "name": "𝙕𝙀𝙉𝙄𝙏𝙃",
+        "username": "Zenith_009"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-09T00:23:44.696Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2308,14 +2320,20 @@
     },
     "7358111125": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSL26JUB-002D",
           "at": "2026-08-09T00:23:35.677Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-09T00:23:44.698Z"
         }
       ]
     }
