@@ -1879,19 +1879,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786283111012-cf57b021",
-      "nomor": "628816936245",
-      "requestedBy": {
-        "id": 8216521037,
-        "name": "Ken",
-        "username": "Kenkai19"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T13:45:11.016Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
