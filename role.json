@@ -1872,7 +1872,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786269187629-b600aa68",
+      "nomor": "6283829471735",
+      "requestedBy": {
+        "id": 8473203086,
+        "name": "anorth",
+        "username": "Anorth12"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-09T09:53:07.629Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2417,8 +2429,8 @@
     },
     "8473203086": {
       "limit": 17,
-      "used": 1,
-      "remaining": 16,
+      "used": 2,
+      "remaining": 15,
       "history": [
         {
           "type": "ADD",
@@ -2437,6 +2449,12 @@
           "qty": 7,
           "note": "OWNER_ADD",
           "at": "2026-08-08T06:54:29.008Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-09T09:53:07.631Z"
         }
       ]
     },
