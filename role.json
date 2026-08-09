@@ -1872,30 +1872,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786252102995-94251ae0",
-      "nomor": "6285182542348",
-      "requestedBy": {
-        "id": 8259824445,
-        "name": "~jy",
-        "username": "cenexe123"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T05:08:22.995Z"
-    },
-    {
-      "id": "1786256048544-74ff3d87",
-      "nomor": "249100136432",
-      "requestedBy": {
-        "id": 8602402800,
-        "name": "Mazz",
-        "username": "mazznjoll"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-09T06:14:08.544Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2283,8 +2260,8 @@
     },
     "8259824445": {
       "limit": 9,
-      "used": 5,
-      "remaining": 4,
+      "used": 4,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -2417,6 +2394,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-09T05:08:22.999Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-09T06:17:57.260Z"
         }
       ]
     },
