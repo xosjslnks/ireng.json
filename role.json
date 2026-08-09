@@ -774,8 +774,29 @@
   ],
   "delauto": {
     "active": true,
-    "lastRunDate": "2026-08-09",
+    "lastRunDate": "2026-08-10",
     "logs": [
+      {
+        "id": "DA-20260810-240008-O2X09",
+        "trigger": "AUTO_CATCHUP",
+        "status": "AUTO_CATCHUP",
+        "date": "2026-08-10",
+        "time": "24:00:08",
+        "scheduleTime": "00:00",
+        "nextRunAt": "2026-08-11 00:00 WIB",
+        "actorId": null,
+        "actorName": "-",
+        "dbBefore": 23,
+        "dbAfter": 0,
+        "logBefore": 23,
+        "logAfter": 0,
+        "totalDB": 23,
+        "totalLog": 23,
+        "durationMs": 743,
+        "attempt": 1,
+        "message": "Auto delete susulan karena bot sempat kelewat jadwal",
+        "error": null
+      },
       {
         "id": "DA-20260809-114459-OYUQI",
         "trigger": "OWNER",
@@ -1827,23 +1848,23 @@
         "error": null
       }
     ],
-    "nextRunDate": "2026-08-10",
+    "nextRunDate": "2026-08-11",
     "scheduleTime": "00:00",
     "timeZone": "Asia/Jakarta",
     "catchUp": true,
     "notifyOwner": true,
     "notifyOnZero": true,
     "maxLogs": 60,
-    "lastRunAt": "2026-08-09 24:00:07 WIB",
-    "nextRunAt": "2026-08-10 00:00 WIB",
+    "lastRunAt": "2026-08-10 24:00:08 WIB",
+    "nextRunAt": "2026-08-11 00:00 WIB",
     "lastErrorAt": null,
     "stats": {
-      "totalRuns": 42,
-      "totalSuccess": 42,
+      "totalRuns": 43,
+      "totalSuccess": 43,
       "totalFailed": 0,
-      "totalDBDeleted": 732,
-      "totalLogDeleted": 732,
-      "lastDurationMs": 713
+      "totalDBDeleted": 755,
+      "totalLogDeleted": 755,
+      "lastDurationMs": 743
     }
   },
   "resellerExpires": {},
