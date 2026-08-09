@@ -2524,14 +2524,20 @@
     },
     "8727150917": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "BUYLIMIT BL-MSLF0GQM-B17A",
           "at": "2026-08-09T06:22:53.309Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-09T06:23:17.762Z"
         }
       ]
     }
