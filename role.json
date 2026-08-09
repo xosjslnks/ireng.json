@@ -1876,8 +1876,8 @@
   "numberLimits": {
     "1539901407": {
       "limit": 53,
-      "used": 4,
-      "remaining": 49,
+      "used": 5,
+      "remaining": 48,
       "history": [
         {
           "type": "ADD",
@@ -1908,6 +1908,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-08T23:20:55.369Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-09T09:36:02.957Z"
         }
       ]
     },
