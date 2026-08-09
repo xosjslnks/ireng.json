@@ -1883,6 +1883,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-09T09:53:07.629Z"
+    },
+    {
+      "id": "1786269453362-63dfe68f",
+      "nomor": "6283872623070",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-09T09:57:33.362Z"
     }
   ],
   "numberLimits": {
@@ -2037,8 +2048,8 @@
     },
     "8311655220": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 7,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -2081,6 +2092,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-09T00:48:31.364Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-09T09:57:33.364Z"
         }
       ]
     },
