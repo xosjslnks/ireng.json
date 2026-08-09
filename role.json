@@ -769,6 +769,27 @@
     "lastRunDate": "2026-08-09",
     "logs": [
       {
+        "id": "DA-20260809-114459-OYUQI",
+        "trigger": "OWNER",
+        "status": "TURN_ON",
+        "date": "2026-08-09",
+        "time": "11:44:59",
+        "scheduleTime": "00:00",
+        "nextRunAt": "2026-08-10 00:00 WIB",
+        "actorId": 8492332284,
+        "actorName": "𝘹𝙊𝙗𝙀",
+        "dbBefore": 0,
+        "dbAfter": 0,
+        "logBefore": 0,
+        "logAfter": 0,
+        "totalDB": 0,
+        "totalLog": 0,
+        "durationMs": 0,
+        "attempt": 1,
+        "message": "DELAUTO aktif. Jadwal berikutnya 2026-08-10 00:00 WIB",
+        "error": null
+      },
+      {
         "id": "DA-20260809-240007-HHARY",
         "trigger": "AUTO_CATCHUP",
         "status": "AUTO_CATCHUP",
