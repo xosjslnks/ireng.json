@@ -1907,19 +1907,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786367636011-52a2f51a",
-      "nomor": "6283176750704",
-      "requestedBy": {
-        "id": 8602402800,
-        "name": "Mazz",
-        "username": "mazznjoll"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-10T13:13:56.011Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
