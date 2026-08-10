@@ -1900,19 +1900,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786356928558-3af3483a",
-      "nomor": "628816936245",
-      "requestedBy": {
-        "id": 8216521037,
-        "name": "Ken",
-        "username": "Kenkai19"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-10T10:15:28.558Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
