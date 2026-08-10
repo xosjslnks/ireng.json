@@ -652,9 +652,9 @@
     },
     {
       "id": 7740005605,
-      "name": "Mugen",
-      "username": "Mugennih",
-      "chatId": 7740005605
+      "name": "PutraGTG",
+      "username": "official_putragtg",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -745,7 +745,8 @@
       1848342025,
       1914866836,
       8291830357,
-      8781773557
+      8781773557,
+      7740005605
     ],
     "-1003320005121": [
       6821406318
@@ -3043,7 +3044,9 @@
         },
         "createdAt": "2026-08-10T11:35:24.905Z",
         "approvedAt": "2026-08-10T12:05:33.158Z",
-        "consumed": false
+        "consumed": true,
+        "wrongJoin": true,
+        "consumedAt": "2026-08-10T12:08:01.503Z"
       }
     ],
     "history": [
