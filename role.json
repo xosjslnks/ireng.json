@@ -1907,7 +1907,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786368034835-9da8b836",
+      "nomor": "6285134839520",
+      "requestedBy": {
+        "id": 8033287036,
+        "name": "icha",
+        "username": "icha156"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-10T13:20:34.835Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2610,8 +2622,8 @@
     },
     "8033287036": {
       "limit": 10,
-      "used": 2,
-      "remaining": 8,
+      "used": 3,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -2630,6 +2642,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-10T12:06:08.072Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-10T13:20:34.837Z"
         }
       ]
     },
