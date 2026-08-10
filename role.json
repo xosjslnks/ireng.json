@@ -1900,7 +1900,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786350088726-9abad34c",
+      "nomor": "6283190210916",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "Traalynx [𝑭𝑳]",
+        "username": "CeoLynxiee"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-10T08:21:28.726Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2542,8 +2554,8 @@
     },
     "7975136339": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -2556,6 +2568,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-08T08:07:48.951Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-10T08:21:28.728Z"
         }
       ]
     },
