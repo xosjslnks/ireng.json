@@ -1911,6 +1911,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-10T04:53:27.967Z"
+    },
+    {
+      "id": "1786338237593-44b50b8d",
+      "nomor": "6283847059098",
+      "requestedBy": {
+        "id": 8810880838,
+        "name": "RICC",
+        "username": "AudricStore"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-10T05:03:57.593Z"
     }
   ],
   "numberLimits": {
@@ -2150,8 +2161,8 @@
     },
     "8810880838": {
       "limit": 20,
-      "used": 6,
-      "remaining": 14,
+      "used": 7,
+      "remaining": 13,
       "history": [
         {
           "type": "ADD",
@@ -2194,6 +2205,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-09T01:20:34.578Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-10T05:03:57.595Z"
         }
       ]
     },
