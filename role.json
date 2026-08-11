@@ -1935,30 +1935,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786427300760-21f4d192",
-      "nomor": "6283142722846",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-11T05:48:20.760Z"
-    },
-    {
-      "id": "1786427391379-cebdbd2e",
-      "nomor": "380970280352",
-      "requestedBy": {
-        "id": 8408113812,
-        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-        "username": "SaifSTBX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-11T05:49:51.379Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
