@@ -3184,7 +3184,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-msonkyhf-8dc681",
+        "targetUsername": "putragtg_official",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-08-11T12:50:12.716Z",
+        "requestedBy": {
+          "id": 8788855625,
+          "name": "Support Monzo Banking Service",
+          "username": "Official_Monzo_SupportService089",
+          "role": "partner"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-08-11T12:45:13.054Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
