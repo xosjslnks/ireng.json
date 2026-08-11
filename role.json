@@ -2387,8 +2387,8 @@
     },
     "8788855625": {
       "limit": 32,
-      "used": 7,
-      "remaining": 25,
+      "used": 8,
+      "remaining": 24,
       "history": [
         {
           "type": "ADD",
@@ -2437,6 +2437,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-11T02:44:23.518Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-11T04:21:01.374Z"
         }
       ]
     },
@@ -3137,46 +3143,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mso414ml-246d6e",
-        "targetUsername": "xobedev2",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+_P_EfLmDu-QyOWNl",
-        "messageId": 38759,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-11T03:37:55.371Z",
-        "consumed": true,
-        "wrongJoin": true,
-        "consumedAt": "2026-08-11T03:42:10.706Z"
-      },
-      {
-        "id": "lg-mso45wfg-06cd93",
-        "targetUsername": "raflyonly",
-        "targetUserId": 7300484448,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+IiInKLEB6sxiZTg1",
-        "messageId": 38761,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-11T03:41:38.372Z",
-        "consumed": true,
-        "consumedAt": "2026-08-11T03:42:09.733Z",
-        "joinedByName": "RaflyHosting"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
