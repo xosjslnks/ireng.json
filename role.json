@@ -1928,7 +1928,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786408166566-683a7bd9",
+      "nomor": "6283847059098",
+      "requestedBy": {
+        "id": 8810880838,
+        "name": "RICC",
+        "username": "AudricStore"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-11T00:29:26.566Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2190,8 +2202,8 @@
     },
     "8810880838": {
       "limit": 20,
-      "used": 9,
-      "remaining": 11,
+      "used": 10,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -2252,6 +2264,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-11T00:29:16.043Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-11T00:29:26.568Z"
         }
       ]
     },
