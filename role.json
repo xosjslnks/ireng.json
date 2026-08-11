@@ -1981,6 +1981,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-11T15:16:50.966Z"
+    },
+    {
+      "id": "1786470019673-cc4ba76b",
+      "nomor": "6285746346043",
+      "requestedBy": {
+        "id": 7603975922,
+        "name": "yonkou",
+        "username": "YonkouNofake"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-11T17:40:19.673Z"
     }
   ],
   "numberLimits": {
@@ -2930,14 +2941,20 @@
     },
     "7603975922": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSOY2E1L-6801",
           "at": "2026-08-11T17:40:13.634Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-11T17:40:19.675Z"
         }
       ]
     }
