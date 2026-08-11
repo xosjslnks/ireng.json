@@ -1935,19 +1935,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786431624179-151dd1cb",
-      "nomor": "6283190210916",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "Traalynx [𝑭𝑳]",
-        "username": "CeoLynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-11T07:00:24.179Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
