@@ -1946,6 +1946,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-11T09:04:51.490Z"
+    },
+    {
+      "id": "1786446510293-40a1f9cb",
+      "nomor": "380968903038",
+      "requestedBy": {
+        "id": 8408113812,
+        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+        "username": "SaifSTBX"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-11T11:08:30.294Z"
     }
   ],
   "numberLimits": {
@@ -2055,8 +2066,8 @@
     },
     "8408113812": {
       "limit": 20,
-      "used": 6,
-      "remaining": 14,
+      "used": 7,
+      "remaining": 13,
       "history": [
         {
           "type": "ADD",
@@ -2099,6 +2110,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-11T05:49:51.381Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-11T11:08:30.309Z"
         }
       ]
     },
