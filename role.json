@@ -655,6 +655,12 @@
       "name": "PutraGTG",
       "username": "official_putragtg",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7300484448,
+      "name": "RaflyHosting",
+      "username": "RaflyOnly",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -746,7 +752,8 @@
       1914866836,
       8291830357,
       8781773557,
-      7740005605
+      7740005605,
+      7300484448
     ],
     "-1003320005121": [
       6821406318
@@ -3146,12 +3153,14 @@
           "role": "owner"
         },
         "createdAt": "2026-08-11T03:37:55.371Z",
-        "consumed": false
+        "consumed": true,
+        "wrongJoin": true,
+        "consumedAt": "2026-08-11T03:42:10.706Z"
       },
       {
         "id": "lg-mso45wfg-06cd93",
         "targetUsername": "raflyonly",
-        "targetUserId": null,
+        "targetUserId": 7300484448,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+IiInKLEB6sxiZTg1",
@@ -3163,7 +3172,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-11T03:41:38.372Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-11T03:42:09.733Z",
+        "joinedByName": "RaflyHosting"
       }
     ],
     "history": [
