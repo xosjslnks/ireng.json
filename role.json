@@ -3147,6 +3147,23 @@
         },
         "createdAt": "2026-08-11T03:37:55.371Z",
         "consumed": false
+      },
+      {
+        "id": "lg-mso45wfg-06cd93",
+        "targetUsername": "raflyonly",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+IiInKLEB6sxiZTg1",
+        "messageId": 38761,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-11T03:41:38.372Z",
+        "consumed": false
       }
     ],
     "history": [
