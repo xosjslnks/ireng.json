@@ -3123,6 +3123,23 @@
         "createdAt": "2026-08-11T01:09:18.973Z",
         "approvedAt": "2026-08-11T01:09:41.540Z",
         "consumed": false
+      },
+      {
+        "id": "lg-msnyuwwk-70508a",
+        "targetUsername": "xobedev2",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+ry59W-UXfKhjOTc1",
+        "messageId": 38677,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-11T01:13:07.323Z",
+        "consumed": false
       }
     ],
     "history": [
