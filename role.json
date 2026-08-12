@@ -654,7 +654,7 @@
       "id": 7740005605,
       "name": "PutraGTG",
       "username": "putragtg_official",
-      "chatId": -1003596848958
+      "chatId": 7740005605
     },
     {
       "id": 7300484448,
@@ -2994,6 +2994,12 @@
           "at": "2026-08-11T17:40:19.675Z"
         }
       ]
+    },
+    "7740005605": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
