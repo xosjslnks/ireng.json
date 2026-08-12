@@ -1977,7 +1977,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786542074829-34d5810c",
+      "nomor": "6285119103942",
+      "requestedBy": {
+        "id": 7885282711,
+        "name": "sidd",
+        "username": "sidzyyyy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-12T13:41:14.830Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -3029,14 +3041,20 @@
     },
     "7885282711": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSQ4X871-F512",
           "at": "2026-08-12T13:39:13.231Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-12T13:41:14.833Z"
         }
       ]
     }
