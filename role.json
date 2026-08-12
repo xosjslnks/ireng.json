@@ -1998,7 +1998,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786554014235-0c17076c",
+      "nomor": "6285704169297",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-12T17:00:14.235Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2271,8 +2283,8 @@
     },
     "8311655220": {
       "limit": 20,
-      "used": 10,
-      "remaining": 10,
+      "used": 11,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -2345,6 +2357,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MSQC1BYN-544E",
           "at": "2026-08-12T16:59:40.782Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-12T17:00:14.237Z"
         }
       ]
     },
