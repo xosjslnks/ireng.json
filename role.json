@@ -359,7 +359,7 @@
     {
       "id": 8176661274,
       "name": "Gonz",
-      "username": "GonzKecew",
+      "username": "Gonzakhasi",
       "chatId": -1003596848958
     },
     {
@@ -3107,6 +3107,12 @@
           "at": "2026-08-12T13:41:14.833Z"
         }
       ]
+    },
+    "8176661274": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
