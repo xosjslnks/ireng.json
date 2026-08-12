@@ -2009,6 +2009,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-12T17:00:14.235Z"
+    },
+    {
+      "id": "1786556265046-e438e0c8",
+      "nomor": "249125730165",
+      "requestedBy": {
+        "id": 8602402800,
+        "name": "Mazz",
+        "username": "mazznjoll"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-12T17:37:45.047Z"
     }
   ],
   "numberLimits": {
@@ -2912,8 +2923,8 @@
     },
     "8602402800": {
       "limit": 10,
-      "used": 5,
-      "remaining": 5,
+      "used": 6,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -2950,6 +2961,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-11T02:44:38.953Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-12T17:37:45.049Z"
         }
       ]
     },
