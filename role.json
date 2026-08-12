@@ -673,6 +673,12 @@
       "name": "yonkou",
       "username": "YonkouNofake",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7885282711,
+      "name": "sidd",
+      "username": "sidzyyyy",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -767,7 +773,8 @@
       7740005605,
       7300484448,
       7722924555,
-      7603975922
+      7603975922,
+      7885282711
     ],
     "-1003320005121": [
       6821406318
@@ -3405,7 +3412,7 @@
       {
         "id": "lg-msq4gvoo-9e1618",
         "targetUsername": "sidzyyyy",
-        "targetUserId": null,
+        "targetUserId": 7885282711,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+oL-3stkwIQE0NmFl",
@@ -3423,7 +3430,9 @@
         },
         "createdAt": "2026-08-12T13:25:42.455Z",
         "approvedAt": "2026-08-12T13:26:18.519Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-12T13:29:06.083Z",
+        "joinedByName": "sidd"
       }
     ],
     "history": [
