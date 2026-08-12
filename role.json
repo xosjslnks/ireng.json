@@ -2395,8 +2395,8 @@
     },
     "7815231950": {
       "limit": 10,
-      "used": 2,
-      "remaining": 8,
+      "used": 3,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -2427,6 +2427,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-08-08T05:16:02.453Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-12T10:52:37.683Z"
         }
       ]
     },
@@ -3345,33 +3351,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mspy3ans-d8dd10",
-        "targetUsername": "putragtg_official",
-        "targetUserId": 7740005605,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+Zl_ACs83vK81OWZl",
-        "messageId": 39179,
-        "createdBy": {
-          "id": 8788855625,
-          "name": "Support Monzo Banking Service",
-          "username": "Official_Monzo_SupportService089",
-          "role": "partner"
-        },
-        "approvedBy": {
-          "id": 1881875530,
-          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-          "username": "ChoujiShop"
-        },
-        "createdAt": "2026-08-12T10:27:10.994Z",
-        "approvedAt": "2026-08-12T10:39:01.802Z",
-        "consumed": true,
-        "consumedAt": "2026-08-12T10:39:16.918Z",
-        "joinedByName": "PutraGTG"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
