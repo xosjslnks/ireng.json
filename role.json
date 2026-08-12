@@ -3512,7 +3512,7 @@
       "autoCancelAt": "2026-08-12T22:28:23.169Z",
       "chatId": -1003596848958,
       "createdAt": "2026-08-12T22:23:24.239Z",
-      "lastCheckedAt": "2026-08-12T22:25:29.375Z"
+      "lastCheckedAt": "2026-08-12T22:25:44.381Z"
     }
   ],
   "pakasirUsage": {
@@ -3549,10 +3549,10 @@
       }
     },
     "2026-08-13": {
-      "total": 10,
+      "total": 11,
       "endpoints": {
         "/pakasir/transactioncreate": 1,
-        "/pakasir/transactiondetail": 9
+        "/pakasir/transactiondetail": 10
       }
     }
   },
