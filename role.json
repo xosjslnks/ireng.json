@@ -653,7 +653,7 @@
     {
       "id": 7740005605,
       "name": "PutraGTG",
-      "username": "official_putragtg",
+      "username": "putragtg_official",
       "chatId": -1003596848958
     },
     {
@@ -3349,7 +3349,7 @@
       {
         "id": "lg-mspy3ans-d8dd10",
         "targetUsername": "putragtg_official",
-        "targetUserId": null,
+        "targetUserId": 7740005605,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+Zl_ACs83vK81OWZl",
@@ -3367,7 +3367,9 @@
         },
         "createdAt": "2026-08-12T10:27:10.994Z",
         "approvedAt": "2026-08-12T10:39:01.802Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-12T10:39:16.918Z",
+        "joinedByName": "PutraGTG"
       }
     ],
     "history": [
