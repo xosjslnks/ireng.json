@@ -3344,34 +3344,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mspy3ans-d8dd10",
         "targetUsername": "putragtg_official",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-08-12T10:32:10.648Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+Zl_ACs83vK81OWZl",
+        "messageId": 39179,
+        "createdBy": {
           "id": 8788855625,
           "name": "Support Monzo Banking Service",
           "username": "Official_Monzo_SupportService089",
           "role": "partner"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 39162,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 753,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 1881875530,
+          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+          "username": "ChoujiShop"
+        },
         "createdAt": "2026-08-12T10:27:10.994Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-08-12T10:39:01.802Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
