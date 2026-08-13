@@ -3159,8 +3159,8 @@
     },
     "7740005605": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -3173,6 +3173,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-12T12:29:37.056Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-13T14:41:51.014Z"
         }
       ]
     },
