@@ -2033,19 +2033,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786641096217-1534d386",
-      "nomor": "6281772391934",
-      "requestedBy": {
-        "id": 7740005605,
-        "name": "PutraGTG",
-        "username": "putragtg_official"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T17:11:36.217Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
