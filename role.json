@@ -1998,7 +1998,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786604007116-c56c6f9a",
+      "nomor": "6283840011019",
+      "requestedBy": {
+        "id": 8176661274,
+        "name": "Gonz",
+        "username": "Gonzakhasi"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-13T06:53:27.116Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -3135,14 +3147,20 @@
     },
     "8176661274": {
       "limit": 15,
-      "used": 0,
-      "remaining": 15,
+      "used": 1,
+      "remaining": 14,
       "history": [
         {
           "type": "ADD",
           "qty": 15,
           "note": "BUYLIMIT BL-MSR5T837-3634",
           "at": "2026-08-13T06:52:18.035Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-13T06:53:27.119Z"
         }
       ]
     }
