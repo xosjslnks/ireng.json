@@ -1998,41 +1998,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786604007116-c56c6f9a",
-      "nomor": "6283840011019",
-      "requestedBy": {
-        "id": 8176661274,
-        "name": "Gonz",
-        "username": "Gonzakhasi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T06:53:27.116Z"
-    },
-    {
-      "id": "1786604775961-0d998e9a",
-      "nomor": "6285834326563",
-      "requestedBy": {
-        "id": 8408113812,
-        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-        "username": "SaifSTBX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T07:06:15.961Z"
-    },
-    {
-      "id": "1786604920999-d66e45ac",
-      "nomor": "22871320994",
-      "requestedBy": {
-        "id": 8408113812,
-        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-        "username": "SaifSTBX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T07:08:40.999Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
