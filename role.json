@@ -2053,6 +2053,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-13T00:28:23.901Z"
+    },
+    {
+      "id": "1786581677686-d63ad72d",
+      "nomor": "6285147813281",
+      "requestedBy": {
+        "id": 8259824445,
+        "name": "~jy",
+        "username": "cenexe123"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-13T00:41:17.686Z"
     }
   ],
   "numberLimits": {
@@ -2712,8 +2723,8 @@
     },
     "8259824445": {
       "limit": 9,
-      "used": 6,
-      "remaining": 3,
+      "used": 7,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -2864,6 +2875,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-10T10:54:52.744Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-13T00:41:17.689Z"
         }
       ]
     },
