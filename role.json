@@ -1998,74 +1998,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786554014235-0c17076c",
-      "nomor": "6285704169297",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-12T17:00:14.235Z"
-    },
-    {
-      "id": "1786556265046-e438e0c8",
-      "nomor": "249125730165",
-      "requestedBy": {
-        "id": 8602402800,
-        "name": "Mazz",
-        "username": "mazznjoll"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-12T17:37:45.047Z"
-    },
-    {
-      "id": "1786580129558-0ee334fc",
-      "nomor": "6283847059098",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T00:15:29.558Z"
-    },
-    {
-      "id": "1786580137419-f6492e53",
-      "nomor": "6283843172277",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T00:15:37.419Z"
-    },
-    {
-      "id": "1786580903901-8906c1f2",
-      "nomor": "6285124189929",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T00:28:23.901Z"
-    },
-    {
-      "id": "1786581677686-d63ad72d",
-      "nomor": "6285147813281",
-      "requestedBy": {
-        "id": 8259824445,
-        "name": "~jy",
-        "username": "cenexe123"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-13T00:41:17.686Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
