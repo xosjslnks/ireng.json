@@ -2033,19 +2033,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786696565723-80e9fce4",
-      "nomor": "6285169092972",
-      "requestedBy": {
-        "id": 7714079976,
-        "name": "⏤͟͟͞͞𝑵𝑶𝑽𝑨 ϟ 𝐂𝐑𝐀𝐙𝐘 ✧",
-        "username": "NovaCrazy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T08:36:05.724Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
