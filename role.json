@@ -2054,19 +2054,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786727771790-5bffcd10",
-      "nomor": "6283848087387",
-      "requestedBy": {
-        "id": 8473203086,
-        "name": "anorth",
-        "username": "Anorth12"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T17:16:11.790Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
