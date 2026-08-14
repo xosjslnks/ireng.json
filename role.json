@@ -2033,30 +2033,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786692282066-c09721cd",
-      "nomor": "6285138062367",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T07:24:42.066Z"
-    },
-    {
-      "id": "1786692625425-ee49c49c",
-      "nomor": "6287719019703",
-      "requestedBy": {
-        "id": 7740005605,
-        "name": "PutraGTG",
-        "username": "putragtg_official"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T07:30:25.426Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
