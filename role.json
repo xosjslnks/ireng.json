@@ -2033,19 +2033,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786724744925-156b92f6",
-      "nomor": "249125730165",
-      "requestedBy": {
-        "id": 8602402800,
-        "name": "Mazz",
-        "username": "mazznjoll"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T16:25:44.925Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
