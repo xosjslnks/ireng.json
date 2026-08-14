@@ -2054,7 +2054,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786736816272-ff7413a3",
+      "nomor": "6283133392190",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-14T19:46:56.272Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -2375,8 +2387,8 @@
     },
     "8311655220": {
       "limit": 20,
-      "used": 16,
-      "remaining": 4,
+      "used": 17,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -2485,6 +2497,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-14T15:40:17.332Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-14T19:46:56.275Z"
         }
       ]
     },
