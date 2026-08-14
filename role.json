@@ -2054,19 +2054,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786745244267-6d85ebf2",
-      "nomor": "6285846488284",
-      "requestedBy": {
-        "id": 8781773557,
-        "name": "DANZ•FRX",
-        "username": "DANZFRX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T22:07:24.267Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
