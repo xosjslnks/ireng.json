@@ -2033,7 +2033,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786696565723-80e9fce4",
+      "nomor": "6285169092972",
+      "requestedBy": {
+        "id": 7714079976,
+        "name": "⏤͟͟͞͞𝑵𝑶𝑽𝑨 ϟ 𝐂𝐑𝐀𝐙𝐘 ✧",
+        "username": "NovaCrazy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-14T08:36:05.724Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -3308,21 +3320,34 @@
       ]
     },
     "8198448676": {
-      "limit": 0,
+      "limit": 77,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 77,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 77,
+          "note": "OWNER_ADD",
+          "at": "2026-08-14T08:36:07.432Z"
+        }
+      ]
     },
     "7714079976": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSSOYAEE-732A",
           "at": "2026-08-14T08:35:47.911Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-14T08:36:05.726Z"
         }
       ]
     }
