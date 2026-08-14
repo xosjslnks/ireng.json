@@ -2033,41 +2033,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786674077897-835b69cb",
-      "nomor": "6285113180291",
-      "requestedBy": {
-        "id": 7906329645,
-        "name": "TICO",
-        "username": "XxnxXxcx"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T02:21:17.897Z"
-    },
-    {
-      "id": "1786674095265-21bd582c",
-      "nomor": "6285124097021",
-      "requestedBy": {
-        "id": 7906329645,
-        "name": "TICO",
-        "username": "XxnxXxcx"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T02:21:35.265Z"
-    },
-    {
-      "id": "1786674108911-4892b874",
-      "nomor": "6283121441659",
-      "requestedBy": {
-        "id": 7906329645,
-        "name": "TICO",
-        "username": "XxnxXxcx"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-14T02:21:48.911Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
