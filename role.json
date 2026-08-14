@@ -2033,7 +2033,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786711775698-da1eb984",
+      "nomor": "6285846488284",
+      "requestedBy": {
+        "id": 8781773557,
+        "name": "DANZ•FRX",
+        "username": "DANZFRX"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-14T12:49:35.698Z"
+    }
+  ],
   "numberLimits": {
     "1539901407": {
       "limit": 53,
@@ -3196,8 +3208,8 @@
     },
     "8781773557": {
       "limit": 10,
-      "used": 2,
-      "remaining": 8,
+      "used": 3,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -3216,6 +3228,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-10T05:13:42.947Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-14T12:49:35.701Z"
         }
       ]
     },
