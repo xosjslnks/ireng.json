@@ -2061,7 +2061,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786783227192-bcfd967b",
+      "nomor": "6285849182584",
+      "requestedBy": {
+        "id": 8259824445,
+        "name": "~kyy",
+        "username": "cenexe123"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-15T08:40:27.192Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2912,8 +2924,8 @@
     },
     "8259824445": {
       "limit": 9,
-      "used": 8,
-      "remaining": 1,
+      "used": 9,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -3076,6 +3088,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-15T03:03:02.898Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-15T08:40:27.199Z"
         }
       ]
     },
