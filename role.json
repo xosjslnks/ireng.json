@@ -2068,19 +2068,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786787044505-1bedfaa5",
-      "nomor": "6285746346043",
-      "requestedBy": {
-        "id": 7603975922,
-        "name": "yonkou",
-        "username": "YonkouNofake"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-15T09:44:04.505Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
