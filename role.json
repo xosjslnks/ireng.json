@@ -3365,10 +3365,17 @@
       "history": []
     },
     "7722924555": {
-      "limit": 0,
+      "limit": 10,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 10,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 10,
+          "note": "OWNER_ADD",
+          "at": "2026-08-15T09:46:15.211Z"
+        }
+      ]
     },
     "7603975922": {
       "limit": 10,
