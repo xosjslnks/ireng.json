@@ -3426,9 +3426,9 @@
       ]
     },
     "7885282711": {
-      "limit": 10,
+      "limit": 110,
       "used": 3,
-      "remaining": 7,
+      "remaining": 107,
       "history": [
         {
           "type": "ADD",
@@ -3453,6 +3453,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-15T08:20:43.640Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 100,
+          "note": "OWNER_ADD",
+          "at": "2026-08-15T09:39:03.007Z"
         }
       ]
     },
