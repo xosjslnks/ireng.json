@@ -3563,9 +3563,9 @@
       ]
     },
     "8198448676": {
-      "limit": 77,
+      "limit": 92,
       "used": 1,
-      "remaining": 76,
+      "remaining": 91,
       "history": [
         {
           "type": "ADD",
@@ -3578,6 +3578,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-14T17:41:17.828Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 15,
+          "note": "OWNER_ADD",
+          "at": "2026-08-15T13:13:54.432Z"
         }
       ]
     },
