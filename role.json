@@ -3980,7 +3980,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mstmy8fq-86a6c8",
+        "targetUsername": "zilsstorejb3",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+76I3nEvxIVVhY2Jl",
+        "messageId": 40849,
+        "createdBy": {
+          "id": 1881875530,
+          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+          "username": "ChoujiShop",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-15T00:26:23.932Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
