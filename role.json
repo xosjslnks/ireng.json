@@ -698,6 +698,12 @@
       "name": "【Z】【I】【L】【S】",
       "username": "ZILSSTOREJB3",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8475125111,
+      "name": "FIFZ",
+      "username": "fifzsturrganteng",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -795,7 +801,8 @@
       7603975922,
       7885282711,
       6368340560,
-      1064940846
+      1064940846,
+      8475125111
     ],
     "-1003320005121": [
       6821406318
@@ -4071,7 +4078,7 @@
       {
         "id": "lg-msu5an7a-889298",
         "targetUsername": "fifzsturrganteng",
-        "targetUserId": null,
+        "targetUserId": 8475125111,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+n7gw-bdAlJc1NDU1",
@@ -4083,7 +4090,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-15T08:59:55.779Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-15T09:00:09.882Z",
+        "joinedByName": "FIFZ"
       }
     ],
     "history": [
