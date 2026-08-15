@@ -2091,19 +2091,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786833219493-029fa712",
-      "nomor": "6283840011019",
-      "requestedBy": {
-        "id": 8176661274,
-        "name": "Gonz",
-        "username": "Gonzakhasi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-15T22:33:39.493Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
