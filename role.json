@@ -2070,7 +2070,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786791497723-186ea965",
+      "nomor": "6285113180291",
+      "requestedBy": {
+        "id": 7906329645,
+        "name": "TICO",
+        "username": "XxnxXxcx"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-15T10:58:17.723Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2731,8 +2743,8 @@
     },
     "7906329645": {
       "limit": 18,
-      "used": 7,
-      "remaining": 11,
+      "used": 8,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -2787,6 +2799,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MSU9FIUN-2538",
           "at": "2026-08-15T10:57:09.332Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-15T10:58:17.727Z"
         }
       ]
     },
