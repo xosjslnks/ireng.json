@@ -2061,19 +2061,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786762982895-aabf586f",
-      "nomor": "6285194030634",
-      "requestedBy": {
-        "id": 8259824445,
-        "name": "~kyy",
-        "username": "cenexe123"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-15T03:03:02.895Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
