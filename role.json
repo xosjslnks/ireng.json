@@ -2063,6 +2063,19 @@
   ],
   "pendingNumbers": [],
   "numberLimits": {
+    "3": {
+      "limit": 1064940846,
+      "used": 0,
+      "remaining": 1064940846,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 1064940846,
+          "note": "OWNER_ADD",
+          "at": "2026-08-15T00:27:49.166Z"
+        }
+      ]
+    },
     "1539901407": {
       "limit": 53,
       "used": 13,
@@ -3987,27 +4000,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mstmy8fq-86a6c8",
-        "targetUsername": "zilsstorejb3",
-        "targetUserId": 1064940846,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+76I3nEvxIVVhY2Jl",
-        "messageId": 40849,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-15T00:26:23.932Z",
-        "consumed": true,
-        "consumedAt": "2026-08-15T00:26:43.021Z",
-        "joinedByName": "【Z】【I】【L】【S】"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
