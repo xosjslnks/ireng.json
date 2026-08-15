@@ -2061,30 +2061,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786757945035-6f856c12",
-      "nomor": "6283843172277",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-15T01:39:05.035Z"
-    },
-    {
-      "id": "1786757959179-aeb2907e",
-      "nomor": "6285124189929",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-15T01:39:19.179Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
