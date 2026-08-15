@@ -692,6 +692,12 @@
       "name": "小猫~",
       "username": "Fadilaa53",
       "chatId": -1003596848958
+    },
+    {
+      "id": 1064940846,
+      "name": "【Z】【I】【L】【S】",
+      "username": "ZILSSTOREJB3",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -788,7 +794,8 @@
       7722924555,
       7603975922,
       7885282711,
-      6368340560
+      6368340560,
+      1064940846
     ],
     "-1003320005121": [
       6821406318
@@ -3984,7 +3991,7 @@
       {
         "id": "lg-mstmy8fq-86a6c8",
         "targetUsername": "zilsstorejb3",
-        "targetUserId": null,
+        "targetUserId": 1064940846,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+76I3nEvxIVVhY2Jl",
@@ -3996,7 +4003,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-15T00:26:23.932Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-15T00:26:43.021Z",
+        "joinedByName": "【Z】【I】【L】【S】"
       }
     ],
     "history": [
