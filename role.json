@@ -3544,6 +3544,19 @@
           "at": "2026-08-15T01:29:43.688Z"
         }
       ]
+    },
+    "8475125111": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-08-15T09:01:04.775Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -4074,27 +4087,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-msu5an7a-889298",
-        "targetUsername": "fifzsturrganteng",
-        "targetUserId": 8475125111,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+n7gw-bdAlJc1NDU1",
-        "messageId": 41180,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-15T08:59:55.779Z",
-        "consumed": true,
-        "consumedAt": "2026-08-15T09:00:09.882Z",
-        "joinedByName": "FIFZ"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
