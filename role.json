@@ -3470,6 +3470,19 @@
           "at": "2026-08-14T12:31:49.677Z"
         }
       ]
+    },
+    "8240957916": {
+      "limit": 20,
+      "used": 0,
+      "remaining": 20,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 20,
+          "note": "OWNER_ADD",
+          "at": "2026-08-15T01:29:43.688Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
