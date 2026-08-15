@@ -2061,19 +2061,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786782043636-67853859",
-      "nomor": "6285647517184",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-15T08:20:43.636Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
