@@ -2112,19 +2112,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786852299693-2f797c0a",
-      "nomor": "6281772391934",
-      "requestedBy": {
-        "id": 7740005605,
-        "name": "PutraGTG",
-        "username": "putragtg_official"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-16T03:51:39.693Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
