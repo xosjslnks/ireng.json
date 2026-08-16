@@ -2119,7 +2119,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786890183410-0f77e521",
+      "nomor": "6283832747307",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-16T14:23:03.410Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2508,8 +2520,8 @@
     },
     "8311655220": {
       "limit": 40,
-      "used": 20,
-      "remaining": 20,
+      "used": 21,
+      "remaining": 19,
       "history": [
         {
           "type": "ADD",
@@ -2648,6 +2660,12 @@
           "qty": 20,
           "note": "BUYLIMIT BL-MSVW8WTP-5F45",
           "at": "2026-08-16T14:22:57.123Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-16T14:23:03.414Z"
         }
       ]
     },
