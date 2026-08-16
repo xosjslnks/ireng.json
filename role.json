@@ -2258,8 +2258,8 @@
     },
     "8043169731": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 7,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -2308,6 +2308,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-16T07:01:00.796Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-16T07:01:04.972Z"
         }
       ]
     },
