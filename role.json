@@ -706,6 +706,12 @@
       "name": "FIFZ",
       "username": "fifzsturrganteng",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8160471255,
+      "name": "Tungtung sahur",
+      "username": "tungtungsigma",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -804,7 +810,8 @@
       7885282711,
       6368340560,
       1064940846,
-      8475125111
+      8475125111,
+      8160471255
     ],
     "-1003320005121": [
       6821406318
