@@ -2130,6 +2130,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-16T09:34:05.963Z"
+    },
+    {
+      "id": "1786872947970-1c464973",
+      "nomor": "6285664877237",
+      "requestedBy": {
+        "id": 7885282711,
+        "name": "sidd",
+        "username": "sidzyyyy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-16T09:35:47.970Z"
     }
   ],
   "numberLimits": {
@@ -3672,8 +3683,8 @@
     },
     "7885282711": {
       "limit": 10,
-      "used": 4,
-      "remaining": 6,
+      "used": 5,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -3716,6 +3727,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-15T13:55:49.034Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-16T09:35:47.983Z"
         }
       ]
     },
