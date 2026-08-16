@@ -3845,9 +3845,9 @@
       ]
     },
     "8475125111": {
-      "limit": 5,
+      "limit": 25,
       "used": 5,
-      "remaining": 0,
+      "remaining": 20,
       "history": [
         {
           "type": "ADD",
@@ -3896,6 +3896,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-16T09:04:47.696Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 20,
+          "note": "OWNER_ADD",
+          "at": "2026-08-16T09:36:04.089Z"
         }
       ]
     }
