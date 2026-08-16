@@ -2133,8 +2133,8 @@
     },
     "1539901407": {
       "limit": 53,
-      "used": 13,
-      "remaining": 40,
+      "used": 14,
+      "remaining": 39,
       "history": [
         {
           "type": "ADD",
@@ -2219,6 +2219,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-14T07:21:19.632Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-16T00:41:15.056Z"
         }
       ]
     },
