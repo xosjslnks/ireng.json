@@ -4153,14 +4153,20 @@
     },
     "8765981010": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "OWNER_ADD",
           "at": "2026-08-17T12:48:43.888Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-17T13:30:13.283Z"
         }
       ]
     }
