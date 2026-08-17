@@ -2119,19 +2119,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786949019124-6c22b92e",
-      "nomor": "6283856625617",
-      "requestedBy": {
-        "id": 7399411792,
-        "name": "R 𝐄 N 𝐉 I 𝐄 E",
-        "username": "RenjieNotHandsome"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-17T06:43:39.124Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
