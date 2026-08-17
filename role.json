@@ -2119,19 +2119,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786941824457-9d9f710a",
-      "nomor": "6281947486245",
-      "requestedBy": {
-        "id": 7740005605,
-        "name": "PutraGTG",
-        "username": "putragtg_official"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-17T04:43:44.457Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -3731,8 +3719,8 @@
     },
     "7740005605": {
       "limit": 10,
-      "used": 7,
-      "remaining": 3,
+      "used": 6,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -3781,6 +3769,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-17T04:43:44.461Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-17T04:45:35.820Z"
         }
       ]
     },
