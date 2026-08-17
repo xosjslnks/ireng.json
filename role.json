@@ -712,6 +712,12 @@
       "name": "Tungtung sahur",
       "username": "tungtungsigma",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7675408612,
+      "name": "F",
+      "username": "Putzzkaciw",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -811,7 +817,8 @@
       6368340560,
       1064940846,
       8475125111,
-      8160471255
+      8160471255,
+      7675408612
     ],
     "-1003320005121": [
       6821406318
@@ -4812,7 +4819,7 @@
       {
         "id": "lg-msx12or7-1f678d",
         "targetUsername": "putzzkaciw",
-        "targetUserId": null,
+        "targetUserId": 7675408612,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+WtTdWGgunjI3MDI9",
@@ -4830,7 +4837,9 @@
         },
         "createdAt": "2026-08-17T09:25:04.712Z",
         "approvedAt": "2026-08-17T09:48:37.534Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-17T09:50:13.197Z",
+        "joinedByName": "F"
       }
     ],
     "history": [
