@@ -4801,34 +4801,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-msx12or7-1f678d",
         "targetUsername": "putzzkaciw",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-08-17T09:30:04.338Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+WtTdWGgunjI3MDI9",
+        "messageId": 46128,
+        "createdBy": {
           "id": 1539901407,
           "name": "𝐘𝐨𝐳𝐚 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
           "username": "Apaaajaaaasu",
           "role": "partner"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 46126,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 836,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2"
+        },
         "createdAt": "2026-08-17T09:25:04.712Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-08-17T09:48:37.534Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
