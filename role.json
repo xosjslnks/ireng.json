@@ -724,6 +724,12 @@
       "name": "2617",
       "username": "ExtendedExlusive",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8765981010,
+      "name": "Yanzy𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲",
+      "username": "ParitzReal",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -825,7 +831,8 @@
       8475125111,
       8160471255,
       7675408612,
-      1687602900
+      1687602900,
+      8765981010
     ],
     "-1003320005121": [
       6821406318
@@ -4839,7 +4846,7 @@
       {
         "id": "lg-msx86b0o-330867",
         "targetUsername": "paritzreal",
-        "targetUserId": null,
+        "targetUserId": 8765981010,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+lTlNF4m-swk4NDhl",
@@ -4851,7 +4858,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-17T12:43:50.743Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-17T12:44:30.189Z",
+        "joinedByName": "Yanzy𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲"
       }
     ],
     "history": [
