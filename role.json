@@ -2119,19 +2119,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1786952006917-27d570ae",
-      "nomor": "6283114107504",
-      "requestedBy": {
-        "id": 8475125111,
-        "name": "FIFZ",
-        "username": "fifzsturrganteng"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-17T07:33:26.917Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
