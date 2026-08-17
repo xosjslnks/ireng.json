@@ -737,6 +737,12 @@
       "name": "Naufal",
       "username": "-",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8174770901,
+      "name": "RasyaTakahiro",
+      "username": "TakahiroRasya",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -840,7 +846,8 @@
       7675408612,
       1687602900,
       8765981010,
-      8590096697
+      8590096697,
+      8174770901
     ],
     "-1003320005121": [
       6821406318
@@ -4907,7 +4914,27 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-msxdl5mp-ccddbf",
+        "targetUsername": "takahirorasya",
+        "targetUserId": 8174770901,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+LeBHc9PAtp01M2Vl",
+        "messageId": 47088,
+        "createdBy": {
+          "id": 1881875530,
+          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬 [ REHAT BANG ]",
+          "username": "ChoujiShop",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-17T15:15:21.681Z",
+        "consumed": true,
+        "consumedAt": "2026-08-17T15:22:11.971Z",
+        "joinedByName": "RasyaTakahiro"
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
