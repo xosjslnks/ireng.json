@@ -4137,6 +4137,19 @@
           "at": "2026-08-17T06:43:39.128Z"
         }
       ]
+    },
+    "8765981010": {
+      "limit": 10,
+      "used": 0,
+      "remaining": 10,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 10,
+          "note": "OWNER_ADD",
+          "at": "2026-08-17T12:48:43.888Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -4842,27 +4855,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-msx86b0o-330867",
-        "targetUsername": "paritzreal",
-        "targetUserId": 8765981010,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+lTlNF4m-swk4NDhl",
-        "messageId": 46394,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-17T12:43:50.743Z",
-        "consumed": true,
-        "consumedAt": "2026-08-17T12:44:30.189Z",
-        "joinedByName": "Yanzy𝗘𝘃𝗲𝗿𝘆𝗼𝗻𝗲"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
