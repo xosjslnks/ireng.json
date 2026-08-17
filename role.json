@@ -3996,14 +3996,20 @@
     },
     "8240957916": {
       "limit": 20,
-      "used": 0,
-      "remaining": 20,
+      "used": 1,
+      "remaining": 19,
       "history": [
         {
           "type": "ADD",
           "qty": 20,
           "note": "OWNER_ADD",
           "at": "2026-08-15T01:29:43.688Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-17T11:25:28.350Z"
         }
       ]
     },
@@ -4815,33 +4821,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-msx12or7-1f678d",
-        "targetUsername": "putzzkaciw",
-        "targetUserId": 7675408612,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+WtTdWGgunjI3MDI9",
-        "messageId": 46128,
-        "createdBy": {
-          "id": 1539901407,
-          "name": "𝐘𝐨𝐳𝐚 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
-          "username": "Apaaajaaaasu",
-          "role": "partner"
-        },
-        "approvedBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2"
-        },
-        "createdAt": "2026-08-17T09:25:04.712Z",
-        "approvedAt": "2026-08-17T09:48:37.534Z",
-        "consumed": true,
-        "consumedAt": "2026-08-17T09:50:13.197Z",
-        "joinedByName": "F"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
