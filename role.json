@@ -718,6 +718,12 @@
       "name": "F",
       "username": "Putzzkaciw",
       "chatId": -1003596848958
+    },
+    {
+      "id": 1687602900,
+      "name": "2617",
+      "username": "ExtendedExlusive",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -818,7 +824,8 @@
       1064940846,
       8475125111,
       8160471255,
-      7675408612
+      7675408612,
+      1687602900
     ],
     "-1003320005121": [
       6821406318
@@ -4825,7 +4832,7 @@
       {
         "id": "lg-msx5o6o4-9f7321",
         "targetUsername": "extendedexlusive",
-        "targetUserId": null,
+        "targetUserId": 1687602900,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+-iSJdXwuPC4yMDI1",
@@ -4837,7 +4844,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-17T11:33:46.089Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-17T11:34:20.558Z",
+        "joinedByName": "2617"
       }
     ],
     "history": [
