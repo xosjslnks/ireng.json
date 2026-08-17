@@ -4821,7 +4821,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-msx5o6o4-9f7321",
+        "targetUsername": "extendedexlusive",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+-iSJdXwuPC4yMDI1",
+        "messageId": 46332,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-17T11:33:46.089Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
