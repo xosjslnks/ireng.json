@@ -4801,7 +4801,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-msx12or7-1f678d",
+        "targetUsername": "putzzkaciw",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-08-17T09:30:04.338Z",
+        "requestedBy": {
+          "id": 1539901407,
+          "name": "𝐘𝐨𝐳𝐚 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+          "username": "Apaaajaaaasu",
+          "role": "partner"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-08-17T09:25:04.712Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
