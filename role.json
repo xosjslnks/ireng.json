@@ -2119,7 +2119,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1786938534463-79ddac61",
+      "nomor": "6285691113091",
+      "requestedBy": {
+        "id": 1064940846,
+        "name": "【Z】【I】【L】【S】",
+        "username": "ZILSSTOREJB3"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-17T03:48:54.463Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2136,8 +2148,8 @@
     },
     "1064940846": {
       "limit": 12,
-      "used": 2,
-      "remaining": 10,
+      "used": 3,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -2162,6 +2174,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MSWOZ11G-4A20",
           "at": "2026-08-17T03:48:35.616Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-17T03:48:54.465Z"
         }
       ]
     },
