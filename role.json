@@ -2164,7 +2164,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787052691391-ec6f95e5",
+      "nomor": "6282319613317",
+      "requestedBy": {
+        "id": 8907044370,
+        "name": "G4R4",
+        "username": "G4r4shopp"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-18T11:31:31.391Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2338,6 +2350,12 @@
       ]
     },
     "1848342025": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
+    "1881875530": {
       "limit": 0,
       "used": 0,
       "remaining": 0,
@@ -4286,8 +4304,8 @@
     },
     "8907044370": {
       "limit": 3,
-      "used": 1,
-      "remaining": 2,
+      "used": 2,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
@@ -4306,6 +4324,12 @@
           "qty": 1,
           "note": "OWNER_ADD",
           "at": "2026-08-18T11:29:28.760Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-18T11:31:31.397Z"
         }
       ]
     }
