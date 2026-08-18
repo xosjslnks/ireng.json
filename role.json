@@ -4351,6 +4351,19 @@
           "at": "2026-08-18T11:31:41.441Z"
         }
       ]
+    },
+    "8392525265": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-08-18T16:01:53.705Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
