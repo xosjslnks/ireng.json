@@ -1703,20 +1703,7 @@
     }
   ],
   "pendingNumbers": [],
-  "numberLimits": {
-    "8392525265": {
-      "limit": 0,
-      "used": 0,
-      "remaining": 0,
-      "history": []
-    },
-    "7885282711": {
-      "limit": 0,
-      "used": 0,
-      "remaining": 0,
-      "history": []
-    }
-  },
+  "numberLimits": {},
   "buylimitInvoices": [],
   "pakasirUsage": {},
   "linkgb": {
