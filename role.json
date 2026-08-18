@@ -4283,6 +4283,19 @@
           "at": "2026-08-17T15:22:39.001Z"
         }
       ]
+    },
+    "8907044370": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-08-18T11:26:51.545Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
