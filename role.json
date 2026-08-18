@@ -3127,8 +3127,8 @@
     },
     "8788855625": {
       "limit": 162,
-      "used": 18,
-      "remaining": 144,
+      "used": 19,
+      "remaining": 143,
       "history": [
         {
           "type": "ADD",
@@ -3255,6 +3255,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-16T13:21:31.947Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-18T00:37:05.955Z"
         }
       ]
     },
@@ -4927,27 +4933,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-msxdl5mp-ccddbf",
-        "targetUsername": "takahirorasya",
-        "targetUserId": 8174770901,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+LeBHc9PAtp01M2Vl",
-        "messageId": 47088,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬 [ REHAT BANG ]",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-17T15:15:21.681Z",
-        "consumed": true,
-        "consumedAt": "2026-08-17T15:22:11.971Z",
-        "joinedByName": "RasyaTakahiro"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
