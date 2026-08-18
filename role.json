@@ -2164,19 +2164,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787052547381-5e48a7d2",
-      "nomor": "6282319613317",
-      "requestedBy": {
-        "id": 8907044370,
-        "name": "G4R4",
-        "username": "G4r4shopp"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-18T11:29:07.381Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
