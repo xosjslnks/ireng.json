@@ -1710,9 +1710,23 @@
     }
   ],
   "pendingNumbers": [],
-  "numberLimits": {},
+  "numberLimits": {
+    "7885282711": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    }
+  },
   "buylimitInvoices": [],
-  "pakasirUsage": {},
+  "pakasirUsage": {
+    "2026-08-19": {
+      "total": 1,
+      "endpoints": {
+        "/pakasir/transactioncreate": 1
+      }
+    }
+  },
   "linkgb": {
     "pending": [],
     "active": [],
