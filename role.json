@@ -2330,6 +2330,12 @@
         }
       ]
     },
+    "1848342025": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
     "8043169731": {
       "limit": 27,
       "used": 7,
@@ -4063,8 +4069,8 @@
     },
     "8240957916": {
       "limit": 20,
-      "used": 1,
-      "remaining": 19,
+      "used": 2,
+      "remaining": 18,
       "history": [
         {
           "type": "ADD",
@@ -4077,6 +4083,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-17T11:25:28.350Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-18T07:33:57.465Z"
         }
       ]
     },
