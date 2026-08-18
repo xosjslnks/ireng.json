@@ -1713,14 +1713,20 @@
   "numberLimits": {
     "7885282711": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MSZAURTA-5D50",
           "at": "2026-08-18T23:35:34.584Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-18T23:35:56.863Z"
         }
       ]
     }
