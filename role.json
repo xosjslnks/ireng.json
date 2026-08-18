@@ -4285,9 +4285,9 @@
       ]
     },
     "8907044370": {
-      "limit": 2,
+      "limit": 3,
       "used": 1,
-      "remaining": 1,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -4300,6 +4300,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-18T11:29:07.390Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 1,
+          "note": "OWNER_ADD",
+          "at": "2026-08-18T11:29:28.760Z"
         }
       ]
     }
