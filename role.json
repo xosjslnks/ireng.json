@@ -30,9 +30,9 @@
     },
     {
       "id": 8272410627,
-      "name": "Abs🅂🄲🄰🄼! 𓆩♛𓆪",
-      "username": "absstore09",
-      "chatId": -1003857293798
+      "name": "ᴀʙs [bot fixmerah work free bio]",
+      "username": "absstore02",
+      "chatId": -1003596848958
     },
     {
       "id": 8210336795,
@@ -585,6 +585,12 @@
       "name": "Rose",
       "username": "MissRose_bot",
       "chatId": -1003596848958
+    },
+    {
+      "id": 6368340560,
+      "name": "小猫~",
+      "username": "Fadilaa53",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -663,7 +669,9 @@
       1848342025,
       1064940846,
       8473203086,
-      609517172
+      609517172,
+      6368340560,
+      8272410627
     ],
     "-1003320005121": [
       6821406318
@@ -1744,6 +1752,12 @@
         }
       ]
     },
+    "1881875530": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
     "7885282711": {
       "limit": 10,
       "used": 1,
@@ -1788,6 +1802,18 @@
           "at": "2026-08-19T01:45:20.456Z"
         }
       ]
+    },
+    "6368340560": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
+    "8392525265": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
