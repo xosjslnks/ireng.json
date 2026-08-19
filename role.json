@@ -2179,7 +2179,30 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787128785551-4321aced",
+      "nomor": "6285822596571",
+      "requestedBy": {
+        "id": 8795627790,
+        "name": "lifec",
+        "username": "fefecmbutss"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-19T08:39:45.551Z"
+    },
+    {
+      "id": "1787128799522-22737dda",
+      "nomor": "6285701552106",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-19T08:39:59.522Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2616,8 +2639,8 @@
     },
     "8311655220": {
       "limit": 40,
-      "used": 22,
-      "remaining": 18,
+      "used": 23,
+      "remaining": 17,
       "history": [
         {
           "type": "ADD",
@@ -2792,6 +2815,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-08-18T10:51:20.587Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-19T08:39:59.522Z"
         }
       ]
     },
@@ -4387,14 +4416,20 @@
     },
     "8795627790": {
       "limit": 2,
-      "used": 0,
-      "remaining": 2,
+      "used": 1,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
           "qty": 2,
           "note": "OWNER_ADD",
           "at": "2026-08-19T08:27:57.058Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-19T08:39:45.552Z"
         }
       ]
     }
@@ -5116,6 +5151,12 @@
         "/pakasir/transactioncreate": 3,
         "/pakasir/transactiondetail": 34,
         "/pakasir/transactioncancel": 1
+      }
+    },
+    "2026-08-19": {
+      "total": 2,
+      "endpoints": {
+        "/pakasir/transactioncreate": 2
       }
     }
   },
