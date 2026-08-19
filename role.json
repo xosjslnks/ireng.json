@@ -1726,10 +1726,17 @@
   "pendingNumbers": [],
   "numberLimits": {
     "1539901407": {
-      "limit": 0,
+      "limit": 20,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 20,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 20,
+          "note": "OWNER_ADD",
+          "at": "2026-08-19T01:45:34.179Z"
+        }
+      ]
     },
     "7885282711": {
       "limit": 10,
@@ -1755,6 +1762,19 @@
       "used": 0,
       "remaining": 0,
       "history": []
+    },
+    "8788855625": {
+      "limit": 142,
+      "used": 0,
+      "remaining": 142,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 142,
+          "note": "OWNER_ADD",
+          "at": "2026-08-19T01:45:20.456Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
