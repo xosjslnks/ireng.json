@@ -4281,6 +4281,18 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-19T09:10:36.944Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-19T09:20:39.815Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-19T09:22:13.886Z"
         }
       ]
     },
