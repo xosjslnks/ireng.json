@@ -2179,30 +2179,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787128785551-4321aced",
-      "nomor": "6285822596571",
-      "requestedBy": {
-        "id": 8795627790,
-        "name": "lifec",
-        "username": "fefecmbutss"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-19T08:39:45.551Z"
-    },
-    {
-      "id": "1787128799522-22737dda",
-      "nomor": "6285701552106",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-19T08:39:59.522Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4284,8 +4261,8 @@
     },
     "7399411792": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -4298,6 +4275,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-17T06:43:39.128Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-19T09:10:36.944Z"
         }
       ]
     },
@@ -4416,8 +4399,8 @@
     },
     "8795627790": {
       "limit": 2,
-      "used": 1,
-      "remaining": 1,
+      "used": 0,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -4430,6 +4413,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-19T08:39:45.552Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-19T09:13:04.754Z"
         }
       ]
     }
