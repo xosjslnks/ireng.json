@@ -573,6 +573,18 @@
       "name": "【Z】【I】【L】【S】",
       "username": "ZILSSTOREJB3",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8473203086,
+      "name": "anorth",
+      "username": "Anorth12",
+      "chatId": -1003596848958
+    },
+    {
+      "id": 609517172,
+      "name": "Rose",
+      "username": "MissRose_bot",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -649,7 +661,9 @@
       8788855625,
       7885282711,
       1848342025,
-      1064940846
+      1064940846,
+      8473203086,
+      609517172
     ],
     "-1003320005121": [
       6821406318
@@ -1711,6 +1725,12 @@
   ],
   "pendingNumbers": [],
   "numberLimits": {
+    "1539901407": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
+    },
     "7885282711": {
       "limit": 10,
       "used": 1,
@@ -1729,6 +1749,12 @@
           "at": "2026-08-18T23:35:56.863Z"
         }
       ]
+    },
+    "8473203086": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
