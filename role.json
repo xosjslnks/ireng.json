@@ -762,6 +762,12 @@
       "name": "lifec",
       "username": "fefecmbutss",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7209132612,
+      "name": "how",
+      "username": "how11z",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -869,7 +875,8 @@
       8174770901,
       8907044370,
       8392525265,
-      8795627790
+      8795627790,
+      7209132612
     ],
     "-1003320005121": [
       6821406318
@@ -5227,7 +5234,7 @@
       {
         "id": "lg-mt1es229-97f158",
         "targetUsername": "how11z",
-        "targetUserId": null,
+        "targetUserId": 7209132612,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+j_Cl81dYovE1NzI1",
@@ -5245,7 +5252,9 @@
         },
         "createdAt": "2026-08-20T10:59:48.158Z",
         "approvedAt": "2026-08-20T11:00:36.115Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-20T11:01:57.603Z",
+        "joinedByName": "how"
       }
     ],
     "history": [
