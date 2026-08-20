@@ -768,6 +768,12 @@
       "name": "how",
       "username": "how11z",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8892769038,
+      "name": "FANZ STORE",
+      "username": "Fanzstores",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -876,7 +882,8 @@
       8907044370,
       8392525265,
       8795627790,
-      7209132612
+      7209132612,
+      8892769038
     ],
     "-1003320005121": [
       6821406318
@@ -5295,31 +5302,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mt1kvafu-e05066",
-        "targetUsername": "fanzstores",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+IK5594wCKD42ZjY1",
-        "messageId": 49240,
-        "createdBy": {
-          "id": 7815231950,
-          "name": "𝐕ΣППۧ𝐈𝐗",
-          "username": "Vennixn",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2"
-        },
-        "createdAt": "2026-08-20T13:50:16.730Z",
-        "approvedAt": "2026-08-20T13:51:35.038Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
