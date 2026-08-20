@@ -2193,7 +2193,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787269087470-5c381bcf",
+      "nomor": "6285249864988",
+      "requestedBy": {
+        "id": 7885282711,
+        "name": "Aku King Sidd",
+        "username": "sidzyyyy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-20T23:38:07.470Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4022,8 +4034,8 @@
     },
     "7885282711": {
       "limit": 10,
-      "used": 5,
-      "remaining": 5,
+      "used": 6,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -4072,6 +4084,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-16T09:35:47.983Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-20T23:38:07.470Z"
         }
       ]
     },
