@@ -2193,7 +2193,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787249785925-66a1bc4b",
+      "nomor": "6283196416096",
+      "requestedBy": {
+        "id": 8408113812,
+        "name": "𝐒𝐚𝐢𝐟 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+        "username": "SaifSTBX"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-20T18:16:25.925Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2447,8 +2459,8 @@
     },
     "8408113812": {
       "limit": 20,
-      "used": 15,
-      "remaining": 5,
+      "used": 16,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -2545,6 +2557,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-14T16:01:27.508Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-20T18:16:25.925Z"
         }
       ]
     },
