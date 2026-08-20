@@ -5210,34 +5210,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mt17ttrv-2bf25d",
         "targetUsername": "fanzstores",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-08-20T07:50:12.954Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+bnvEmdWa77I3NWE9",
+        "messageId": 48999,
+        "createdBy": {
           "id": 7815231950,
           "name": "𝐕ΣППۧ𝐈𝐗",
           "username": "Vennixn",
           "role": "reseller"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 48985,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 869,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2"
+        },
         "createdAt": "2026-08-20T07:45:13.435Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-08-20T08:44:48.343Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
