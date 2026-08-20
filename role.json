@@ -5211,31 +5211,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mt17ttrv-2bf25d",
-        "targetUsername": "fanzstores",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+bnvEmdWa77I3NWE9",
-        "messageId": 48999,
-        "createdBy": {
-          "id": 7815231950,
-          "name": "𝐕ΣППۧ𝐈𝐗",
-          "username": "Vennixn",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2"
-        },
-        "createdAt": "2026-08-20T07:45:13.435Z",
-        "approvedAt": "2026-08-20T08:44:48.343Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
@@ -5407,6 +5383,20 @@
         "status": "expired",
         "expiredAt": "2026-08-20T00:48:06.123Z",
         "createdAt": "2026-08-19T15:46:48.790Z"
+      },
+      {
+        "id": "lg-mt17ttrv-2bf25d",
+        "targetUsername": "fanzstores",
+        "targetUserId": null,
+        "requestedBy": {
+          "id": 7815231950,
+          "name": "𝐕ΣППۧ𝐈𝐗",
+          "username": "Vennixn",
+          "role": "reseller"
+        },
+        "status": "expired",
+        "expiredAt": "2026-08-20T08:55:41.907Z",
+        "createdAt": "2026-08-20T07:45:13.435Z"
       }
     ],
     "expireMinutes": 10,
