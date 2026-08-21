@@ -4583,10 +4583,17 @@
       ]
     },
     "7147570743": {
-      "limit": 0,
+      "limit": 40,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 40,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 40,
+          "note": "OWNER_ADD",
+          "at": "2026-08-21T11:26:08.713Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
