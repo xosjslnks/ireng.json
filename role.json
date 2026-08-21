@@ -2200,30 +2200,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787301896598-5ef7fa69",
-      "nomor": "6283192500132",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "balikinnnn",
-        "username": "Ceolynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-21T08:44:56.599Z"
-    },
-    {
-      "id": "1787303464739-898ff099",
-      "nomor": "6283179742901",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku King Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-21T09:11:04.739Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
