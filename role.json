@@ -573,7 +573,7 @@
     },
     {
       "id": 8788855625,
-      "name": "Support Monzo Banking Service",
+      "name": "KAFZY OFICIAL SHOP",
       "username": "Official_Monzo_SupportService089",
       "chatId": -1003596848958
     },
@@ -4581,6 +4581,12 @@
           "at": "2026-08-20T12:10:03.990Z"
         }
       ]
+    },
+    "7147570743": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
