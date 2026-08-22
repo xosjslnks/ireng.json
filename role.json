@@ -5629,7 +5629,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-mt4fgu08-c6774a",
+        "targetUsername": "saputzz21",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-08-22T13:47:22.183Z",
+        "requestedBy": {
+          "id": 8259824445,
+          "name": "~kyy",
+          "username": "cenexe123",
+          "role": "reseller"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-08-22T13:42:23.638Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
