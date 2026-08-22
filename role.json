@@ -2228,30 +2228,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787392305351-9c0cf5ee",
-      "nomor": "6285133405309",
-      "requestedBy": {
-        "id": 8781773557,
-        "name": "DANZ•FRX",
-        "username": "DANZFRX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T09:51:45.351Z"
-    },
-    {
-      "id": "1787392380282-adc31069",
-      "nomor": "6285846488284",
-      "requestedBy": {
-        "id": 8781773557,
-        "name": "DANZ•FRX",
-        "username": "DANZFRX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T09:53:00.282Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
