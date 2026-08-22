@@ -2395,10 +2395,17 @@
       ]
     },
     "1848342025": {
-      "limit": 0,
+      "limit": 10,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 10,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 10,
+          "note": "OWNER_ADD",
+          "at": "2026-08-22T01:33:39.885Z"
+        }
+      ]
     },
     "1881875530": {
       "limit": 0,
