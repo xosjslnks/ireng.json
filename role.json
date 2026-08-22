@@ -780,6 +780,12 @@
       "name": "魔王|𝐀𝐊𝐔𝐍 𝐏𝐑𝐎𝐌𝐎𝐒𝐈",
       "username": "makluampaswk",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8817827404,
+      "name": "deym.",
+      "username": "MinxuShark",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -890,7 +896,8 @@
       8795627790,
       7209132612,
       8892769038,
-      1139319500
+      1139319500,
+      8817827404
     ],
     "-1003320005121": [
       6821406318
@@ -5474,7 +5481,7 @@
       {
         "id": "lg-mt3sn5ua-d4ca3a",
         "targetUsername": "minxushark",
-        "targetUserId": null,
+        "targetUserId": 8817827404,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+y18RQxWMEH9lZmQ1",
@@ -5492,7 +5499,9 @@
         },
         "createdAt": "2026-08-22T03:03:26.916Z",
         "approvedAt": "2026-08-22T03:23:53.700Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-22T03:25:04.577Z",
+        "joinedByName": "deym."
       }
     ],
     "history": [
