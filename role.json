@@ -2228,30 +2228,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787387820876-a317143c",
-      "nomor": "6285812354277",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T08:37:00.877Z"
-    },
-    {
-      "id": "1787387839154-7cc3b04a",
-      "nomor": "6285602073367",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "balikinnnn",
-        "username": "Ceolynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T08:37:19.154Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
