@@ -786,6 +786,12 @@
       "name": "minxu setelah after✌🏻😹",
       "username": "MinxuShark",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8323610556,
+      "name": "Satria",
+      "username": "saputzz21",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -897,7 +903,8 @@
       7209132612,
       8892769038,
       1139319500,
-      8817827404
+      8817827404,
+      8323610556
     ],
     "-1003320005121": [
       6821406318
@@ -5630,31 +5637,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mt4fgu08-c6774a",
-        "targetUsername": "saputzz21",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+cEgb1GHH8TpkOTA1",
-        "messageId": 50932,
-        "createdBy": {
-          "id": 8259824445,
-          "name": "~kyy",
-          "username": "cenexe123",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 1881875530,
-          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬 [ REHAT BANG ]",
-          "username": "ChoujiShop"
-        },
-        "createdAt": "2026-08-22T13:42:23.638Z",
-        "approvedAt": "2026-08-22T13:44:19.284Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
