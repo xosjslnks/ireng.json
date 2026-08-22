@@ -930,6 +930,27 @@
     "lastRunDate": "2026-08-16",
     "logs": [
       {
+        "id": "DA-20260822-082831-H99K6",
+        "trigger": "OWNER",
+        "status": "TURN_OFF",
+        "date": "2026-08-22",
+        "time": "08:28:31",
+        "scheduleTime": "00:00",
+        "nextRunAt": "2026-08-17 00:00 WIB",
+        "actorId": 8492332284,
+        "actorName": "𝘹𝙊𝙗𝙀",
+        "dbBefore": 0,
+        "dbAfter": 0,
+        "logBefore": 0,
+        "logAfter": 0,
+        "totalDB": 0,
+        "totalLog": 0,
+        "durationMs": 0,
+        "attempt": 1,
+        "message": "DELAUTO dimatikan oleh owner",
+        "error": null
+      },
+      {
         "id": "DA-20260816-085935-2FXZ7",
         "trigger": "OWNER",
         "status": "TURN_OFF",
