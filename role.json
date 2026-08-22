@@ -2228,7 +2228,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787405252311-51a1af39",
+      "nomor": "628816936245",
+      "requestedBy": {
+        "id": 8216521037,
+        "name": "Ken",
+        "username": "Kenkai19"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-22T13:27:32.312Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2622,8 +2634,8 @@
     },
     "8216521037": {
       "limit": 46,
-      "used": 5,
-      "remaining": 41,
+      "used": 6,
+      "remaining": 40,
       "history": [
         {
           "type": "ADD",
@@ -2672,6 +2684,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-13T23:23:02.238Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-22T13:27:32.312Z"
         }
       ]
     },
