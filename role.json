@@ -2232,6 +2232,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-22T03:23:13.954Z"
+    },
+    {
+      "id": "1787369067431-c3e1374c",
+      "nomor": "6285729518464",
+      "requestedBy": {
+        "id": 7906329645,
+        "name": "TICO",
+        "username": "XxnxXxcx"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-22T03:24:27.431Z"
     }
   ],
   "numberLimits": {
@@ -3154,8 +3165,8 @@
     },
     "7906329645": {
       "limit": 22,
-      "used": 17,
-      "remaining": 5,
+      "used": 18,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -3300,6 +3311,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-22T03:23:13.954Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-22T03:24:27.431Z"
         }
       ]
     },
