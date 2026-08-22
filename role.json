@@ -5629,34 +5629,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mt4fgu08-c6774a",
         "targetUsername": "saputzz21",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-08-22T13:47:22.183Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+cEgb1GHH8TpkOTA1",
+        "messageId": 50932,
+        "createdBy": {
           "id": 8259824445,
           "name": "~kyy",
           "username": "cenexe123",
           "role": "reseller"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 50928,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 905,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 1881875530,
+          "name": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬 [ REHAT BANG ]",
+          "username": "ChoujiShop"
+        },
         "createdAt": "2026-08-22T13:42:23.638Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-08-22T13:44:19.284Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
