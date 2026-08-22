@@ -2228,41 +2228,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787384380552-84df597b",
-      "nomor": "6281549132431",
-      "requestedBy": {
-        "id": 8810880838,
-        "name": "RICC",
-        "username": "AudricStore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T07:39:40.552Z"
-    },
-    {
-      "id": "1787385530774-59d3d5de",
-      "nomor": "85602434393",
-      "requestedBy": {
-        "id": 8193076128,
-        "name": "yang baca monyed",
-        "username": "gugugaga349"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T07:58:50.774Z"
-    },
-    {
-      "id": "1787385553673-cba41f57",
-      "nomor": "6285602434393",
-      "requestedBy": {
-        "id": 8193076128,
-        "name": "yang baca monyed",
-        "username": "gugugaga349"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-22T07:59:13.673Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
