@@ -2235,7 +2235,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787444134963-8f4691f9",
+      "nomor": "6285864882705",
+      "requestedBy": {
+        "id": 8323610556,
+        "name": "Satria",
+        "username": "saputzz21"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-23T00:15:34.963Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4868,14 +4880,20 @@
     },
     "8323610556": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MT51ZNZ9-A61E",
           "at": "2026-08-23T00:14:09.010Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-23T00:15:34.963Z"
         }
       ]
     }
