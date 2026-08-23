@@ -2235,19 +2235,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787463941846-2eda284b",
-      "nomor": "6285602073367",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "balikinnnn",
-        "username": "Ceolynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-23T05:45:41.847Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -3888,8 +3876,8 @@
     },
     "7975136339": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 5,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -3932,6 +3920,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-23T05:45:41.847Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-23T05:46:42.147Z"
         }
       ]
     },
