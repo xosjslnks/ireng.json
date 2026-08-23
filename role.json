@@ -2242,7 +2242,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787490718950-894f1a2a",
+      "nomor": "6283117110519",
+      "requestedBy": {
+        "id": 8590096697,
+        "name": "Naufal",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-23T13:11:58.950Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4807,8 +4819,8 @@
     },
     "8590096697": {
       "limit": 2,
-      "used": 1,
-      "remaining": 1,
+      "used": 2,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -4821,6 +4833,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-21T08:16:39.299Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-23T13:11:58.950Z"
         }
       ]
     },
