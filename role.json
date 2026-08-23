@@ -4989,10 +4989,17 @@
       ]
     },
     "8934863001": {
-      "limit": 0,
+      "limit": 8,
       "used": 0,
-      "remaining": 0,
-      "history": []
+      "remaining": 8,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 8,
+          "note": "OWNER_ADD",
+          "at": "2026-08-23T11:34:47.707Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
