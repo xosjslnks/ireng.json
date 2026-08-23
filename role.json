@@ -2235,41 +2235,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787474850923-30e052b0",
-      "nomor": "6285124920856",
-      "requestedBy": {
-        "id": 8781773557,
-        "name": "DANZ•FRX",
-        "username": "DANZFRX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-23T08:47:30.924Z"
-    },
-    {
-      "id": "1787474871175-a19117eb",
-      "nomor": "6283832245546",
-      "requestedBy": {
-        "id": 8781773557,
-        "name": "DANZ•FRX",
-        "username": "DANZFRX"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-23T08:47:51.175Z"
-    },
-    {
-      "id": "1787481709016-29da5e96",
-      "nomor": "6285803187490",
-      "requestedBy": {
-        "id": 8468543476,
-        "name": "Helzy Nawh",
-        "username": "Helzyynawh"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-23T10:41:49.016Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
