@@ -2242,7 +2242,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787552425333-c7c3fd51",
+      "nomor": "6285169092972",
+      "requestedBy": {
+        "id": 7714079976,
+        "name": "⏤͟͟͞͞𝑵𝑶𝑽𝑨 ϟ 𝐂𝐑𝐀𝐙𝐘 ✧",
+        "username": "NovaCrazy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-24T06:20:25.333Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4543,8 +4555,8 @@
     },
     "7714079976": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -4557,6 +4569,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-14T08:36:05.726Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-24T06:20:25.334Z"
         }
       ]
     },
