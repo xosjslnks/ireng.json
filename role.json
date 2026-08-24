@@ -3931,8 +3931,8 @@
     },
     "7975136339": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 7,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -3987,6 +3987,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-23T10:49:49.373Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-24T07:03:54.331Z"
         }
       ]
     },
