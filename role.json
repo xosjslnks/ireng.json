@@ -2242,7 +2242,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787621058834-4d7b296f",
+      "nomor": "6285803161768",
+      "requestedBy": {
+        "id": 1064940846,
+        "name": "【Z】【I】【L】【S】",
+        "username": "ZILSSTOREJB3"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-25T01:24:18.835Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2259,8 +2271,8 @@
     },
     "1064940846": {
       "limit": 12,
-      "used": 7,
-      "remaining": 5,
+      "used": 8,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -2315,6 +2327,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-23T04:42:49.962Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-25T01:24:18.835Z"
         }
       ]
     },
