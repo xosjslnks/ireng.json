@@ -2249,19 +2249,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787625455075-1bed6be3",
-      "nomor": "6285134836595",
-      "requestedBy": {
-        "id": 7585707847,
-        "name": "Law",
-        "username": "Lawnoodle95"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-25T02:37:35.075Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
