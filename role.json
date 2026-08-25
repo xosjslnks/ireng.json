@@ -2249,30 +2249,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787652371258-f1f6e864",
-      "nomor": "6282218183843",
-      "requestedBy": {
-        "id": 7209132612,
-        "name": "how",
-        "username": "how11z"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-25T10:06:11.258Z"
-    },
-    {
-      "id": "1787660687358-72877e8c",
-      "nomor": "6285133405984",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku King Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-25T12:24:47.358Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
