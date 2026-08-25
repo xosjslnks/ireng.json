@@ -5169,6 +5169,19 @@
           "at": "2026-08-23T11:34:47.707Z"
         }
       ]
+    },
+    "7585707847": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-08-25T02:29:25.423Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -6017,27 +6030,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mt81nwm4-451231",
-        "targetUsername": "lawnoodle95",
-        "targetUserId": 7585707847,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+-TB2mY0X5h02OWE9",
-        "messageId": 52095,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-25T02:27:02.629Z",
-        "consumed": true,
-        "consumedAt": "2026-08-25T02:27:16.802Z",
-        "joinedByName": "Law"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
