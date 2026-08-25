@@ -798,6 +798,12 @@
       "name": "Nass",
       "username": "nnasgntg",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7585707847,
+      "name": "Law",
+      "username": "Lawnoodle95",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -911,7 +917,8 @@
       1139319500,
       8817827404,
       8323610556,
-      8934863001
+      8934863001,
+      7585707847
     ],
     "-1003320005121": [
       6821406318
@@ -6014,7 +6021,7 @@
       {
         "id": "lg-mt81nwm4-451231",
         "targetUsername": "lawnoodle95",
-        "targetUserId": null,
+        "targetUserId": 7585707847,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+-TB2mY0X5h02OWE9",
@@ -6026,7 +6033,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-25T02:27:02.629Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-25T02:27:16.802Z",
+        "joinedByName": "Law"
       }
     ],
     "history": [
