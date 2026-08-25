@@ -2242,19 +2242,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787623561749-ff1b0e0f",
-      "nomor": "6285602355949",
-      "requestedBy": {
-        "id": 8323610556,
-        "name": "Satria",
-        "username": "saputzz21"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-25T02:06:01.749Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
