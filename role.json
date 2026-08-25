@@ -3720,8 +3720,8 @@
     },
     "8259824445": {
       "limit": 19,
-      "used": 13,
-      "remaining": 6,
+      "used": 14,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -3920,6 +3920,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-25T03:50:44.176Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-25T03:55:31.140Z"
         }
       ]
     },
