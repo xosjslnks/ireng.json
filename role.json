@@ -5340,6 +5340,19 @@
           "at": "2026-08-25T02:37:35.075Z"
         }
       ]
+    },
+    "6442864733": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-08-26T13:29:39.336Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -6214,27 +6227,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mta4pq96-541b90",
-        "targetUsername": "minzdipanggilnengok",
-        "targetUserId": 6442864733,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+o6HWc_dylngzN2Rl",
-        "messageId": 53303,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-26T13:27:58.898Z",
-        "consumed": true,
-        "consumedAt": "2026-08-26T13:28:15.125Z",
-        "joinedByName": "Minzz kece"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
