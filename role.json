@@ -2256,7 +2256,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787748183796-a73f2c4f",
+      "nomor": "6285167650312",
+      "requestedBy": {
+        "id": 8468543476,
+        "name": "Helzy Nawh",
+        "username": "Helzyynawh"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-26T12:43:03.796Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5125,8 +5137,8 @@
     },
     "8468543476": {
       "limit": 10,
-      "used": 4,
-      "remaining": 6,
+      "used": 5,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -5157,6 +5169,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-24T13:04:27.780Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-26T12:43:03.796Z"
         }
       ]
     },
