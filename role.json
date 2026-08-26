@@ -2256,19 +2256,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787748183796-a73f2c4f",
-      "nomor": "6285167650312",
-      "requestedBy": {
-        "id": 8468543476,
-        "name": "Helzy Nawh",
-        "username": "Helzyynawh"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-26T12:43:03.796Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
