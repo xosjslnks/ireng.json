@@ -810,6 +810,12 @@
       "name": "𝐑𝐚𝐬𝐲𝐚𝐡 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
       "username": "-",
       "chatId": -1003596848958
+    },
+    {
+      "id": 6442864733,
+      "name": "Minzz kece",
+      "username": "minzdipanggilnengok",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -925,7 +931,8 @@
       8323610556,
       8934863001,
       7585707847,
-      8741637083
+      8741637083,
+      6442864733
     ],
     "-1003320005121": [
       6821406318
@@ -6211,7 +6218,7 @@
       {
         "id": "lg-mta4pq96-541b90",
         "targetUsername": "minzdipanggilnengok",
-        "targetUserId": null,
+        "targetUserId": 6442864733,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+o6HWc_dylngzN2Rl",
@@ -6223,7 +6230,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-26T13:27:58.898Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-26T13:28:15.125Z",
+        "joinedByName": "Minzz kece"
       }
     ],
     "history": [
