@@ -2256,19 +2256,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787738687497-3eb15cef",
-      "nomor": "6285713527246",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku King Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-26T10:04:47.497Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
