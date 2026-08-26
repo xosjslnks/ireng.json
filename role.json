@@ -2274,6 +2274,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-26T13:49:10.397Z"
+    },
+    {
+      "id": "1787752162010-4205391c",
+      "nomor": "62895365227930",
+      "requestedBy": {
+        "id": 6442864733,
+        "name": "Minzz kece",
+        "username": "minzdipanggilnengok"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-26T13:49:22.010Z"
     }
   ],
   "numberLimits": {
@@ -5361,14 +5372,20 @@
     },
     "6442864733": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-08-26T13:29:39.336Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-26T13:49:22.010Z"
         }
       ]
     }
