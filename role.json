@@ -6207,7 +6207,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mta4pq96-541b90",
+        "targetUsername": "minzdipanggilnengok",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+o6HWc_dylngzN2Rl",
+        "messageId": 53303,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝘹𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-08-26T13:27:58.898Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
