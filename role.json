@@ -4420,14 +4420,20 @@
     },
     "7722924555": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "OWNER_ADD",
           "at": "2026-08-15T09:46:15.211Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-08-27T01:12:53.886Z"
         }
       ]
     },
