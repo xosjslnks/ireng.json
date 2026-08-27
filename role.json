@@ -2263,7 +2263,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787820246498-ba689e46",
+      "nomor": "6285138947340",
+      "requestedBy": {
+        "id": 8160471255,
+        "name": "Tungtung sahur",
+        "username": "tungtungsigma"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-27T08:44:06.499Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5410,14 +5422,20 @@
     },
     "8160471255": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-08-27T08:43:44.812Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-27T08:44:06.499Z"
         }
       ]
     }
