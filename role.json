@@ -2263,19 +2263,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787814794149-b9d1f032",
-      "nomor": "6285150279970",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "Wawan anak sma",
-        "username": "Donaalddb"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-27T07:13:14.150Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
