@@ -2263,19 +2263,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787828983309-b8edb0af",
-      "nomor": "625138947340",
-      "requestedBy": {
-        "id": 8160471255,
-        "name": "Tungtung sahur",
-        "username": "tungtungsigma"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-27T11:09:43.309Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
