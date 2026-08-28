@@ -5470,6 +5470,19 @@
           "at": "2026-08-27T11:09:43.309Z"
         }
       ]
+    },
+    "6061007166": {
+      "limit": 15,
+      "used": 0,
+      "remaining": 15,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 15,
+          "note": "OWNER_ADD",
+          "at": "2026-08-28T10:38:10.970Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -6344,27 +6357,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtcthtc3-70d929",
-        "targetUsername": "hamzxneedsomeounetotalk",
-        "targetUserId": 6061007166,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+GtVZe8YaF3hjNDll",
-        "messageId": 54094,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝘹𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-08-28T10:37:12.394Z",
-        "consumed": true,
-        "consumedAt": "2026-08-28T10:37:34.097Z",
-        "joinedByName": "⏤͟͟͞͞𝗣𝗔𝗗𝗨𝗞𝗔 𝙃𝘼𝙈𝙕𝙓"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
