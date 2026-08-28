@@ -816,6 +816,12 @@
       "name": "Minzz kece",
       "username": "minzdipanggilnengok",
       "chatId": -1003596848958
+    },
+    {
+      "id": 6061007166,
+      "name": "⏤͟͟͞͞𝗣𝗔𝗗𝗨𝗞𝗔 𝙃𝘼𝙈𝙕𝙓",
+      "username": "HamzxNeedSomeouneToTalk",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -932,7 +938,8 @@
       8934863001,
       7585707847,
       8741637083,
-      6442864733
+      6442864733,
+      6061007166
     ],
     "-1003320005121": [
       6821406318
@@ -6340,7 +6347,7 @@
       {
         "id": "lg-mtcthtc3-70d929",
         "targetUsername": "hamzxneedsomeounetotalk",
-        "targetUserId": null,
+        "targetUserId": 6061007166,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+GtVZe8YaF3hjNDll",
@@ -6352,7 +6359,9 @@
           "role": "owner"
         },
         "createdAt": "2026-08-28T10:37:12.394Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-08-28T10:37:34.097Z",
+        "joinedByName": "⏤͟͟͞͞𝗣𝗔𝗗𝗨𝗞𝗔 𝙃𝘼𝙈𝙕𝙓"
       }
     ],
     "history": [
