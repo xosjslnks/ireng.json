@@ -2772,9 +2772,9 @@
       ]
     },
     "8216521037": {
-      "limit": 0,
+      "limit": 46,
       "used": 6,
-      "remaining": 0,
+      "remaining": 40,
       "history": [
         {
           "type": "ADD",
@@ -2847,6 +2847,12 @@
           "qty": 0,
           "note": "OWNER_SET",
           "at": "2026-08-29T11:18:15.211Z"
+        },
+        {
+          "type": "SET",
+          "qty": 46,
+          "note": "OWNER_SET",
+          "at": "2026-08-29T11:18:41.191Z"
         }
       ]
     },
