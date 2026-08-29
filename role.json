@@ -2271,7 +2271,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1787976006051-297ac99d",
+      "nomor": "6285119273771",
+      "requestedBy": {
+        "id": 8590096697,
+        "name": "Naufal",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-29T04:00:06.051Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5148,8 +5160,8 @@
     },
     "8590096697": {
       "limit": 12,
-      "used": 2,
-      "remaining": 10,
+      "used": 3,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -5174,6 +5186,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MTDUNVA2-C9DC",
           "at": "2026-08-29T03:58:31.601Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-29T04:00:06.051Z"
         }
       ]
     },
