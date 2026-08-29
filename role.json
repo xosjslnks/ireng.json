@@ -2772,9 +2772,9 @@
       ]
     },
     "8216521037": {
-      "limit": 46,
+      "limit": 0,
       "used": 6,
-      "remaining": 40,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -2841,6 +2841,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-08-23T02:55:38.962Z"
+        },
+        {
+          "type": "SET",
+          "qty": 0,
+          "note": "OWNER_SET",
+          "at": "2026-08-29T11:18:15.211Z"
         }
       ]
     },
@@ -5616,6 +5622,12 @@
           "at": "2026-08-29T08:03:48.157Z"
         }
       ]
+    },
+    "8759079555": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
