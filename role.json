@@ -2271,19 +2271,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1787987431035-a583ad37",
-      "nomor": "6285184857510",
-      "requestedBy": {
-        "id": 6442864733,
-        "name": "Minzz kece",
-        "username": "minzdipanggilnengok"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-29T07:10:31.035Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
