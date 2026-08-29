@@ -281,7 +281,7 @@
     {
       "id": 6582561645,
       "name": "a",
-      "username": "-",
+      "username": "dabull124",
       "chatId": -1003596848958
     },
     {
@@ -5513,6 +5513,12 @@
           "at": "2026-08-28T10:38:10.970Z"
         }
       ]
+    },
+    "6582561645": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
