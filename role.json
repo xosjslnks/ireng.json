@@ -2271,19 +2271,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788014095585-c365406c",
-      "nomor": "6285137600156",
-      "requestedBy": {
-        "id": 8176661274,
-        "name": "Gonz",
-        "username": "Gonzakhasi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-08-29T14:34:55.585Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4834,8 +4822,8 @@
     },
     "8176661274": {
       "limit": 15,
-      "used": 6,
-      "remaining": 9,
+      "used": 5,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -4878,6 +4866,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-29T14:34:55.585Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-08-29T14:35:06.337Z"
         }
       ]
     },
