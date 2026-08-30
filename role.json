@@ -2289,6 +2289,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-08-30T22:03:28.347Z"
+    },
+    {
+      "id": "1788129387015-d225ce0a",
+      "nomor": "6285713255391",
+      "requestedBy": {
+        "id": 8176661274,
+        "name": "Gonz",
+        "username": "Gonzakhasi"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-30T22:36:27.015Z"
     }
   ],
   "numberLimits": {
@@ -4847,8 +4858,8 @@
     },
     "8176661274": {
       "limit": 15,
-      "used": 5,
-      "remaining": 10,
+      "used": 6,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -4897,6 +4908,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-08-29T14:35:06.337Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-30T22:36:27.015Z"
         }
       ]
     },
