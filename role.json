@@ -2278,7 +2278,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788177356206-35268932",
+      "nomor": "6283135880846",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "hahaa",
+        "username": "Donaalddb"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-31T11:55:56.206Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4213,8 +4225,8 @@
     },
     "7975136339": {
       "limit": 10,
-      "used": 9,
-      "remaining": 1,
+      "used": 10,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -4287,6 +4299,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-27T07:13:14.150Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-31T11:55:56.206Z"
         }
       ]
     },
