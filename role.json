@@ -2278,7 +2278,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788180015723-d63f12b9",
+      "nomor": "6285198753054",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-31T12:40:15.723Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2890,8 +2902,8 @@
     },
     "8311655220": {
       "limit": 60,
-      "used": 40,
-      "remaining": 20,
+      "used": 41,
+      "remaining": 19,
       "history": [
         {
           "type": "ADD",
@@ -3228,6 +3240,12 @@
           "qty": 20,
           "note": "BUYLIMIT BL-MTH822H3-CBC9",
           "at": "2026-08-31T12:39:53.561Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-31T12:40:15.723Z"
         }
       ]
     },
