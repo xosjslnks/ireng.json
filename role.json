@@ -2278,7 +2278,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788182266770-d51fbaac",
+      "nomor": "6285793004460",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "hahaa",
+        "username": "Donaalddb"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-08-31T13:17:46.770Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4225,8 +4237,8 @@
     },
     "7975136339": {
       "limit": 20,
-      "used": 10,
-      "remaining": 10,
+      "used": 11,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -4311,6 +4323,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MTH8FETE-B4A1",
           "at": "2026-08-31T12:47:53.657Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-08-31T13:17:46.770Z"
         }
       ]
     },
