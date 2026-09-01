@@ -2278,19 +2278,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788273259237-dfaf0c80",
-      "nomor": "6285287500802",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "hahaa",
-        "username": "Donaalddb"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-01T14:34:19.237Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
