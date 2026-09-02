@@ -2278,30 +2278,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788343881881-e174d925",
-      "nomor": "6285881639991",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku Kiyoshi Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-02T10:11:21.881Z"
-    },
-    {
-      "id": "1788346985541-ec225482",
-      "nomor": "6285746151530",
-      "requestedBy": {
-        "id": 6582561645,
-        "name": "a",
-        "username": "dabull124"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-02T11:03:05.541Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
