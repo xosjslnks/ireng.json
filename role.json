@@ -2289,6 +2289,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-04T09:20:04.405Z"
+    },
+    {
+      "id": "1788513623015-363008ff",
+      "nomor": "6285198273068",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "𝘼𝙣𝙟𝙖𝙮𝙡𝙮𝙣𝙭𝙞𝙚𝙚",
+        "username": "Ceolynxiee"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-04T09:20:23.015Z"
     }
   ],
   "numberLimits": {
@@ -4291,8 +4302,8 @@
     },
     "7975136339": {
       "limit": 20,
-      "used": 17,
-      "remaining": 3,
+      "used": 18,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -4479,6 +4490,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-04T09:20:04.405Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-04T09:20:23.015Z"
         }
       ]
     },
