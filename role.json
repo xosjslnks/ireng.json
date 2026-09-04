@@ -2278,30 +2278,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788502063263-c6e5785b",
-      "nomor": "6285141685980",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-04T06:07:43.263Z"
-    },
-    {
-      "id": "1788502947140-57034b14",
-      "nomor": "6285719059709",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-04T06:22:27.140Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
