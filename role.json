@@ -2284,30 +2284,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788563277835-a221b61a",
-      "nomor": "6285198273068",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "𝘼𝙣𝙟𝙖𝙮𝙡𝙮𝙣𝙭𝙞𝙚𝙚",
-        "username": "Ceolynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-04T23:07:57.835Z"
-    },
-    {
-      "id": "1788564044504-f9ec265e",
-      "nomor": "6285136262983",
-      "requestedBy": {
-        "id": 1064940846,
-        "name": "【Z】【I】【L】【S】",
-        "username": "ZILSSTOREJB3"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-04T23:20:44.504Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4314,8 +4291,8 @@
     },
     "7975136339": {
       "limit": 20,
-      "used": 19,
-      "remaining": 1,
+      "used": 18,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -4514,6 +4491,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-04T23:07:57.835Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-04T23:23:39.461Z"
         }
       ]
     },
