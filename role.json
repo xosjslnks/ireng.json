@@ -2278,7 +2278,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788507151018-a6378aad",
+      "nomor": "6285774009325",
+      "requestedBy": {
+        "id": 7906329645,
+        "name": "TICO",
+        "username": "XxnxXxcx"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-04T07:32:31.018Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -3553,8 +3565,8 @@
     },
     "7906329645": {
       "limit": 32,
-      "used": 22,
-      "remaining": 10,
+      "used": 23,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -3735,6 +3747,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MTMMRMF2-6134",
           "at": "2026-09-04T07:30:46.157Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-04T07:32:31.018Z"
         }
       ]
     },
