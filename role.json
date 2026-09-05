@@ -2298,7 +2298,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788579604092-8b619294",
+      "nomor": "6283177662071",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "balryzl",
+        "username": "nanskzoo"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-05T03:40:04.092Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2934,8 +2946,8 @@
     },
     "8311655220": {
       "limit": 60,
-      "used": 43,
-      "remaining": 17,
+      "used": 44,
+      "remaining": 16,
       "history": [
         {
           "type": "ADD",
@@ -3302,6 +3314,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-04T06:22:27.140Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-05T03:40:04.092Z"
         }
       ]
     },
@@ -7190,27 +7208,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtns7e4t-b0f227",
-        "targetUsername": "kaleszz",
-        "targetUserId": 7965989099,
-        "targetName": "gw? iya gw kalzz",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+vaHHLE9HFkQ4OWI9",
-        "messageId": 57691,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-05T02:46:34.442Z",
-        "consumed": true,
-        "consumedAt": "2026-09-05T02:46:56.581Z",
-        "joinedByName": "gw? iya gw kalzz"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
