@@ -6187,6 +6187,19 @@
           "at": "2026-09-05T02:36:27.052Z"
         }
       ]
+    },
+    "8878495303": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-09-05T13:11:15.924Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -7269,27 +7282,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtoegrxa-ef4ed5",
-        "targetUsername": "zackkazenomi",
-        "targetUserId": 8878495303,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+GlY5a5m9uBQzZTE1",
-        "messageId": 57849,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-05T13:09:43.768Z",
-        "consumed": true,
-        "consumedAt": "2026-09-05T13:10:17.611Z",
-        "joinedByName": "Zack"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
