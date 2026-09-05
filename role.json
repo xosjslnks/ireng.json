@@ -2315,6 +2315,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-05T07:18:57.998Z"
+    },
+    {
+      "id": "1788596594965-cb57cca8",
+      "nomor": "625138449848",
+      "requestedBy": {
+        "id": 6582561645,
+        "name": "a",
+        "username": "dabull124"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-05T08:23:14.965Z"
     }
   ],
   "numberLimits": {
@@ -6029,8 +6040,8 @@
     },
     "6582561645": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 7,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -6073,6 +6084,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-04T12:20:01.779Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-05T08:23:14.965Z"
         }
       ]
     },
