@@ -6063,6 +6063,19 @@
           "at": "2026-09-03T11:12:16.905Z"
         }
       ]
+    },
+    "8927725680": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-09-05T02:21:32.211Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
