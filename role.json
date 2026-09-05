@@ -2304,30 +2304,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788592737997-4bf7659b",
-      "nomor": "6285284440284",
-      "requestedBy": {
-        "id": 8927725680,
-        "name": "Camelzo",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-05T07:18:57.998Z"
-    },
-    {
-      "id": "1788596594965-cb57cca8",
-      "nomor": "625138449848",
-      "requestedBy": {
-        "id": 6582561645,
-        "name": "a",
-        "username": "dabull124"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-05T08:23:14.965Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5215,8 +5192,8 @@
     },
     "8198448676": {
       "limit": 92,
-      "used": 10,
-      "remaining": 82,
+      "used": 11,
+      "remaining": 81,
       "history": [
         {
           "type": "ADD",
@@ -5289,6 +5266,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-09-05T07:35:35.436Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-09-05T08:26:37.828Z"
         }
       ]
     },
