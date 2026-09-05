@@ -853,6 +853,12 @@
       "name": "rizk",
       "username": "Grixk08",
       "chatId": 7974312596
+    },
+    {
+      "id": 8878495303,
+      "name": "Zack",
+      "username": "ZackKazenomi",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -973,7 +979,8 @@
       6061007166,
       7761695124,
       8927725680,
-      7965989099
+      7965989099,
+      8878495303
     ],
     "-1003320005121": [
       6821406318
@@ -7266,7 +7273,7 @@
       {
         "id": "lg-mtoegrxa-ef4ed5",
         "targetUsername": "zackkazenomi",
-        "targetUserId": null,
+        "targetUserId": 8878495303,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+GlY5a5m9uBQzZTE1",
@@ -7278,7 +7285,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-05T13:09:43.768Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-05T13:10:17.611Z",
+        "joinedByName": "Zack"
       }
     ],
     "history": [
