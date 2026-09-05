@@ -846,7 +846,7 @@
       "id": 7965989099,
       "name": "gw? iya gw kalzz",
       "username": "Kaleszz",
-      "chatId": 7965989099
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -7206,7 +7206,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-05T02:46:34.442Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-05T02:46:56.581Z",
+        "joinedByName": "gw? iya gw kalzz"
       }
     ],
     "history": [
