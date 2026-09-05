@@ -2291,19 +2291,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788575342555-4dff039f",
-      "nomor": "6285693571929",
-      "requestedBy": {
-        "id": 8927725680,
-        "name": "Camelzo",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-05T02:29:02.555Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6078,8 +6066,8 @@
     },
     "8927725680": {
       "limit": 5,
-      "used": 1,
-      "remaining": 4,
+      "used": 0,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -6092,6 +6080,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-05T02:29:02.555Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-05T02:29:17.518Z"
         }
       ]
     }
