@@ -7190,25 +7190,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtnrouns-ec80b9",
-        "targetUsername": "kaleszz",
-        "targetUserId": 7965989099,
-        "targetName": "gw? iya gw kalzz",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+vYgWtLECZOc0Yzc1",
-        "messageId": 57648,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-05T02:32:09.385Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
@@ -7394,6 +7376,20 @@
         "status": "expired",
         "expiredAt": "2026-08-20T08:55:41.907Z",
         "createdAt": "2026-08-20T07:45:13.435Z"
+      },
+      {
+        "id": "lg-mtnrouns-ec80b9",
+        "targetUsername": "kaleszz",
+        "targetUserId": 7965989099,
+        "requestedBy": {
+          "id": 1881875530,
+          "name": "Yth Sir Chouji.",
+          "username": "ChoujiShop",
+          "role": "owner"
+        },
+        "status": "expired",
+        "expiredAt": "2026-09-05T02:42:33.552Z",
+        "createdAt": "2026-09-05T02:32:09.385Z"
       }
     ],
     "expireMinutes": 10,
