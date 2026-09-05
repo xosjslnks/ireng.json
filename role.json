@@ -7190,7 +7190,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mtns7e4t-b0f227",
+        "targetUsername": "kaleszz",
+        "targetUserId": 7965989099,
+        "targetName": "gw? iya gw kalzz",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+vaHHLE9HFkQ4OWI9",
+        "messageId": 57691,
+        "createdBy": {
+          "id": 1881875530,
+          "name": "Yth Sir Chouji.",
+          "username": "ChoujiShop",
+          "role": "owner"
+        },
+        "createdAt": "2026-09-05T02:46:34.442Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
