@@ -2311,30 +2311,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788650602158-3d4fdf4e",
-      "nomor": "6285820364252",
-      "requestedBy": {
-        "id": 7675408612,
-        "name": "F",
-        "username": "Putzzkaciw"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-05T23:23:22.158Z"
-    },
-    {
-      "id": "1788652309285-ee81e7d2",
-      "nomor": "6282218264718",
-      "requestedBy": {
-        "id": 8878495303,
-        "name": "Zack",
-        "username": "ZackKazenomi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-05T23:51:49.285Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
