@@ -2322,6 +2322,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-06T10:57:18.543Z"
+    },
+    {
+      "id": "1788692314483-bfce9b39",
+      "nomor": "6285150513760",
+      "requestedBy": {
+        "id": 8927725680,
+        "name": "Camelzo",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-06T10:58:34.483Z"
     }
   ],
   "numberLimits": {
@@ -6212,8 +6223,8 @@
     },
     "8927725680": {
       "limit": 5,
-      "used": 1,
-      "remaining": 4,
+      "used": 2,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -6238,6 +6249,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-05T07:18:57.999Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-06T10:58:34.483Z"
         }
       ]
     },
