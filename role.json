@@ -2311,30 +2311,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788778757770-088c3449",
-      "nomor": "6285284434454",
-      "requestedBy": {
-        "id": 7209132612,
-        "name": "how",
-        "username": "how11z"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T10:59:17.770Z"
-    },
-    {
-      "id": "1788778821376-f69881dc",
-      "nomor": "6285284434436",
-      "requestedBy": {
-        "id": 7209132612,
-        "name": "how",
-        "username": "how11z"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T11:00:21.376Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
