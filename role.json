@@ -2311,7 +2311,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788778722397-fad617d6",
+      "nomor": "6285284434433",
+      "requestedBy": {
+        "id": 7209132612,
+        "name": "how",
+        "username": "how11z"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-07T10:58:42.397Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5902,8 +5914,8 @@
     },
     "7209132612": {
       "limit": 30,
-      "used": 10,
-      "remaining": 20,
+      "used": 11,
+      "remaining": 19,
       "history": [
         {
           "type": "ADD",
@@ -5976,6 +5988,12 @@
           "qty": 20,
           "note": "BUYLIMIT BL-MTR07FPP-214C",
           "at": "2026-09-07T08:54:36.170Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-07T10:58:42.397Z"
         }
       ]
     },
