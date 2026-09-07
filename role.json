@@ -2311,30 +2311,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788783339587-ce81d164",
-      "nomor": "6285731112759",
-      "requestedBy": {
-        "id": 7147570743,
-        "name": "Orang",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T12:15:39.587Z"
-    },
-    {
-      "id": "1788783388476-f62adcb7",
-      "nomor": "6285725543619",
-      "requestedBy": {
-        "id": 7147570743,
-        "name": "Orang",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T12:16:28.476Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6028,8 +6005,8 @@
     },
     "7147570743": {
       "limit": 40,
-      "used": 4,
-      "remaining": 36,
+      "used": 3,
+      "remaining": 37,
       "history": [
         {
           "type": "ADD",
@@ -6060,6 +6037,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-07T12:16:28.476Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-07T12:16:36.620Z"
         }
       ]
     },
