@@ -2312,41 +2312,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788783530404-1a2360e5",
-      "nomor": "6285113692679",
-      "requestedBy": {
-        "id": 7147570743,
-        "name": "Orang",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T12:18:50.404Z"
-    },
-    {
-      "id": "1788783550857-38c893ec",
-      "nomor": "6285196142856",
-      "requestedBy": {
-        "id": 7147570743,
-        "name": "Orang",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T12:19:10.858Z"
-    },
-    {
-      "id": "1788784387220-3d201bef",
-      "nomor": "6287748813708",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-07T12:33:07.220Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2982,8 +2948,8 @@
     },
     "8311655220": {
       "limit": 60,
-      "used": 49,
-      "remaining": 11,
+      "used": 48,
+      "remaining": 12,
       "history": [
         {
           "type": "ADD",
@@ -3386,6 +3352,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-07T12:33:07.220Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-07T12:33:24.672Z"
         }
       ]
     },
@@ -6046,8 +6018,8 @@
     },
     "7147570743": {
       "limit": 40,
-      "used": 5,
-      "remaining": 35,
+      "used": 4,
+      "remaining": 36,
       "history": [
         {
           "type": "ADD",
@@ -6096,6 +6068,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-07T12:19:10.858Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-07T12:33:24.672Z"
         }
       ]
     },
