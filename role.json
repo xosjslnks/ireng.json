@@ -2312,7 +2312,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788857110917-8cfaed1b",
+      "nomor": "6285607703056",
+      "requestedBy": {
+        "id": 8878495303,
+        "name": "Zack",
+        "username": "ZackKazenomi"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-08T08:45:10.917Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6407,8 +6419,8 @@
     },
     "8878495303": {
       "limit": 15,
-      "used": 5,
-      "remaining": 10,
+      "used": 6,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -6451,6 +6463,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MTSASTSD-281A",
           "at": "2026-09-08T06:38:57.663Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-08T08:45:10.917Z"
         }
       ]
     }
