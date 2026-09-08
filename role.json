@@ -859,6 +859,12 @@
       "name": "Zack",
       "username": "ZackKazenomi",
       "chatId": -1003596848958
+    },
+    {
+      "id": 6562648594,
+      "name": "iiiii jull",
+      "username": "erieeeexxx",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -980,7 +986,8 @@
       7761695124,
       8927725680,
       7965989099,
-      8878495303
+      8878495303,
+      6562648594
     ],
     "-1003320005121": [
       6821406318
@@ -7660,7 +7667,7 @@
       {
         "id": "lg-mtsmf2m8-bf520a",
         "targetUsername": "erieeeexxx",
-        "targetUserId": null,
+        "targetUserId": 6562648594,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+f8JpYCKdrHBjYmNl",
@@ -7672,7 +7679,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-08T12:03:25.966Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-08T12:04:35.245Z",
+        "joinedByName": "iiiii jull"
       }
     ],
     "history": [
