@@ -2319,7 +2319,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788869286376-e82026c1",
+      "nomor": "6283876275716",
+      "requestedBy": {
+        "id": 6562648594,
+        "name": "iiiii jull",
+        "username": "erieeeexxx"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-08T12:08:06.376Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6493,14 +6505,20 @@
     },
     "6562648594": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-09-08T12:05:02.323Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-08T12:08:06.376Z"
         }
       ]
     }
@@ -7676,27 +7694,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtsmf2m8-bf520a",
-        "targetUsername": "erieeeexxx",
-        "targetUserId": 6562648594,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+f8JpYCKdrHBjYmNl",
-        "messageId": 58800,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-08T12:03:25.966Z",
-        "consumed": true,
-        "consumedAt": "2026-09-08T12:04:35.245Z",
-        "joinedByName": "iiiii jull"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
