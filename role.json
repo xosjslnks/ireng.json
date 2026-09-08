@@ -2312,19 +2312,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788864777880-9c0993a7",
-      "nomor": "6285122915429",
-      "requestedBy": {
-        "id": 8878495303,
-        "name": "Zack",
-        "username": "ZackKazenomi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-08T10:52:57.880Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
