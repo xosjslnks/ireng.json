@@ -2319,19 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788869286376-e82026c1",
-      "nomor": "6283876275716",
-      "requestedBy": {
-        "id": 6562648594,
-        "name": "iiiii jull",
-        "username": "erieeeexxx"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-08T12:08:06.376Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
