@@ -6490,6 +6490,19 @@
           "at": "2026-09-08T10:52:57.880Z"
         }
       ]
+    },
+    "6562648594": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-09-08T12:05:02.323Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
