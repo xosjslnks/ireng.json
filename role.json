@@ -5296,8 +5296,8 @@
     },
     "8198448676": {
       "limit": 92,
-      "used": 15,
-      "remaining": 77,
+      "used": 16,
+      "remaining": 76,
       "history": [
         {
           "type": "ADD",
@@ -5400,6 +5400,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-09-07T04:19:52.809Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-09-08T01:02:05.287Z"
         }
       ]
     },
