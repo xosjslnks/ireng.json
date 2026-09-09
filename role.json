@@ -7847,25 +7847,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtu57ydp-8b26b4",
-        "targetUsername": "username",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+T03wCHfwEkA1NWJl",
-        "messageId": 59049,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "🎀 xobe ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-09T13:37:32.804Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
@@ -8079,6 +8061,20 @@
         "status": "expired",
         "expiredAt": "2026-09-09T08:19:12.660Z",
         "createdAt": "2026-09-09T08:08:54.033Z"
+      },
+      {
+        "id": "lg-mtu57ydp-8b26b4",
+        "targetUsername": "username",
+        "targetUserId": null,
+        "requestedBy": {
+          "id": 8492332284,
+          "name": "🎀 xobe ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "status": "expired",
+        "expiredAt": "2026-09-09T13:48:14.258Z",
+        "createdAt": "2026-09-09T13:37:32.804Z"
       }
     ],
     "expireMinutes": 10,
