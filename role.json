@@ -2319,30 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788942199092-ea91060a",
-      "nomor": "6285779284474",
-      "requestedBy": {
-        "id": 8323610556,
-        "name": "Satria",
-        "username": "saputzz21"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-09T08:23:19.092Z"
-    },
-    {
-      "id": "1788942468336-56d0737a",
-      "nomor": "628538820828",
-      "requestedBy": {
-        "id": 8323610556,
-        "name": "Satria",
-        "username": "saputzz21"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-09T08:27:48.336Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
