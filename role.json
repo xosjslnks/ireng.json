@@ -2330,6 +2330,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-09T09:51:23.696Z"
+    },
+    {
+      "id": "1788949270074-ee9bc592",
+      "nomor": "6285196529135",
+      "requestedBy": {
+        "id": 8033287036,
+        "name": "icha",
+        "username": "icha156"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-09T10:21:10.074Z"
     }
   ],
   "numberLimits": {
@@ -4657,8 +4668,8 @@
     },
     "8033287036": {
       "limit": 20,
-      "used": 10,
-      "remaining": 10,
+      "used": 11,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -4755,6 +4766,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MTTY5X5I-B7C4",
           "at": "2026-09-09T10:20:46.073Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-09T10:21:10.074Z"
         }
       ]
     },
