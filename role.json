@@ -2319,7 +2319,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788962578637-c18f68d2",
+      "nomor": "6288989505380",
+      "requestedBy": {
+        "id": 6442864733,
+        "name": "Minzz kece",
+        "username": "minzdipanggilnengok"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-09T14:02:58.637Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6317,8 +6329,8 @@
     },
     "6442864733": {
       "limit": 5,
-      "used": 2,
-      "remaining": 3,
+      "used": 3,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -6349,6 +6361,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-08-30T12:58:18.336Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-09T14:02:58.637Z"
         }
       ]
     },
