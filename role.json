@@ -2319,19 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1788919535410-ee0b58b7",
-      "nomor": "6285607757909",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku Kiyoshi Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-09T02:05:35.410Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
