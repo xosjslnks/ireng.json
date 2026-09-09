@@ -2319,7 +2319,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1788956750352-9ebffea6",
+      "nomor": "62895622922837",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "𝘼𝙣𝙟𝙖𝙮𝙡𝙮𝙣𝙭𝙞𝙚𝙚 🉐㊙️",
+        "username": "Ceolynxiee"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-09T12:25:50.352Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4416,8 +4428,8 @@
     },
     "7975136339": {
       "limit": 30,
-      "used": 22,
-      "remaining": 8,
+      "used": 23,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -4652,6 +4664,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-09T10:24:57.437Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-09T12:25:50.352Z"
         }
       ]
     },
