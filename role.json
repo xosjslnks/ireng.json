@@ -7744,7 +7744,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mttthbbn-5d76e7",
+        "targetUsername": "username",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+4rl8U1n84-gzOTU1",
+        "messageId": 58940,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "🎀 xobe ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-09-09T08:08:54.033Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
