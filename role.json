@@ -7877,31 +7877,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtvkd89c-efa037",
-        "targetUsername": "vinzzstr1",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+xRQo2O4UaMJjMTQ1",
-        "messageId": 59174,
-        "createdBy": {
-          "id": 8198448676,
-          "name": "Rans",
-          "username": "-",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop"
-        },
-        "createdAt": "2026-09-10T13:29:19.372Z",
-        "approvedAt": "2026-09-10T13:31:04.670Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
@@ -8143,6 +8119,20 @@
         "status": "expired",
         "expiredAt": "2026-09-10T07:45:17.568Z",
         "createdAt": "2026-09-10T05:22:13.818Z"
+      },
+      {
+        "id": "lg-mtvkd89c-efa037",
+        "targetUsername": "vinzzstr1",
+        "targetUserId": null,
+        "requestedBy": {
+          "id": 8198448676,
+          "name": "Rans",
+          "username": "-",
+          "role": "reseller"
+        },
+        "status": "expired",
+        "expiredAt": "2026-09-10T13:41:19.338Z",
+        "createdAt": "2026-09-10T13:29:19.372Z"
       }
     ],
     "expireMinutes": 10,
