@@ -2319,19 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789081729063-b0ad57cd",
-      "nomor": "6285142149064",
-      "requestedBy": {
-        "id": 1064940846,
-        "name": "【Z】【I】【L】【S】",
-        "username": "ZILSSTOREJB3"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-10T23:08:49.063Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
