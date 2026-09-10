@@ -7876,34 +7876,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mtvkd89c-efa037",
         "targetUsername": "vinzzstr1",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-09-10T13:34:18.863Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+xRQo2O4UaMJjMTQ1",
+        "messageId": 59174,
+        "createdBy": {
           "id": 8198448676,
           "name": "Rans",
           "username": "-",
           "role": "reseller"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": null,
-        "reviewChatId": null,
-        "reviewMessageId": null,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 1881875530,
+          "name": "Yth Sir Chouji.",
+          "username": "ChoujiShop"
+        },
         "createdAt": "2026-09-10T13:29:19.372Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-09-10T13:31:04.670Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
