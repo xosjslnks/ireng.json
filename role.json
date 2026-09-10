@@ -7858,7 +7858,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-mtv2ytp7-950221",
+        "targetUsername": "vinzzstr1",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-09-10T05:27:13.338Z",
+        "requestedBy": {
+          "id": 8198448676,
+          "name": "Rans",
+          "username": "-",
+          "role": "reseller"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-09-10T05:22:13.818Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
