@@ -2330,6 +2330,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-11T13:45:05.610Z"
+    },
+    {
+      "id": "1789134579752-0f75984c",
+      "nomor": "6285805585917",
+      "requestedBy": {
+        "id": 7333580176,
+        "name": "─χ novaa",
+        "username": "XNovaa11"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-11T13:49:39.752Z"
     }
   ],
   "numberLimits": {
@@ -6758,8 +6769,8 @@
     },
     "7333580176": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -6772,6 +6783,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-11T10:51:16.029Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-11T13:49:39.752Z"
         }
       ]
     },
