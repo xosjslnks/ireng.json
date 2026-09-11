@@ -2319,41 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789125640642-e1ccb109",
-      "nomor": "6285713459455",
-      "requestedBy": {
-        "id": 8033287036,
-        "name": "icha",
-        "username": "icha156"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T11:20:40.642Z"
-    },
-    {
-      "id": "1789127083713-1b1ca753",
-      "nomor": "62895622921713",
-      "requestedBy": {
-        "id": 7975136339,
-        "name": "𝘼𝙣𝙟𝙖𝙮𝙡𝙮𝙣𝙭𝙞𝙚𝙚 🉐㊙️",
-        "username": "Ceolynxiee"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T11:44:43.713Z"
-    },
-    {
-      "id": "1789129530286-3e5b6f49",
-      "nomor": "6282236476163",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "balryzl",
-        "username": "nanskzoo"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T12:25:30.286Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -4480,8 +4446,8 @@
     },
     "7975136339": {
       "limit": 30,
-      "used": 24,
-      "remaining": 6,
+      "used": 23,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -4740,13 +4706,19 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-11T11:44:43.713Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-11T12:40:16.473Z"
         }
       ]
     },
     "8033287036": {
       "limit": 20,
-      "used": 12,
-      "remaining": 8,
+      "used": 11,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -4867,6 +4839,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-11T11:20:40.642Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-11T12:40:16.473Z"
         }
       ]
     },
