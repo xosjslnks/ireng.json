@@ -2319,30 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789113015892-9c2eaf7b",
-      "nomor": "6285812262911",
-      "requestedBy": {
-        "id": 6582561645,
-        "name": "a",
-        "username": "dabull124"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T07:50:15.892Z"
-    },
-    {
-      "id": "1789123876029-2ae0c156",
-      "nomor": "628137022652",
-      "requestedBy": {
-        "id": 7333580176,
-        "name": "─χ novaa",
-        "username": "XNovaa11"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T10:51:16.029Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
