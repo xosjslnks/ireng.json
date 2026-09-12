@@ -2319,41 +2319,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789134305610-b4de157b",
-      "nomor": "6281977379381",
-      "requestedBy": {
-        "id": 7740005605,
-        "name": "PutraGTG",
-        "username": "putragtg_official"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T13:45:05.610Z"
-    },
-    {
-      "id": "1789134579752-0f75984c",
-      "nomor": "6285805585917",
-      "requestedBy": {
-        "id": 7333580176,
-        "name": "─χ novaa",
-        "username": "XNovaa11"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-11T13:49:39.752Z"
-    },
-    {
-      "id": "1789176263483-ad25e06d",
-      "nomor": "6285833461457",
-      "requestedBy": {
-        "id": 8878495303,
-        "name": "Zack",
-        "username": "ZackKazenomi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-12T01:24:23.483Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
