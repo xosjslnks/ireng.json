@@ -2347,30 +2347,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789295007212-f4ec2d37",
-      "nomor": "6283105576508",
-      "requestedBy": {
-        "id": 6841505858,
-        "name": "bacuy",
-        "username": "bssteam666"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-13T10:23:27.212Z"
-    },
-    {
-      "id": "1789297915392-b625ae1f",
-      "nomor": "6285133410370",
-      "requestedBy": {
-        "id": 8757495718,
-        "name": "Zeckk aja dh",
-        "username": "Zackgantengjir"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-13T11:11:55.392Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
