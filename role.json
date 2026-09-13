@@ -883,6 +883,12 @@
       "name": "Zeckk aja dh",
       "username": "Zackgantengjir",
       "chatId": -1003596848958
+    },
+    {
+      "id": 6841505858,
+      "name": "bacuy",
+      "username": "bssteam666",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1008,7 +1014,8 @@
       6562648594,
       8635901773,
       8495407535,
-      8757495718
+      8757495718,
+      6841505858
     ],
     "-1003320005121": [
       6821406318
@@ -8278,7 +8285,7 @@
       {
         "id": "lg-mtznyu4z-b1a6ec",
         "targetUsername": "bssteam666",
-        "targetUserId": null,
+        "targetUserId": 6841505858,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+5cCya2-rr_pjM2Vl",
@@ -8290,7 +8297,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-13T10:21:10.917Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-13T10:21:45.929Z",
+        "joinedByName": "bacuy"
       }
     ],
     "history": [
