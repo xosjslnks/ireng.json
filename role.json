@@ -871,6 +871,12 @@
       "name": "Roy",
       "username": "Roystore008",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8495407535,
+      "name": "zxystur",
+      "username": "zxystur",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -994,7 +1000,8 @@
       7965989099,
       8878495303,
       6562648594,
-      8635901773
+      8635901773,
+      8495407535
     ],
     "-1003320005121": [
       6821406318
@@ -8226,7 +8233,7 @@
       {
         "id": "lg-mtzk2wxg-e77e8f",
         "targetUsername": "zxystur",
-        "targetUserId": null,
+        "targetUserId": 8495407535,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+Ickn1AAxCwIxMWE9",
@@ -8238,7 +8245,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-13T08:32:22.695Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-13T08:32:48.659Z",
+        "joinedByName": "zxystur"
       }
     ],
     "history": [
