@@ -6940,6 +6940,19 @@
       "used": 0,
       "remaining": 0,
       "history": []
+    },
+    "8495407535": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-09-13T08:37:40.024Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -8229,27 +8242,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtzk2wxg-e77e8f",
-        "targetUsername": "zxystur",
-        "targetUserId": 8495407535,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+Ickn1AAxCwIxMWE9",
-        "messageId": 60308,
-        "createdBy": {
-          "id": 8605898407,
-          "name": "GianzOfficial",
-          "username": "GianzOfficial",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-13T08:32:22.695Z",
-        "consumed": true,
-        "consumedAt": "2026-09-13T08:32:48.659Z",
-        "joinedByName": "zxystur"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
