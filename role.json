@@ -2326,19 +2326,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789284723989-3baca265",
-      "nomor": "6285134221757",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [MODE GACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-13T07:32:03.990Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
