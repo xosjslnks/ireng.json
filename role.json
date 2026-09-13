@@ -2358,6 +2358,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-13T13:15:40.564Z"
+    },
+    {
+      "id": "1789305488857-082f6a94",
+      "nomor": "6285168811747",
+      "requestedBy": {
+        "id": 8495407535,
+        "name": "zxystur",
+        "username": "zxystur"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-13T13:18:08.857Z"
     }
   ],
   "numberLimits": {
@@ -6987,14 +6998,20 @@
     },
     "8495407535": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-09-13T08:37:40.024Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-13T13:18:08.857Z"
         }
       ]
     },
