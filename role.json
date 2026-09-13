@@ -8254,7 +8254,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mtzn50z1-1a6da1",
+        "targetUsername": "zackgantengjir",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+ORVuGWFN0FQxY2Zl",
+        "messageId": 60354,
+        "createdBy": {
+          "id": 1881875530,
+          "name": "Yth Sir Chouji.",
+          "username": "ChoujiShop",
+          "role": "owner"
+        },
+        "createdAt": "2026-09-13T09:58:00.167Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
