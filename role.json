@@ -2326,41 +2326,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789274766605-fad64ed2",
-      "nomor": "6283829983491",
-      "requestedBy": {
-        "id": 8323610556,
-        "name": "Satria",
-        "username": "saputzz21"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-13T04:46:06.605Z"
-    },
-    {
-      "id": "1789275234581-54759150",
-      "nomor": "6285122761402",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [MODE GACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-13T04:53:54.581Z"
-    },
-    {
-      "id": "1789277796594-956c8c5e",
-      "nomor": "6281977379381",
-      "requestedBy": {
-        "id": 7740005605,
-        "name": "PutraGTG",
-        "username": "putragtg_official"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-13T05:36:36.595Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5137,8 +5103,8 @@
     },
     "7740005605": {
       "limit": 30,
-      "used": 11,
-      "remaining": 19,
+      "used": 10,
+      "remaining": 20,
       "history": [
         {
           "type": "ADD",
@@ -5265,6 +5231,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-13T05:36:36.595Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-13T05:37:49.275Z"
         }
       ]
     },
@@ -6379,8 +6351,8 @@
     },
     "8323610556": {
       "limit": 10,
-      "used": 10,
-      "remaining": 0,
+      "used": 9,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
@@ -6447,6 +6419,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-13T04:46:06.605Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-13T05:37:49.275Z"
         }
       ]
     },
@@ -6885,8 +6863,8 @@
     },
     "8725041439": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 0,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -6899,6 +6877,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-13T04:53:54.581Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-09-13T05:37:49.275Z"
         }
       ]
     }
