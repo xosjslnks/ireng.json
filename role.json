@@ -2347,7 +2347,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789295007212-f4ec2d37",
+      "nomor": "6283105576508",
+      "requestedBy": {
+        "id": 6841505858,
+        "name": "bacuy",
+        "username": "bssteam666"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-13T10:23:27.212Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6995,14 +7007,20 @@
     },
     "6841505858": {
       "limit": 2,
-      "used": 0,
-      "remaining": 2,
+      "used": 1,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
           "qty": 2,
           "note": "OWNER_ADD",
           "at": "2026-09-13T10:22:27.112Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-13T10:23:27.212Z"
         }
       ]
     }
@@ -8294,27 +8312,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mtznyu4z-b1a6ec",
-        "targetUsername": "bssteam666",
-        "targetUserId": 6841505858,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+5cCya2-rr_pjM2Vl",
-        "messageId": 60383,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-13T10:21:10.917Z",
-        "consumed": true,
-        "consumedAt": "2026-09-13T10:21:45.929Z",
-        "joinedByName": "bacuy"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
