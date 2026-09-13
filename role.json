@@ -8222,7 +8222,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mtzk2wxg-e77e8f",
+        "targetUsername": "zxystur",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+Ickn1AAxCwIxMWE9",
+        "messageId": 60308,
+        "createdBy": {
+          "id": 8605898407,
+          "name": "GianzOfficial",
+          "username": "GianzOfficial",
+          "role": "owner"
+        },
+        "createdAt": "2026-09-13T08:32:22.695Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
