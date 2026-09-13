@@ -2347,7 +2347,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789305340564-d042c1e0",
+      "nomor": "6285286392989",
+      "requestedBy": {
+        "id": 8757495718,
+        "name": "Zeckk aja dh",
+        "username": "Zackgantengjir"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-13T13:15:40.564Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2609,6 +2621,12 @@
           "at": "2026-09-04T05:31:45.213Z"
         }
       ]
+    },
+    "1687602900": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     },
     "1848342025": {
       "limit": 10,
@@ -6982,8 +7000,8 @@
     },
     "8757495718": {
       "limit": 2,
-      "used": 1,
-      "remaining": 1,
+      "used": 2,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -6996,6 +7014,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-13T11:11:55.392Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-13T13:15:40.564Z"
         }
       ]
     },
