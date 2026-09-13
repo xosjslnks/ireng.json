@@ -2333,7 +2333,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789291246531-4b8f43cf",
+      "nomor": "6283829983491",
+      "requestedBy": {
+        "id": 8323610556,
+        "name": "Satria",
+        "username": "saputzz21"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-13T09:20:46.531Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6358,8 +6370,8 @@
     },
     "8323610556": {
       "limit": 10,
-      "used": 9,
-      "remaining": 1,
+      "used": 10,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -6432,6 +6444,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-09-13T05:37:49.275Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-13T09:20:46.531Z"
         }
       ]
     },
