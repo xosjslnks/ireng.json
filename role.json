@@ -2337,6 +2337,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-13T04:46:06.605Z"
+    },
+    {
+      "id": "1789275234581-54759150",
+      "nomor": "6285122761402",
+      "requestedBy": {
+        "id": 8725041439,
+        "name": "Neppp [MODE GACHA]",
+        "username": "Neppnew"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-13T04:53:54.581Z"
     }
   ],
   "numberLimits": {
@@ -6857,14 +6868,20 @@
     },
     "8725041439": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MTZC8LEQ-F572",
           "at": "2026-09-13T04:53:44.022Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-13T04:53:54.581Z"
         }
       ]
     }
