@@ -2358,6 +2358,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-13T10:23:27.212Z"
+    },
+    {
+      "id": "1789297915392-b625ae1f",
+      "nomor": "6285133410370",
+      "requestedBy": {
+        "id": 8757495718,
+        "name": "Zeckk aja dh",
+        "username": "Zackgantengjir"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-13T11:11:55.392Z"
     }
   ],
   "numberLimits": {
@@ -6994,14 +7005,20 @@
     },
     "8757495718": {
       "limit": 2,
-      "used": 0,
-      "remaining": 2,
+      "used": 1,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
           "qty": 2,
           "note": "OWNER_ADD",
           "at": "2026-09-13T09:59:22.708Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-13T11:11:55.392Z"
         }
       ]
     },
