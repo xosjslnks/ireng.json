@@ -2354,30 +2354,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789394078377-bd7b7f5b",
-      "nomor": "6285124316452",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku Kiyoshi Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-14T13:54:38.377Z"
-    },
-    {
-      "id": "1789395962113-c8ce8a89",
-      "nomor": "6285150231105",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [REHATGACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-14T14:26:02.113Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
