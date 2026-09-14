@@ -8423,7 +8423,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-mu1arpa0-1a39ce",
+        "targetUsername": "fikzynihdek",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-09-14T13:52:14.999Z",
+        "requestedBy": {
+          "id": 8259824445,
+          "name": "~kyy",
+          "username": "cenexe123",
+          "role": "reseller"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-09-14T13:47:15.780Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
