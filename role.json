@@ -2354,7 +2354,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789394078377-bd7b7f5b",
+      "nomor": "6285124316452",
+      "requestedBy": {
+        "id": 7885282711,
+        "name": "Aku Kiyoshi Sidd",
+        "username": "sidzyyyy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-14T13:54:38.377Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5306,8 +5318,8 @@
     },
     "7885282711": {
       "limit": 36,
-      "used": 24,
-      "remaining": 12,
+      "used": 25,
+      "remaining": 11,
       "history": [
         {
           "type": "ADD",
@@ -5500,6 +5512,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-13T04:05:01.150Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-14T13:54:38.377Z"
         }
       ]
     },
@@ -8431,33 +8449,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mu1arpa0-1a39ce",
-        "targetUsername": "fikzynihdek",
-        "targetUserId": 7591578033,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+RUVMAm8LzlA5MTJl",
-        "messageId": 60743,
-        "createdBy": {
-          "id": 8259824445,
-          "name": "~kyy",
-          "username": "cenexe123",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop"
-        },
-        "createdAt": "2026-09-14T13:47:15.780Z",
-        "approvedAt": "2026-09-14T13:49:25.264Z",
-        "consumed": true,
-        "consumedAt": "2026-09-14T13:53:41.087Z",
-        "joinedByName": "FIKZYY"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
