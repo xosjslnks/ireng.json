@@ -4190,8 +4190,8 @@
     },
     "8259824445": {
       "limit": 24,
-      "used": 19,
-      "remaining": 5,
+      "used": 20,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -4432,6 +4432,12 @@
           "qty": 5,
           "note": "BUYLIMIT BL-MU10331L-9603",
           "at": "2026-09-14T08:48:51.173Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-09-14T08:51:28.797Z"
         }
       ]
     },
