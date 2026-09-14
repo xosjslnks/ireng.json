@@ -889,6 +889,12 @@
       "name": "bacuy",
       "username": "bssteam666",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7591578033,
+      "name": "FIKZYY",
+      "username": "Fikzynihdek",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1015,7 +1021,8 @@
       8635901773,
       8495407535,
       8757495718,
-      6841505858
+      6841505858,
+      7591578033
     ],
     "-1003320005121": [
       6821406318
@@ -8428,7 +8435,7 @@
       {
         "id": "lg-mu1arpa0-1a39ce",
         "targetUsername": "fikzynihdek",
-        "targetUserId": null,
+        "targetUserId": 7591578033,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+RUVMAm8LzlA5MTJl",
@@ -8446,7 +8453,9 @@
         },
         "createdAt": "2026-09-14T13:47:15.780Z",
         "approvedAt": "2026-09-14T13:49:25.264Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-14T13:53:41.087Z",
+        "joinedByName": "FIKZYY"
       }
     ],
     "history": [
