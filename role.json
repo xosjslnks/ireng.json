@@ -2354,7 +2354,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789399400699-e565e7e8",
+      "nomor": "6285142025024",
+      "requestedBy": {
+        "id": 8725041439,
+        "name": "Neppp [REHATGACHA]",
+        "username": "Neppnew"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-14T15:23:20.699Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6957,8 +6969,8 @@
     },
     "8725041439": {
       "limit": 10,
-      "used": 3,
-      "remaining": 7,
+      "used": 4,
+      "remaining": 6,
       "history": [
         {
           "type": "ADD",
@@ -7019,6 +7031,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-14T14:26:02.113Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-14T15:23:20.699Z"
         }
       ]
     },
