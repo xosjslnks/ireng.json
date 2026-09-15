@@ -2368,7 +2368,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789467373578-f597be58",
+      "nomor": "628315906812",
+      "requestedBy": {
+        "id": 8495407535,
+        "name": "zxystur",
+        "username": "zxystur"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T10:16:13.578Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7075,8 +7087,8 @@
     },
     "8495407535": {
       "limit": 65,
-      "used": 2,
-      "remaining": 63,
+      "used": 3,
+      "remaining": 62,
       "history": [
         {
           "type": "ADD",
@@ -7101,6 +7113,12 @@
           "qty": 60,
           "note": "BUYLIMIT BL-MU2IJEPJ-B8D2",
           "at": "2026-09-15T10:13:39.804Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T10:16:13.578Z"
         }
       ]
     },
@@ -8613,33 +8631,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mu2ih8kk-9dfc35",
-        "targetUsername": "ghex_nyawit",
-        "targetUserId": 8312276190,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+4ug-ZJjnDL5lMTk1",
-        "messageId": 61251,
-        "createdBy": {
-          "id": 8259824445,
-          "name": "~kyy",
-          "username": "cenexe123",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop"
-        },
-        "createdAt": "2026-09-15T10:10:50.345Z",
-        "approvedAt": "2026-09-15T10:12:32.918Z",
-        "consumed": true,
-        "consumedAt": "2026-09-15T10:13:38.760Z",
-        "joinedByName": "olaa👋"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
