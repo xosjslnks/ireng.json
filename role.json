@@ -8580,7 +8580,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-mu2ih8kk-9dfc35",
+        "targetUsername": "ghex_nyawit",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-09-15T10:15:49.891Z",
+        "requestedBy": {
+          "id": 8259824445,
+          "name": "~kyy",
+          "username": "cenexe123",
+          "role": "reseller"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-09-15T10:10:50.345Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
