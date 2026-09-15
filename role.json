@@ -8382,6 +8382,23 @@
       "createdAt": "2026-09-15T01:54:25.806Z",
       "lastCheckedAt": "2026-09-15T01:56:02.661Z",
       "paidAt": "2026-09-15T01:56:02.936Z"
+    },
+    {
+      "id": "BL-MU2IJEPJ-B8D2",
+      "userId": 8495407535,
+      "username": "zxystur",
+      "name": "zxystur",
+      "role": "member",
+      "qty": 60,
+      "pricePerSlot": 50,
+      "total": 3000,
+      "status": "pending",
+      "paymentUrl": "https://app.pakasir.com/pay/botdbxobe/3000?order_id=BL-MU2IJEPJ-B8D2&qris_only=1",
+      "qrisBase64": "data:image/png;base64,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",
+      "expiresAt": "2026-09-15T10:22:31.159Z",
+      "autoCancelAt": "2026-09-15T10:17:31.159Z",
+      "chatId": -1003596848958,
+      "createdAt": "2026-09-15T10:12:32.467Z"
     }
   ],
   "pakasirUsage": {
@@ -8572,42 +8589,40 @@
       }
     },
     "2026-09-15": {
-      "total": 8,
+      "total": 9,
       "endpoints": {
-        "/pakasir/transactioncreate": 1,
+        "/pakasir/transactioncreate": 2,
         "/pakasir/transactiondetail": 7
       }
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mu2ih8kk-9dfc35",
         "targetUsername": "ghex_nyawit",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-09-15T10:15:49.891Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+4ug-ZJjnDL5lMTk1",
+        "messageId": 61251,
+        "createdBy": {
           "id": 8259824445,
           "name": "~kyy",
           "username": "cenexe123",
           "role": "reseller"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 61242,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 1152,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 1881875530,
+          "name": "Yth Sir Chouji.",
+          "username": "ChoujiShop"
+        },
         "createdAt": "2026-09-15T10:10:50.345Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-09-15T10:12:32.918Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
