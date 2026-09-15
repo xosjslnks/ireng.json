@@ -2372,6 +2372,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-15T01:56:24.314Z"
+    },
+    {
+      "id": "1789456664602-876bb693",
+      "nomor": "6281808523001",
+      "requestedBy": {
+        "id": 7591578033,
+        "name": "FIKZYY",
+        "username": "Fikzynihdek"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T07:17:44.602Z"
     }
   ],
   "numberLimits": {
@@ -7155,14 +7166,20 @@
     },
     "7591578033": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MU1B3VFB-40FE",
           "at": "2026-09-14T13:58:09.721Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T07:17:44.602Z"
         }
       ]
     },
