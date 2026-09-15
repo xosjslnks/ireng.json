@@ -2375,19 +2375,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789481988662-5634f3b1",
-      "nomor": "6285286392989",
-      "requestedBy": {
-        "id": 8016977047,
-        "name": "Vya store",
-        "username": "vyastore0"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-15T14:19:48.662Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
