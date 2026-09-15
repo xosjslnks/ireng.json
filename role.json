@@ -2368,41 +2368,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789468588672-3298a39f",
-      "nomor": "6285122516011",
-      "requestedBy": {
-        "id": 8033287036,
-        "name": "icha",
-        "username": "icha156"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-15T10:36:28.672Z"
-    },
-    {
-      "id": "1789468931081-c026a8be",
-      "nomor": "6283159006812",
-      "requestedBy": {
-        "id": 8495407535,
-        "name": "zxystur",
-        "username": "zxystur"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-15T10:42:11.081Z"
-    },
-    {
-      "id": "1789469828615-1e6a9611",
-      "nomor": "6285124196346",
-      "requestedBy": {
-        "id": 8312276190,
-        "name": "olaa👋",
-        "username": "ghex_nyawit"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-15T10:57:08.615Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
