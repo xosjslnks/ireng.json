@@ -2390,6 +2390,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-15T10:42:11.081Z"
+    },
+    {
+      "id": "1789469828615-1e6a9611",
+      "nomor": "6285124196346",
+      "requestedBy": {
+        "id": 8312276190,
+        "name": "olaa👋",
+        "username": "ghex_nyawit"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T10:57:08.615Z"
     }
   ],
   "numberLimits": {
@@ -7259,14 +7270,20 @@
     },
     "8312276190": {
       "limit": 90,
-      "used": 0,
-      "remaining": 90,
+      "used": 1,
+      "remaining": 89,
       "history": [
         {
           "type": "ADD",
           "qty": 90,
           "note": "BUYLIMIT BL-MU2ITJST-EEFD",
           "at": "2026-09-15T10:24:39.943Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T10:57:08.615Z"
         }
       ]
     }
