@@ -2361,7 +2361,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789437384314-cfa8eeed",
+      "nomor": "6285138957039",
+      "requestedBy": {
+        "id": 8757495718,
+        "name": "Zeckk aja dh",
+        "username": "Zackgantengjir"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T01:56:24.314Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7087,8 +7099,8 @@
     },
     "8757495718": {
       "limit": 12,
-      "used": 2,
-      "remaining": 10,
+      "used": 3,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -7113,6 +7125,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MU20QTZM-A495",
           "at": "2026-09-15T01:56:02.936Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T01:56:24.315Z"
         }
       ]
     },
