@@ -2375,7 +2375,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789477796805-5cab55a4",
+      "nomor": "6285716145707",
+      "requestedBy": {
+        "id": 6582561645,
+        "name": "a",
+        "username": "dabull124"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T13:09:56.805Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6658,8 +6670,8 @@
     },
     "6582561645": {
       "limit": 20,
-      "used": 10,
-      "remaining": 10,
+      "used": 11,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -6732,6 +6744,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MU2OTENS-2E5C",
           "at": "2026-09-15T13:09:01.744Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T13:09:56.806Z"
         }
       ]
     },
