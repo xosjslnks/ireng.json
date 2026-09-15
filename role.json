@@ -2386,6 +2386,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-15T13:09:56.805Z"
+    },
+    {
+      "id": "1789478876509-0be67f93",
+      "nomor": "6283181962905",
+      "requestedBy": {
+        "id": 7885282711,
+        "name": "Aku Kiyoshi Sidd",
+        "username": "sidzyyyy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T13:27:56.509Z"
     }
   ],
   "numberLimits": {
@@ -5345,8 +5356,8 @@
     },
     "7885282711": {
       "limit": 36,
-      "used": 25,
-      "remaining": 11,
+      "used": 26,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -5545,6 +5556,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-14T13:54:38.377Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T13:27:56.509Z"
         }
       ]
     },
