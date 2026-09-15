@@ -2368,7 +2368,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789472209208-a7876599",
+      "nomor": "6285645078594",
+      "requestedBy": {
+        "id": 8312276190,
+        "name": "olaa👋",
+        "username": "ghex_nyawit"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-15T11:36:49.208Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7236,8 +7248,8 @@
     },
     "8312276190": {
       "limit": 90,
-      "used": 1,
-      "remaining": 89,
+      "used": 2,
+      "remaining": 88,
       "history": [
         {
           "type": "ADD",
@@ -7250,6 +7262,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-15T10:57:08.615Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-15T11:36:49.208Z"
         }
       ]
     }
