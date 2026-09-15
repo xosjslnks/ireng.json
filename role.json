@@ -907,6 +907,12 @@
       "name": "olaa👋",
       "username": "ghex_nyawit",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8016977047,
+      "name": "Vya store",
+      "username": "vyastore0",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1036,7 +1042,8 @@
       6841505858,
       7591578033,
       8855092914,
-      8312276190
+      8312276190,
+      8016977047
     ],
     "-1003320005121": [
       6821406318
@@ -8691,7 +8698,7 @@
       {
         "id": "lg-mu2lc8ng-755452",
         "targetUsername": "vyastore0",
-        "targetUserId": null,
+        "targetUserId": 8016977047,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+L58OsjylegliZTBl",
@@ -8703,7 +8710,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-15T11:30:55.940Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-15T11:37:35.558Z",
+        "joinedByName": "Vya store"
       }
     ],
     "history": [
