@@ -2375,19 +2375,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789472209208-a7876599",
-      "nomor": "6285645078594",
-      "requestedBy": {
-        "id": 8312276190,
-        "name": "olaa👋",
-        "username": "ghex_nyawit"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-15T11:36:49.208Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
