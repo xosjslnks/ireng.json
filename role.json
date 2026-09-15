@@ -7277,6 +7277,19 @@
           "at": "2026-09-15T11:36:49.208Z"
         }
       ]
+    },
+    "8016977047": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-09-15T11:40:24.556Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -8694,27 +8707,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mu2lc8ng-755452",
-        "targetUsername": "vyastore0",
-        "targetUserId": 8016977047,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+L58OsjylegliZTBl",
-        "messageId": 61329,
-        "createdBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop",
-          "role": "owner"
-        },
-        "createdAt": "2026-09-15T11:30:55.940Z",
-        "consumed": true,
-        "consumedAt": "2026-09-15T11:37:35.558Z",
-        "joinedByName": "Vya store"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
