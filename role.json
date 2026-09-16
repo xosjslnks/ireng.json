@@ -2375,19 +2375,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789535007353-2d6214b0",
-      "nomor": "6285122516809",
-      "requestedBy": {
-        "id": 6841505858,
-        "name": "bacuy",
-        "username": "bssteam666"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T05:03:27.353Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
