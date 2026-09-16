@@ -7351,6 +7351,19 @@
           "at": "2026-09-15T14:19:48.662Z"
         }
       ]
+    },
+    "7865711278": {
+      "limit": 2,
+      "used": 0,
+      "remaining": 2,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 2,
+          "note": "OWNER_ADD",
+          "at": "2026-09-16T11:58:14.170Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
