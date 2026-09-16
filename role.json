@@ -2382,19 +2382,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789560247406-aa45f9de",
-      "nomor": "6285217152028",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [REHATGACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T12:04:07.407Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
