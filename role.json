@@ -2375,30 +2375,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789556232615-f8272536",
-      "nomor": "6282290646946",
-      "requestedBy": {
-        "id": 8033287036,
-        "name": "icha",
-        "username": "icha156"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T10:57:12.616Z"
-    },
-    {
-      "id": "1789559773222-f5f05db5",
-      "nomor": "6285122761402",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [REHATGACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T11:56:13.222Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
