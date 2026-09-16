@@ -2382,41 +2382,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789562838232-6116499a",
-      "nomor": "6285779160886",
-      "requestedBy": {
-        "id": 6582561645,
-        "name": "a",
-        "username": "dabull124"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T12:47:18.232Z"
-    },
-    {
-      "id": "1789570292168-43c6ed09",
-      "nomor": "6287776408827",
-      "requestedBy": {
-        "id": 8323610556,
-        "name": "Satria",
-        "username": "saputzz21"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T14:51:32.168Z"
-    },
-    {
-      "id": "1789574040618-15d06846",
-      "nomor": "6283832121621",
-      "requestedBy": {
-        "id": 7885282711,
-        "name": "Aku Kiyoshi Sidd",
-        "username": "sidzyyyy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T15:54:00.618Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
