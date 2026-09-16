@@ -2375,19 +2375,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789528149051-8ad7eda3",
-      "nomor": "6285113605177",
-      "requestedBy": {
-        "id": 8033287036,
-        "name": "icha",
-        "username": "icha156"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-16T03:09:09.051Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
