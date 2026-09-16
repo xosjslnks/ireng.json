@@ -8761,34 +8761,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mu3v5o0t-4fb9a4",
         "targetUsername": "prammmzzz",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-09-16T08:58:31.228Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+DZM3JCiDedQwNmZl",
+        "messageId": 61447,
+        "createdBy": {
           "id": 6061007166,
           "name": "⋆ Hãmzx.",
           "username": "HamzxNmbG",
           "role": "reseller"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 61442,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 1185,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2"
+        },
         "createdAt": "2026-09-16T08:53:31.739Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-09-16T09:38:53.950Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
