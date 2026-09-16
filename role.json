@@ -913,6 +913,12 @@
       "name": "Vya store",
       "username": "vyastore0",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7865711278,
+      "name": "fadil",
+      "username": "DilszZRoawrR",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1043,7 +1049,8 @@
       7591578033,
       8855092914,
       8312276190,
-      8016977047
+      8016977047,
+      7865711278
     ],
     "-1003320005121": [
       6821406318
@@ -8784,7 +8791,7 @@
       {
         "id": "lg-mu41qhv9-dbf830",
         "targetUsername": "dilszzroawrr",
-        "targetUserId": null,
+        "targetUserId": 7865711278,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+uk9aHsBfyM44MmU9",
@@ -8796,7 +8803,9 @@
           "role": "owner"
         },
         "createdAt": "2026-09-16T11:57:41.093Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-16T11:57:54.255Z",
+        "joinedByName": "fadil"
       }
     ],
     "history": [
