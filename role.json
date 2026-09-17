@@ -2389,19 +2389,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789647908388-c1b29def",
-      "nomor": "6285119534517",
-      "requestedBy": {
-        "id": 8495407535,
-        "name": "zxystur",
-        "username": "zxystur"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-17T12:25:08.388Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
