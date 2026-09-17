@@ -919,6 +919,12 @@
       "name": "fadil",
       "username": "DilszZRoawrR",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7789730415,
+      "name": "Pramm",
+      "username": "Prammmzzz",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1050,7 +1056,8 @@
       8855092914,
       8312276190,
       8016977047,
-      7865711278
+      7865711278,
+      7789730415
     ],
     "-1003320005121": [
       6821406318
@@ -8852,7 +8859,7 @@
       {
         "id": "lg-mu5g6l7x-c9f46e",
         "targetUsername": "prammmzzz",
-        "targetUserId": null,
+        "targetUserId": 7789730415,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+rUD_mTVSTe5jZTY1",
@@ -8870,7 +8877,9 @@
         },
         "createdAt": "2026-09-17T11:29:52.848Z",
         "approvedAt": "2026-09-17T11:38:07.038Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-09-17T11:38:46.474Z",
+        "joinedByName": "Pramm"
       }
     ],
     "history": [
