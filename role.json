@@ -8869,6 +8869,12 @@
         "/pakasir/transactioncreate": 4,
         "/pakasir/transactiondetail": 31
       }
+    },
+    "2026-09-17": {
+      "total": 1,
+      "endpoints": {
+        "/pakasir/transactioncreate": 1
+      }
     }
   },
   "linkgb": {
