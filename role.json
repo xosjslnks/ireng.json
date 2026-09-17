@@ -2389,7 +2389,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789646371968-8ca6686f",
+      "nomor": "6281977379381",
+      "requestedBy": {
+        "id": 7740005605,
+        "name": "PutraGTG",
+        "username": "putragtg_official"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-17T11:59:31.968Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5238,8 +5250,8 @@
     },
     "7740005605": {
       "limit": 30,
-      "used": 11,
-      "remaining": 19,
+      "used": 12,
+      "remaining": 18,
       "history": [
         {
           "type": "ADD",
@@ -5378,6 +5390,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-15T13:46:25.422Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-17T11:59:31.969Z"
         }
       ]
     },
@@ -8855,33 +8873,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mu5g6l7x-c9f46e",
-        "targetUsername": "prammmzzz",
-        "targetUserId": 7789730415,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+rUD_mTVSTe5jZTY1",
-        "messageId": 61670,
-        "createdBy": {
-          "id": 6061007166,
-          "name": "⋆ Hãmzx.",
-          "username": "HamzxNmbG",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 1881875530,
-          "name": "Yth Sir Chouji.",
-          "username": "ChoujiShop"
-        },
-        "createdAt": "2026-09-17T11:29:52.848Z",
-        "approvedAt": "2026-09-17T11:38:07.038Z",
-        "consumed": true,
-        "consumedAt": "2026-09-17T11:38:46.474Z",
-        "joinedByName": "Pramm"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
