@@ -2389,7 +2389,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789647908388-c1b29def",
+      "nomor": "6285119534517",
+      "requestedBy": {
+        "id": 8495407535,
+        "name": "zxystur",
+        "username": "zxystur"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-17T12:25:08.388Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7216,8 +7228,8 @@
     },
     "8495407535": {
       "limit": 65,
-      "used": 4,
-      "remaining": 61,
+      "used": 5,
+      "remaining": 60,
       "history": [
         {
           "type": "ADD",
@@ -7254,6 +7266,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-15T10:42:11.081Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-17T12:25:08.388Z"
         }
       ]
     },
