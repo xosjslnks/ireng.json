@@ -7270,8 +7270,8 @@
     },
     "8619657279": {
       "limit": 10,
-      "used": 2,
-      "remaining": 8,
+      "used": 3,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -7296,6 +7296,12 @@
           "qty": 5,
           "note": "BUYLIMIT BL-MU85QA19-47CD",
           "at": "2026-09-19T09:01:32.946Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-09-19T09:21:28.665Z"
         }
       ]
     },
