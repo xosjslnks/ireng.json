@@ -2390,30 +2390,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789855157922-70f24a35",
-      "nomor": "6285800865175",
-      "requestedBy": {
-        "id": 7865711278,
-        "name": "fadil",
-        "username": "DilszZRoawrR"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-19T21:59:17.922Z"
-    },
-    {
-      "id": "1789855536195-4f178d7e",
-      "nomor": "6283867806468",
-      "requestedBy": {
-        "id": 8193076128,
-        "name": "yang baca monyed",
-        "username": "gugugaga349"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-19T22:05:36.195Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
