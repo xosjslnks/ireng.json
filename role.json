@@ -2401,6 +2401,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-20T03:26:10.872Z"
+    },
+    {
+      "id": "1789880197436-6d9fcbb2",
+      "nomor": "6282156097527",
+      "requestedBy": {
+        "id": 8475125111,
+        "name": "FIFZ",
+        "username": "fifzsturrganteng"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-20T04:56:37.436Z"
     }
   ],
   "numberLimits": {
@@ -6026,8 +6037,8 @@
     },
     "8475125111": {
       "limit": 25,
-      "used": 13,
-      "remaining": 12,
+      "used": 14,
+      "remaining": 11,
       "history": [
         {
           "type": "ADD",
@@ -6166,6 +6177,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-12T10:20:36.246Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-20T04:56:37.436Z"
         }
       ]
     },
