@@ -6238,8 +6238,8 @@
     },
     "8765981010": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 7,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -6282,6 +6282,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-09-06T12:58:52.172Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-09-20T13:24:09.022Z"
         }
       ]
     },
