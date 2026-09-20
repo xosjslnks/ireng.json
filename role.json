@@ -2390,19 +2390,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789887379932-bc576b04",
-      "nomor": "6285188405582",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [REHAT GACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-20T06:56:19.932Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
