@@ -2397,7 +2397,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1789986473816-9470149c",
+      "nomor": "6283167418580",
+      "requestedBy": {
+        "id": 8060626705,
+        "name": "PrimeNel",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-21T10:27:53.816Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7712,14 +7724,20 @@
     },
     "8060626705": {
       "limit": 2,
-      "used": 0,
-      "remaining": 2,
+      "used": 1,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
           "qty": 2,
           "note": "OWNER_ADD",
           "at": "2026-09-21T10:26:05.554Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-21T10:27:53.816Z"
         }
       ]
     }
