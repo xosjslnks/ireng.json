@@ -2419,6 +2419,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-21T12:59:27.325Z"
+    },
+    {
+      "id": "1789996522211-61a29173",
+      "nomor": "6285283539596",
+      "requestedBy": {
+        "id": 7975136339,
+        "name": "ini dapaa",
+        "username": "Iyaadapaa"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-21T13:15:22.211Z"
     }
   ],
   "numberLimits": {
@@ -4661,8 +4672,8 @@
     },
     "7975136339": {
       "limit": 30,
-      "used": 25,
-      "remaining": 5,
+      "used": 26,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
@@ -4951,6 +4962,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-21T12:59:27.325Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-21T13:15:22.211Z"
         }
       ]
     },
