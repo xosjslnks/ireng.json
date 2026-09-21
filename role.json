@@ -2390,41 +2390,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1789969500780-b7ba8a62",
-      "nomor": "6281376882054",
-      "requestedBy": {
-        "id": 7865711278,
-        "name": "fadil",
-        "username": "DilszZRoawrR"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-21T05:45:00.780Z"
-    },
-    {
-      "id": "1789970893001-5b3db7db",
-      "nomor": "83857666468",
-      "requestedBy": {
-        "id": 8878495303,
-        "name": "Zack",
-        "username": "ZackKazenomi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-21T06:08:13.001Z"
-    },
-    {
-      "id": "1789983815440-0e6e6b1f",
-      "nomor": "6285752956056",
-      "requestedBy": {
-        "id": 8725041439,
-        "name": "Neppp [REHAT GACHA]",
-        "username": "Neppnew"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-21T09:43:35.440Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
