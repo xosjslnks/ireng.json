@@ -2408,6 +2408,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-22T05:31:07.428Z"
+    },
+    {
+      "id": "1790060000588-5541fcc1",
+      "nomor": "6283857666468",
+      "requestedBy": {
+        "id": 8016977047,
+        "name": "Vya store",
+        "username": "vyastore0"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-22T06:53:20.588Z"
     }
   ],
   "numberLimits": {
@@ -7686,8 +7697,8 @@
     },
     "8016977047": {
       "limit": 2,
-      "used": 1,
-      "remaining": 1,
+      "used": 2,
+      "remaining": 0,
       "history": [
         {
           "type": "ADD",
@@ -7700,6 +7711,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-15T14:19:48.662Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-22T06:53:20.588Z"
         }
       ]
     },
