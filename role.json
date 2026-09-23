@@ -5218,8 +5218,8 @@
     },
     "8727150917": {
       "limit": 5,
-      "used": 2,
-      "remaining": 3,
+      "used": 3,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -5238,6 +5238,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-22T08:15:58.416Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-09-23T08:01:26.322Z"
         }
       ]
     },
