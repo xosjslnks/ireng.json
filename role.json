@@ -2397,7 +2397,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1790128622043-cf890d8a",
+      "nomor": "22899344467",
+      "requestedBy": {
+        "id": 1064940846,
+        "name": "【Z】【I】【L】【S】",
+        "username": "ZILSSTOREJB3"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-23T01:57:02.044Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -2414,8 +2426,8 @@
     },
     "1064940846": {
       "limit": 22,
-      "used": 12,
-      "remaining": 10,
+      "used": 13,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -2518,6 +2530,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MUDGBEP4-BD89",
           "at": "2026-09-23T01:56:36.878Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-23T01:57:02.044Z"
         }
       ]
     },
