@@ -874,8 +874,8 @@
     },
     {
       "id": 8495407535,
-      "name": "zxystur",
-      "username": "zxystur",
+      "name": "kaisar zxy (tele)",
+      "username": "kaisarzxy",
       "chatId": -1003596848958
     },
     {
@@ -2397,7 +2397,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1790250973520-08a64c31",
+      "nomor": "6285779153921",
+      "requestedBy": {
+        "id": 8495407535,
+        "name": "kaisar zxy (tele)",
+        "username": "kaisarzxy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-24T11:56:13.520Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7500,8 +7512,8 @@
     },
     "8495407535": {
       "limit": 65,
-      "used": 5,
-      "remaining": 60,
+      "used": 6,
+      "remaining": 59,
       "history": [
         {
           "type": "ADD",
@@ -7544,6 +7556,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-17T12:25:08.388Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-24T11:56:13.520Z"
         }
       ]
     },
