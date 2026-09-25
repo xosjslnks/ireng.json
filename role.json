@@ -2397,19 +2397,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1790326035763-5c1b5406",
-      "nomor": "6285729538266",
-      "requestedBy": {
-        "id": 8311655220,
-        "name": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍",
-        "username": "princeRyzll"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-25T08:47:15.763Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
