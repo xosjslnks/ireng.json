@@ -2397,7 +2397,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1790326035763-5c1b5406",
+      "nomor": "6285729538266",
+      "requestedBy": {
+        "id": 8311655220,
+        "name": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍",
+        "username": "princeRyzll"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-25T08:47:15.763Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -3099,8 +3111,8 @@
     },
     "8311655220": {
       "limit": 60,
-      "used": 49,
-      "remaining": 11,
+      "used": 50,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -3527,6 +3539,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-11T12:25:30.286Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-25T08:47:15.763Z"
         }
       ]
     },
