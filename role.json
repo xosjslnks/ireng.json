@@ -2408,6 +2408,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-09-26T10:59:47.044Z"
+    },
+    {
+      "id": "1790424584271-a5874650",
+      "nomor": "6285113692679",
+      "requestedBy": {
+        "id": 7147570743,
+        "name": "Orang",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-26T12:09:44.271Z"
     }
   ],
   "numberLimits": {
@@ -6697,8 +6708,8 @@
     },
     "7147570743": {
       "limit": 40,
-      "used": 4,
-      "remaining": 36,
+      "used": 5,
+      "remaining": 35,
       "history": [
         {
           "type": "ADD",
@@ -6753,6 +6764,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-09-07T12:33:24.672Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-26T12:09:44.272Z"
         }
       ]
     },
