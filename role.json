@@ -2399,19 +2399,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1790585565862-db0395fc",
-      "nomor": "6283830985339",
-      "requestedBy": {
-        "id": 8060626705,
-        "name": "Nelzora",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-09-28T08:52:45.862Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
