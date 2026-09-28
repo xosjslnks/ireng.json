@@ -929,7 +929,7 @@
     },
     {
       "id": 8060626705,
-      "name": "PrimeNel",
+      "name": "Nelzora",
       "username": "-",
       "chatId": -1003596848958
     }
@@ -2399,7 +2399,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1790585565862-db0395fc",
+      "nomor": "6283830985339",
+      "requestedBy": {
+        "id": 8060626705,
+        "name": "Nelzora",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-09-28T08:52:45.862Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7864,8 +7876,8 @@
     },
     "8060626705": {
       "limit": 2,
-      "used": 0,
-      "remaining": 2,
+      "used": 1,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
@@ -7884,6 +7896,12 @@
           "qty": 1,
           "note": "ACC_DUPLICATE_OR_INVALID",
           "at": "2026-09-21T10:28:04.092Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-09-28T08:52:45.862Z"
         }
       ]
     }
