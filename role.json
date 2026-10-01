@@ -7440,8 +7440,8 @@
     },
     "8725041439": {
       "limit": 20,
-      "used": 10,
-      "remaining": 10,
+      "used": 11,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -7550,6 +7550,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MUPF8KZ0-ED3D",
           "at": "2026-10-01T11:01:44.839Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-01T11:03:56.741Z"
         }
       ]
     },
