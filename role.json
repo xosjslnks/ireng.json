@@ -2399,19 +2399,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791029701357-45bb47ec",
-      "nomor": "62895429011158",
-      "requestedBy": {
-        "id": 8193076128,
-        "name": "yang baca monyed",
-        "username": "gugugaga349"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-03T12:15:01.357Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
