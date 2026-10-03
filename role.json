@@ -2399,7 +2399,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1791029701357-45bb47ec",
+      "nomor": "62895429011158",
+      "requestedBy": {
+        "id": 8193076128,
+        "name": "yang baca monyed",
+        "username": "gugugaga349"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-03T12:15:01.357Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -6105,8 +6117,8 @@
     },
     "8193076128": {
       "limit": 10,
-      "used": 6,
-      "remaining": 4,
+      "used": 7,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -6149,6 +6161,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-19T22:05:36.195Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-03T12:15:01.357Z"
         }
       ]
     },
