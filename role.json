@@ -9635,6 +9635,12 @@
         "/pakasir/transactioncreate": 1,
         "/pakasir/transactiondetail": 12
       }
+    },
+    "2026-10-05": {
+      "total": 1,
+      "endpoints": {
+        "/pakasir/transactioncreate": 1
+      }
     }
   },
   "linkgb": {
