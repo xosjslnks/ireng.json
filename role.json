@@ -2399,19 +2399,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791254189930-f0788068",
-      "nomor": "85602234061",
-      "requestedBy": {
-        "id": 8855092914,
-        "name": "Kink",
-        "username": "Kinklix"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-06T02:36:29.931Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
