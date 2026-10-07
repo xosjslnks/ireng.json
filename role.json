@@ -2399,19 +2399,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791387490439-d28d789c",
-      "nomor": "6289529384052",
-      "requestedBy": {
-        "id": 7789730415,
-        "name": "Pramm",
-        "username": "Prammmzzz"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-07T15:38:10.439Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
