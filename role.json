@@ -9689,7 +9689,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-muy7fikq-309208",
+        "targetUsername": "lunch07",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-10-07T14:35:11.399Z",
+        "requestedBy": {
+          "id": 8788855625,
+          "name": "Kafzy",
+          "username": "MakloSukaYangaAmpos",
+          "role": "partner"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-10-07T14:30:11.875Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [],
     "history": [
       {
