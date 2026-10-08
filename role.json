@@ -9728,34 +9728,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-muy7fikq-309208",
         "targetUsername": "lunch07",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-10-07T14:35:11.399Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+OEcRkFC3Ou85NTM1",
+        "messageId": 64326,
+        "createdBy": {
           "id": 8788855625,
           "name": "Kafzy",
           "username": "MakloSukaYangaAmpos",
           "role": "partner"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 64268,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 1266,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2"
+        },
         "createdAt": "2026-10-07T14:30:11.875Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-10-08T00:39:23.104Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
