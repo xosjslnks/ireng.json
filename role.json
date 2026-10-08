@@ -932,6 +932,12 @@
       "name": "Nelzora",
       "username": "-",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8334417533,
+      "name": "Lunch pengen fames",
+      "username": "lunch07",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1066,7 +1072,8 @@
       7865711278,
       7789730415,
       6544208100,
-      8060626705
+      8060626705,
+      8334417533
     ],
     "-1003320005121": [
       6821406318
@@ -9733,7 +9740,7 @@
       {
         "id": "lg-muy7fikq-309208",
         "targetUsername": "lunch07",
-        "targetUserId": null,
+        "targetUserId": 8334417533,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+OEcRkFC3Ou85NTM1",
@@ -9751,7 +9758,9 @@
         },
         "createdAt": "2026-10-07T14:30:11.875Z",
         "approvedAt": "2026-10-08T00:39:23.104Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-08T00:47:41.979Z",
+        "joinedByName": "Lunch pengen fames"
       }
     ],
     "history": [
