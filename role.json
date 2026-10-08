@@ -7850,9 +7850,9 @@
       ]
     },
     "8855092914": {
-      "limit": 2,
+      "limit": 12,
       "used": 2,
-      "remaining": 0,
+      "remaining": 10,
       "history": [
         {
           "type": "ADD",
@@ -7883,6 +7883,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-06T02:36:29.931Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 10,
+          "note": "OWNER_ADD",
+          "at": "2026-10-08T23:51:16.356Z"
         }
       ]
     },
@@ -8064,6 +8070,12 @@
           "at": "2026-09-28T08:52:45.862Z"
         }
       ]
+    },
+    "8334417533": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
