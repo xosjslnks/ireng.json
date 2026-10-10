@@ -2408,19 +2408,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791631723410-dc704c39",
-      "nomor": "6285111833635",
-      "requestedBy": {
-        "id": 8934863001,
-        "name": "NassDev.",
-        "username": "nnasgntg"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-10T11:28:43.410Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
