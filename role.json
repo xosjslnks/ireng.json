@@ -595,8 +595,8 @@
     },
     {
       "id": 1881875530,
-      "name": "Chouji Market",
-      "username": "ChoujiShop",
+      "name": "Light Yagami",
+      "username": "akuanakmark",
       "chatId": -1003596848958
     },
     {
@@ -2408,19 +2408,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791599624006-15c8ead7",
-      "nomor": "6283197156386",
-      "requestedBy": {
-        "id": 8878495303,
-        "name": "Zack",
-        "username": "ZackKazenomi"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-10T02:33:44.006Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
