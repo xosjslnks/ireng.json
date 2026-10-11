@@ -946,6 +946,12 @@
       "name": "VENTUM OWN CH",
       "username": "OfficiallCoinMarkettCapService1",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8665364995,
+      "name": "vito",
+      "username": "-",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1082,7 +1088,8 @@
       6544208100,
       8060626705,
       8334417533,
-      8055226459
+      8055226459,
+      8665364995
     ],
     "-1003320005121": [
       6821406318
@@ -8175,6 +8182,12 @@
           "at": "2026-10-11T05:27:59.476Z"
         }
       ]
+    },
+    "8665364995": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
