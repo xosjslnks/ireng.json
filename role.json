@@ -2408,7 +2408,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1791683506239-9d0ae87a",
+      "nomor": "6285645295020",
+      "requestedBy": {
+        "id": 8495407535,
+        "name": "kaisar zxy (tele)",
+        "username": "kaisarzxy"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-11T01:51:46.239Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7721,8 +7733,8 @@
     },
     "8495407535": {
       "limit": 65,
-      "used": 6,
-      "remaining": 59,
+      "used": 7,
+      "remaining": 58,
       "history": [
         {
           "type": "ADD",
@@ -7771,6 +7783,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-09-24T11:56:13.520Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-11T01:51:46.239Z"
         }
       ]
     },
