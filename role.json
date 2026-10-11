@@ -2415,30 +2415,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791683506239-9d0ae87a",
-      "nomor": "6285645295020",
-      "requestedBy": {
-        "id": 8495407535,
-        "name": "kaisar zxy (tele)",
-        "username": "kaisarzxy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-11T01:51:46.239Z"
-    },
-    {
-      "id": "1791699700361-d84d9c15",
-      "nomor": "82233832564",
-      "requestedBy": {
-        "id": 8334417533,
-        "name": "Lunch pengen fames",
-        "username": "lunch07"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-11T06:21:40.362Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
