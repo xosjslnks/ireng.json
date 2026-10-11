@@ -2426,6 +2426,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-11T01:51:46.239Z"
+    },
+    {
+      "id": "1791699700361-d84d9c15",
+      "nomor": "82233832564",
+      "requestedBy": {
+        "id": 8334417533,
+        "name": "Lunch pengen fames",
+        "username": "lunch07"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-11T06:21:40.362Z"
     }
   ],
   "numberLimits": {
@@ -8158,14 +8169,20 @@
     },
     "8334417533": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MV3FKKV4-B040",
           "at": "2026-10-11T06:21:23.043Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-11T06:21:40.362Z"
         }
       ]
     },
