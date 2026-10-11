@@ -2422,19 +2422,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791711594876-93dabba4",
-      "nomor": "6285134594612",
-      "requestedBy": {
-        "id": 7865711278,
-        "name": "fadil",
-        "username": "DilszZRoawrR"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-11T09:39:54.876Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
