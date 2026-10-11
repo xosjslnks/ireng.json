@@ -8161,6 +8161,19 @@
       "used": 0,
       "remaining": 0,
       "history": []
+    },
+    "8055226459": {
+      "limit": 4,
+      "used": 0,
+      "remaining": 4,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 4,
+          "note": "OWNER_ADD",
+          "at": "2026-10-11T05:27:59.476Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -9984,27 +9997,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mv3dqazd-e7ce00",
-        "targetUsername": "officiallcoinmarkettcapservice1",
-        "targetUserId": 8055226459,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+wDiZjzOAI9I5ZDc1",
-        "messageId": 65234,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-11T05:25:23.717Z",
-        "consumed": true,
-        "consumedAt": "2026-10-11T05:25:59.787Z",
-        "joinedByName": "VENTUM OWN CH"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
