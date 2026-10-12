@@ -2433,6 +2433,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-12T11:36:47.301Z"
+    },
+    {
+      "id": "1791805050137-0c0adb4e",
+      "nomor": "6285764721153",
+      "requestedBy": {
+        "id": 8934863001,
+        "name": "NassDev.",
+        "username": "nnasgntg"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-12T11:37:30.137Z"
     }
   ],
   "numberLimits": {
@@ -7018,8 +7029,8 @@
     },
     "8934863001": {
       "limit": 18,
-      "used": 1,
-      "remaining": 17,
+      "used": 2,
+      "remaining": 16,
       "history": [
         {
           "type": "ADD",
@@ -7038,6 +7049,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-10T11:28:43.410Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-12T11:37:30.137Z"
         }
       ]
     },
