@@ -2422,30 +2422,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1791805007301-8a8a68db",
-      "nomor": "6285138471342",
-      "requestedBy": {
-        "id": 8855092914,
-        "name": "Kink",
-        "username": "Kinklix"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-12T11:36:47.301Z"
-    },
-    {
-      "id": "1791805050137-0c0adb4e",
-      "nomor": "6285764721153",
-      "requestedBy": {
-        "id": 8934863001,
-        "name": "NassDev.",
-        "username": "nnasgntg"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-12T11:37:30.137Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
