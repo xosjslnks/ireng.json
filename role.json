@@ -8103,8 +8103,8 @@
     },
     "7789730415": {
       "limit": 15,
-      "used": 9,
-      "remaining": 6,
+      "used": 10,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -8171,6 +8171,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-10-14T13:12:48.867Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-15T17:11:10.252Z"
         }
       ]
     },
