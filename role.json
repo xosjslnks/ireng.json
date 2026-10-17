@@ -2422,7 +2422,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792250062050-95757008",
+      "nomor": "6283132528705",
+      "requestedBy": {
+        "id": 8055226459,
+        "name": "Raff?",
+        "username": "Raffzystore"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-17T15:14:22.051Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -8274,8 +8286,8 @@
     },
     "8055226459": {
       "limit": 4,
-      "used": 1,
-      "remaining": 3,
+      "used": 2,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -8300,6 +8312,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-17T09:34:21.663Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-17T15:14:22.051Z"
         }
       ]
     },
