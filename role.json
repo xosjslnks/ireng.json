@@ -7130,8 +7130,8 @@
     },
     "6061007166": {
       "limit": 25,
-      "used": 3,
-      "remaining": 22,
+      "used": 4,
+      "remaining": 21,
       "history": [
         {
           "type": "ADD",
@@ -7162,6 +7162,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-10-14T15:01:43.594Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-17T13:38:31.410Z"
         }
       ]
     },
