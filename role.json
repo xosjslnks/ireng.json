@@ -8357,6 +8357,19 @@
       "used": 0,
       "remaining": 0,
       "history": []
+    },
+    "8927284843": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-10-18T10:19:05.343Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -10207,27 +10220,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvdo8q0i-020995",
-        "targetUsername": "xyrelzstr",
-        "targetUserId": 8927284843,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+8T9Ezf6WfzIwYjE9",
-        "messageId": 65865,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-18T10:17:20.925Z",
-        "consumed": true,
-        "consumedAt": "2026-10-18T10:17:35.487Z",
-        "joinedByName": "ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨRL"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
