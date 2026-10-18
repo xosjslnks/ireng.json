@@ -952,6 +952,12 @@
       "name": "vito",
       "username": "-",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8927284843,
+      "name": "ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨRL",
+      "username": "xyrelzstr",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1089,7 +1095,8 @@
       8060626705,
       8334417533,
       8055226459,
-      8665364995
+      8665364995,
+      8927284843
     ],
     "-1003320005121": [
       6821406318
@@ -10204,7 +10211,7 @@
       {
         "id": "lg-mvdo8q0i-020995",
         "targetUsername": "xyrelzstr",
-        "targetUserId": null,
+        "targetUserId": 8927284843,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+8T9Ezf6WfzIwYjE9",
@@ -10216,7 +10223,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-18T10:17:20.925Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-18T10:17:35.487Z",
+        "joinedByName": "ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨRL"
       }
     ],
     "history": [
