@@ -2429,7 +2429,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792410174443-271d0afa",
+      "nomor": "6283179633999",
+      "requestedBy": {
+        "id": 6582561645,
+        "name": "a",
+        "username": "dabull124"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-19T11:42:54.443Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7180,8 +7192,8 @@
     },
     "6582561645": {
       "limit": 20,
-      "used": 16,
-      "remaining": 4,
+      "used": 17,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -7290,6 +7302,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-18T05:54:06.369Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-19T11:42:54.443Z"
         }
       ]
     },
