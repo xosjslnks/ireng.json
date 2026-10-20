@@ -10292,25 +10292,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvgkq6yi-ec4ecc",
-        "targetUsername": "princeryzll",
-        "targetUserId": 8311655220,
-        "targetName": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+yqJRQibMh_k5Yjhl",
-        "messageId": 66155,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-20T11:02:16.130Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
@@ -10580,6 +10562,20 @@
         "status": "expired",
         "expiredAt": "2026-09-16T09:49:27.541Z",
         "createdAt": "2026-09-16T08:53:31.739Z"
+      },
+      {
+        "id": "lg-mvgkq6yi-ec4ecc",
+        "targetUsername": "princeryzll",
+        "targetUserId": 8311655220,
+        "requestedBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "status": "expired",
+        "expiredAt": "2026-10-20T11:13:01.803Z",
+        "createdAt": "2026-10-20T11:02:16.130Z"
       }
     ],
     "expireMinutes": 10,
