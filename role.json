@@ -10292,7 +10292,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mvglx5hk-e50eac",
+        "targetUsername": "princeryzll",
+        "targetUserId": 8311655220,
+        "targetName": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+AS320zNn9O8yNWI1",
+        "messageId": 66161,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-10-20T11:35:40.418Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
