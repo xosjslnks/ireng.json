@@ -10308,7 +10308,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-20T11:35:40.418Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-20T11:36:16.905Z",
+        "joinedByName": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍"
       }
     ],
     "history": [
