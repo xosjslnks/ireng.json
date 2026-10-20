@@ -2437,7 +2437,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792501586465-3310de71",
+      "nomor": "6283196718529",
+      "requestedBy": {
+        "id": 6582561645,
+        "name": "a",
+        "username": "dabull124"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-20T13:06:26.465Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7188,8 +7200,8 @@
     },
     "6582561645": {
       "limit": 20,
-      "used": 17,
-      "remaining": 3,
+      "used": 18,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -7304,6 +7316,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-19T11:42:54.443Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-20T13:06:26.465Z"
         }
       ]
     },
@@ -10292,27 +10310,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvglx5hk-e50eac",
-        "targetUsername": "princeryzll",
-        "targetUserId": 8311655220,
-        "targetName": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+AS320zNn9O8yNWI1",
-        "messageId": 66161,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-20T11:35:40.418Z",
-        "consumed": true,
-        "consumedAt": "2026-10-20T11:36:16.905Z",
-        "joinedByName": "𝑱𝑷𝑴 𝑷𝒓𝒊𝒏𝒄𝒆𝑹𝒚𝒛𝒍𝒍"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
