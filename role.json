@@ -2455,6 +2455,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-21T08:24:43.432Z"
+    },
+    {
+      "id": "1792571539685-54731472",
+      "nomor": "6285864984730",
+      "requestedBy": {
+        "id": 8055226459,
+        "name": "Raff?",
+        "username": "Raffzystore"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-21T08:32:19.685Z"
     }
   ],
   "numberLimits": {
@@ -8368,8 +8379,8 @@
     },
     "8055226459": {
       "limit": 14,
-      "used": 4,
-      "remaining": 10,
+      "used": 5,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -8430,6 +8441,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MVHURQ23-500B",
           "at": "2026-10-21T08:32:06.729Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-21T08:32:19.685Z"
         }
       ]
     },
