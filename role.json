@@ -8501,6 +8501,19 @@
           "at": "2026-10-21T09:12:47.750Z"
         }
       ]
+    },
+    "8671854977": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-10-21T11:38:27.648Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -10406,27 +10419,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvi1dry0-b71fca",
-        "targetUsername": "brahimstr",
-        "targetUserId": 8671854977,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+4JVdAyO6DnljZTc9",
-        "messageId": 66397,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-21T11:36:16.422Z",
-        "consumed": true,
-        "consumedAt": "2026-10-21T11:36:50.065Z",
-        "joinedByName": "brahim str"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
