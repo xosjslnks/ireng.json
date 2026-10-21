@@ -2444,30 +2444,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792573956119-3fa9306c",
-      "nomor": "6283163771583",
-      "requestedBy": {
-        "id": 6582561645,
-        "name": "a",
-        "username": "dabull124"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-21T09:12:36.119Z"
-    },
-    {
-      "id": "1792573967750-08abd7dd",
-      "nomor": "6283846403726",
-      "requestedBy": {
-        "id": 8364444081,
-        "name": "barzwlwk",
-        "username": "barzgantengbanget"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-21T09:12:47.750Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
