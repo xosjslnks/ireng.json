@@ -971,6 +971,12 @@
       "name": "barzwlwk",
       "username": "barzgantengbanget",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8671854977,
+      "name": "brahim str",
+      "username": "brahimstr",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1111,7 +1117,8 @@
       8665364995,
       8927284843,
       8649255064,
-      8364444081
+      8364444081,
+      8671854977
     ],
     "-1003320005121": [
       6821406318
@@ -10403,7 +10410,7 @@
       {
         "id": "lg-mvi1dry0-b71fca",
         "targetUsername": "brahimstr",
-        "targetUserId": null,
+        "targetUserId": 8671854977,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+4JVdAyO6DnljZTc9",
@@ -10415,7 +10422,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-21T11:36:16.422Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-21T11:36:50.065Z",
+        "joinedByName": "brahim str"
       }
     ],
     "history": [
