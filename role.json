@@ -2455,6 +2455,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-21T09:12:36.119Z"
+    },
+    {
+      "id": "1792573967750-08abd7dd",
+      "nomor": "6283846403726",
+      "requestedBy": {
+        "id": 8364444081,
+        "name": "barzwlwk",
+        "username": "barzgantengbanget"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-21T09:12:47.750Z"
     }
   ],
   "numberLimits": {
@@ -8490,14 +8501,20 @@
     },
     "8364444081": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-10-21T07:01:35.083Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-21T09:12:47.750Z"
         }
       ]
     }
