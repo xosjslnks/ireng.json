@@ -8533,6 +8533,19 @@
           "at": "2026-10-21T13:24:46.605Z"
         }
       ]
+    },
+    "7714855806": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-10-21T16:54:26.803Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
