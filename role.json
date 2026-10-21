@@ -8433,6 +8433,19 @@
           "at": "2026-10-18T10:25:17.409Z"
         }
       ]
+    },
+    "8364444081": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-10-21T07:01:35.083Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -10311,27 +10324,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvhrgwxd-51779c",
-        "targetUsername": "barzgantengbanget",
-        "targetUserId": 8364444081,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+DZmOYPY6cnw4OWNl",
-        "messageId": 66300,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-21T06:58:46.749Z",
-        "consumed": true,
-        "consumedAt": "2026-10-21T07:00:33.066Z",
-        "joinedByName": "barzwlwk"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
