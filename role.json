@@ -965,6 +965,12 @@
       "name": "Light Market",
       "username": "Lightadalahcahaya",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8364444081,
+      "name": "barzwlwk",
+      "username": "barzgantengbanget",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1104,7 +1110,8 @@
       8055226459,
       8665364995,
       8927284843,
-      8649255064
+      8649255064,
+      8364444081
     ],
     "-1003320005121": [
       6821406318
@@ -10308,7 +10315,7 @@
       {
         "id": "lg-mvhrgwxd-51779c",
         "targetUsername": "barzgantengbanget",
-        "targetUserId": null,
+        "targetUserId": 8364444081,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+DZmOYPY6cnw4OWNl",
@@ -10320,7 +10327,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-21T06:58:46.749Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-21T07:00:33.066Z",
+        "joinedByName": "barzwlwk"
       }
     ],
     "history": [
