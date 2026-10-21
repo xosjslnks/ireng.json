@@ -2451,7 +2451,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792589086605-99de07a5",
+      "nomor": "6283167293833",
+      "requestedBy": {
+        "id": 8671854977,
+        "name": "brahim str",
+        "username": "brahimstr"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-21T13:24:46.605Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -8510,14 +8522,20 @@
     },
     "8671854977": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-10-21T11:38:27.648Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-21T13:24:46.605Z"
         }
       ]
     }
