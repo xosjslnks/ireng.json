@@ -8522,9 +8522,9 @@
       ]
     },
     "8671854977": {
-      "limit": 5,
+      "limit": 30,
       "used": 2,
-      "remaining": 3,
+      "remaining": 28,
       "history": [
         {
           "type": "ADD",
@@ -8543,6 +8543,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-22T03:28:20.697Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 25,
+          "note": "OWNER_ADD",
+          "at": "2026-10-22T03:38:57.315Z"
         }
       ]
     },
