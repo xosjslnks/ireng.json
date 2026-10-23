@@ -2458,19 +2458,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792768321503-1217c763",
-      "nomor": "6283875315490",
-      "requestedBy": {
-        "id": 8055226459,
-        "name": "Raff?",
-        "username": "Raffzystore"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-23T15:12:01.503Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
