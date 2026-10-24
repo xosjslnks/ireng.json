@@ -10566,7 +10566,33 @@
     }
   },
   "linkgb": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "lg-mvm66nnd-adf2ee",
+        "targetUsername": "danzngeri",
+        "targetUserId": null,
+        "targetName": "-",
+        "cancelled": false,
+        "proofDeadline": "2026-10-24T09:06:46.681Z",
+        "requestedBy": {
+          "id": 7815231950,
+          "name": "𝐕ΣППۧ𝐈𝐗",
+          "username": "Vennixn",
+          "role": "reseller"
+        },
+        "chatId": -1003596848958,
+        "promptMessageId": null,
+        "proofMessageId": null,
+        "reviewChatId": null,
+        "reviewMessageId": null,
+        "status": "pending",
+        "inviteLink": null,
+        "inviteMessageId": null,
+        "createdAt": "2026-10-24T09:01:47.174Z",
+        "approvedBy": null,
+        "approvedAt": null
+      }
+    ],
     "active": [
       {
         "id": "lg-mvm62xr5-254ce7",
