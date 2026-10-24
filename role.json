@@ -10566,33 +10566,7 @@
     }
   },
   "linkgb": {
-    "pending": [
-      {
-        "id": "lg-mvm63x9t-5af26c",
-        "targetUsername": "",
-        "targetUserId": 6288219735872,
-        "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-10-24T09:04:38.995Z",
-        "requestedBy": {
-          "id": 7815231950,
-          "name": "𝐕ΣППۧ𝐈𝐗",
-          "username": "Vennixn",
-          "role": "reseller"
-        },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": null,
-        "reviewChatId": null,
-        "reviewMessageId": null,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
-        "createdAt": "2026-10-24T08:59:39.633Z",
-        "approvedBy": null,
-        "approvedAt": null
-      }
-    ],
+    "pending": [],
     "active": [
       {
         "id": "lg-mvm62xr5-254ce7",
@@ -10895,6 +10869,23 @@
         "status": "expired",
         "expiredAt": "2026-10-20T11:13:01.803Z",
         "createdAt": "2026-10-20T11:02:16.130Z"
+      },
+      {
+        "id": "lg-mvm63x9t-5af26c",
+        "targetUsername": "",
+        "requestedBy": {
+          "id": 7815231950,
+          "name": "𝐕ΣППۧ𝐈𝐗",
+          "username": "Vennixn",
+          "role": "reseller"
+        },
+        "status": "cancelled",
+        "cancelledBy": {
+          "id": 7815231950,
+          "name": "𝐕ΣППۧ𝐈𝐗"
+        },
+        "cancelledAt": "2026-10-24T09:01:39.216Z",
+        "createdAt": "2026-10-24T08:59:39.633Z"
       }
     ],
     "expireMinutes": 10,
