@@ -3776,8 +3776,8 @@
     },
     "7815231950": {
       "limit": 20,
-      "used": 16,
-      "remaining": 4,
+      "used": 17,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -3898,6 +3898,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-10-24T08:22:21.219Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-24T09:41:24.216Z"
         }
       ]
     },
@@ -10574,33 +10580,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvm675r1-a90661",
-        "targetUsername": "dapzngeri",
-        "targetUserId": 8977591619,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+N_jTB87pNVU3OGU9",
-        "messageId": 66952,
-        "createdBy": {
-          "id": 7815231950,
-          "name": "𝐕ΣППۧ𝐈𝐗",
-          "username": "Vennixn",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2"
-        },
-        "createdAt": "2026-10-24T09:02:10.616Z",
-        "approvedAt": "2026-10-24T09:03:59.200Z",
-        "consumed": true,
-        "consumedAt": "2026-10-24T09:09:50.318Z",
-        "joinedByName": "Dapz"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
