@@ -2458,19 +2458,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792810178320-a9e36ed4",
-      "nomor": "6285725884100",
-      "requestedBy": {
-        "id": 8671854977,
-        "name": "brahim str",
-        "username": "brahimstr"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-24T02:49:38.320Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
