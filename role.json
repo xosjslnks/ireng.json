@@ -2458,19 +2458,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792804726112-82d85217",
-      "nomor": "6283182549102",
-      "requestedBy": {
-        "id": 6582561645,
-        "name": "a",
-        "username": "dabull124"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-24T01:18:46.112Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
