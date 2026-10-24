@@ -2472,7 +2472,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792882243850-856cde0d",
+      "nomor": "628839005865",
+      "requestedBy": {
+        "id": 8977591619,
+        "name": "Dapz",
+        "username": "dapzngeri"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-24T22:50:43.850Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -8690,8 +8702,8 @@
     },
     "8977591619": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -8704,6 +8716,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-24T14:44:10.251Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-24T22:50:43.850Z"
         }
       ]
     }
