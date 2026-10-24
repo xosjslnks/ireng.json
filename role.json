@@ -994,7 +994,7 @@
       "id": 8977591619,
       "name": "Dapz",
       "username": "dapzngeri",
-      "chatId": -1003596848958
+      "chatId": 8977591619
     }
   ],
   "groupUsers": {
@@ -8687,6 +8687,12 @@
           "at": "2026-10-24T05:44:50.947Z"
         }
       ]
+    },
+    "8977591619": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
