@@ -989,6 +989,12 @@
       "name": "tazzxx",
       "username": "-",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8977591619,
+      "name": "Dapz",
+      "username": "dapzngeri",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1132,7 +1138,8 @@
       8364444081,
       8671854977,
       7714855806,
-      8942014434
+      8942014434,
+      8977591619
     ],
     "-1003320005121": [
       6821406318
@@ -10571,7 +10578,7 @@
       {
         "id": "lg-mvm675r1-a90661",
         "targetUsername": "dapzngeri",
-        "targetUserId": null,
+        "targetUserId": 8977591619,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+N_jTB87pNVU3OGU9",
@@ -10589,7 +10596,9 @@
         },
         "createdAt": "2026-10-24T09:02:10.616Z",
         "approvedAt": "2026-10-24T09:03:59.200Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-24T09:09:50.318Z",
+        "joinedByName": "Dapz"
       }
     ],
     "history": [
