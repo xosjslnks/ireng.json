@@ -3783,8 +3783,8 @@
     },
     "7815231950": {
       "limit": 20,
-      "used": 18,
-      "remaining": 2,
+      "used": 19,
+      "remaining": 1,
       "history": [
         {
           "type": "ADD",
@@ -3917,6 +3917,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-10-25T13:33:40.638Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-25T13:38:13.272Z"
         }
       ]
     },
