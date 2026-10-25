@@ -2472,7 +2472,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1792890922956-a358f2d9",
+      "nomor": "6285891094465",
+      "requestedBy": {
+        "id": 6582561645,
+        "name": "a",
+        "username": "dabull124"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-25T01:15:22.956Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -7241,8 +7253,8 @@
     },
     "6582561645": {
       "limit": 40,
-      "used": 20,
-      "remaining": 20,
+      "used": 21,
+      "remaining": 19,
       "history": [
         {
           "type": "ADD",
@@ -7381,6 +7393,12 @@
           "qty": 20,
           "note": "BUYLIMIT BL-MVN4VIVV-74DB",
           "at": "2026-10-25T01:14:14.513Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-25T01:15:22.956Z"
         }
       ]
     },
