@@ -8761,6 +8761,19 @@
           "at": "2026-10-25T10:18:35.295Z"
         }
       ]
+    },
+    "8773638151": {
+      "limit": 3,
+      "used": 0,
+      "remaining": 3,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 3,
+          "note": "OWNER_ADD",
+          "at": "2026-10-25T11:20:44.168Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -10720,27 +10733,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvnqfi8q-83165b",
-        "targetUsername": "falz_eko",
-        "targetUserId": 8773638151,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+AfD1QEDIsHU4OGY1",
-        "messageId": 67288,
-        "createdBy": {
-          "id": 8649255064,
-          "name": "Aku Hitori",
-          "username": "AkuHitoriGotou",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-25T11:16:18.446Z",
-        "consumed": true,
-        "consumedAt": "2026-10-25T11:16:49.133Z",
-        "joinedByName": "Falz"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
