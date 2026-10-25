@@ -10713,7 +10713,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mvnqfi8q-83165b",
+        "targetUsername": "falz_eko",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+AfD1QEDIsHU4OGY1",
+        "messageId": 67288,
+        "createdBy": {
+          "id": 8649255064,
+          "name": "Aku Hitori",
+          "username": "AkuHitoriGotou",
+          "role": "owner"
+        },
+        "createdAt": "2026-10-25T11:16:18.446Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
