@@ -995,6 +995,12 @@
       "name": "Dapz",
       "username": "dapzngeri",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8773638151,
+      "name": "Falz",
+      "username": "falz_eko",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1139,7 +1145,8 @@
       8671854977,
       7714855806,
       8942014434,
-      8977591619
+      8977591619,
+      8773638151
     ],
     "-1003320005121": [
       6821406318
@@ -10717,7 +10724,7 @@
       {
         "id": "lg-mvnqfi8q-83165b",
         "targetUsername": "falz_eko",
-        "targetUserId": null,
+        "targetUserId": 8773638151,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+AfD1QEDIsHU4OGY1",
@@ -10729,7 +10736,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-25T11:16:18.446Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-25T11:16:49.133Z",
+        "joinedByName": "Falz"
       }
     ],
     "history": [
