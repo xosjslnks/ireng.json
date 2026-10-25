@@ -2472,19 +2472,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1792906857947-2d02a69c",
-      "nomor": "6285138497852",
-      "requestedBy": {
-        "id": 8364444081,
-        "name": "barzwlwk",
-        "username": "barzgantengbanget"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-25T05:40:57.948Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
