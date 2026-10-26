@@ -3783,8 +3783,8 @@
     },
     "7815231950": {
       "limit": 30,
-      "used": 20,
-      "remaining": 10,
+      "used": 21,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
@@ -3935,6 +3935,12 @@
           "qty": 10,
           "note": "BUYLIMIT BL-MVP0KMQ0-B8E6",
           "at": "2026-10-26T08:49:09.587Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-26T08:49:32.881Z"
         }
       ]
     },
