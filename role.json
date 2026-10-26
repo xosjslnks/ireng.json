@@ -10885,9 +10885,9 @@
       }
     },
     "2026-10-26": {
-      "total": 6,
+      "total": 7,
       "endpoints": {
-        "/pakasir/transactioncreate": 1,
+        "/pakasir/transactioncreate": 2,
         "/pakasir/transactiondetail": 5
       }
     }
