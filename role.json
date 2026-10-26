@@ -1161,7 +1161,8 @@
     1539901407,
     8788855625,
     8392525265,
-    6061007166
+    6061007166,
+    8240957916
   ],
   "groups": [
     {
@@ -10938,27 +10939,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvpber0p-0d8ec4",
-        "targetUsername": "hamzajax",
-        "targetUserId": 8240957916,
-        "targetName": "⏤͟͟͞͞𝑷𝒂𝒅𝒖𝒌𝒂 𝑯𝒂𝒎𝒛𝒙𝑿",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+urFFRFMyJeNjZDI1",
-        "messageId": 68042,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-26T13:51:21.277Z",
-        "consumed": true,
-        "consumedAt": "2026-10-26T13:51:34.358Z",
-        "joinedByName": "𝑯𝒂𝒎𝒛𝒙𝑿"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
