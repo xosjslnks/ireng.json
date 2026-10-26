@@ -260,7 +260,7 @@
     },
     {
       "id": 8240957916,
-      "name": "⏤͟͟͞͞𝑷𝒂𝒅𝒖𝒌𝒂 𝑯𝒂𝒎𝒛𝒙𝑿",
+      "name": "𝑯𝒂𝒎𝒛𝒙𝑿",
       "username": "hamzajax",
       "chatId": -1003596848958
     },
@@ -10954,7 +10954,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-26T13:51:21.277Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-26T13:51:34.358Z",
+        "joinedByName": "𝑯𝒂𝒎𝒛𝒙𝑿"
       }
     ],
     "history": [
