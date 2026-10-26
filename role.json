@@ -2490,6 +2490,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-10-26T02:58:23.349Z"
+    },
+    {
+      "id": "1792983589920-54d2c6c2",
+      "nomor": "62883846139561",
+      "requestedBy": {
+        "id": 7585707847,
+        "name": "Law",
+        "username": "Lawnoodle95"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-26T02:59:49.920Z"
     }
   ],
   "numberLimits": {
@@ -7142,8 +7153,8 @@
     },
     "7585707847": {
       "limit": 5,
-      "used": 2,
-      "remaining": 3,
+      "used": 3,
+      "remaining": 2,
       "history": [
         {
           "type": "ADD",
@@ -7162,6 +7173,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-26T02:58:23.349Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-26T02:59:49.920Z"
         }
       ]
     },
