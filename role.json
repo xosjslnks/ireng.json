@@ -1001,6 +1001,12 @@
       "name": "Falz",
       "username": "falz_eko",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7283613662,
+      "name": "Syes",
+      "username": "Ac20383",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1146,7 +1152,8 @@
       7714855806,
       8942014434,
       8977591619,
-      8773638151
+      8773638151,
+      7283613662
     ],
     "-1003320005121": [
       6821406318
@@ -10979,7 +10986,7 @@
       {
         "id": "lg-mvqopih9-7611ae",
         "targetUsername": "ac20383",
-        "targetUserId": null,
+        "targetUserId": 7283613662,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+GSAXNveJIqU5Yzg9",
@@ -10991,7 +10998,9 @@
           "role": "owner"
         },
         "createdAt": "2026-10-27T12:51:24.605Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-10-27T12:51:45.323Z",
+        "joinedByName": "Syes"
       }
     ],
     "history": [
