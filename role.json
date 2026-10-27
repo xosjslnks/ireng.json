@@ -38,7 +38,7 @@
   "users": [
     {
       "id": 8492332284,
-      "name": "Pensi",
+      "name": "𝙭𝙊𝙗𝙀",
       "username": "xobedevelopment2",
       "chatId": -1003596848958
     },
@@ -10975,7 +10975,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mvqopih9-7611ae",
+        "targetUsername": "ac20383",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+GSAXNveJIqU5Yzg9",
+        "messageId": 68319,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-10-27T12:51:24.605Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
