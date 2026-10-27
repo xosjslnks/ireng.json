@@ -2487,7 +2487,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793114148569-d469d15c",
+      "nomor": "62883879191637",
+      "requestedBy": {
+        "id": 7283613662,
+        "name": "Syes",
+        "username": "Ac20383"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-27T15:15:48.569Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -8959,14 +8971,20 @@
     },
     "7283613662": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-10-27T12:52:24.816Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-27T15:15:48.569Z"
         }
       ]
     }
@@ -10995,27 +11013,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvqopih9-7611ae",
-        "targetUsername": "ac20383",
-        "targetUserId": 7283613662,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+GSAXNveJIqU5Yzg9",
-        "messageId": 68319,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-10-27T12:51:24.605Z",
-        "consumed": true,
-        "consumedAt": "2026-10-27T12:51:45.323Z",
-        "joinedByName": "Syes"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
