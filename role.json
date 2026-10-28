@@ -2487,19 +2487,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1793196701020-07148c94",
-      "nomor": "6283121441659",
-      "requestedBy": {
-        "id": 7906329645,
-        "name": "TICO",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-28T14:11:41.020Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
