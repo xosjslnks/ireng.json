@@ -2487,19 +2487,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1793224683461-3722030b",
-      "nomor": "62883154382267",
-      "requestedBy": {
-        "id": 8963255448,
-        "name": "neplimper",
-        "username": "KinkNevv"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-28T21:58:03.461Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
