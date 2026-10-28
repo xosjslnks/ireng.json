@@ -2487,7 +2487,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793224683461-3722030b",
+      "nomor": "62883154382267",
+      "requestedBy": {
+        "id": 8963255448,
+        "name": "neplimper",
+        "username": "KinkNevv"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-28T21:58:03.461Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9026,14 +9038,20 @@
     },
     "8963255448": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MVSNK653-371A",
           "at": "2026-10-28T21:55:23.554Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-28T21:58:03.461Z"
         }
       ]
     }
