@@ -261,7 +261,7 @@
     {
       "id": 8240957916,
       "name": "CS : Hamzx Market",
-      "username": "hamzajax",
+      "username": "CsHamzxMarket",
       "chatId": -1003596848958
     },
     {
@@ -6398,8 +6398,8 @@
     },
     "8240957916": {
       "limit": 20,
-      "used": 6,
-      "remaining": 14,
+      "used": 7,
+      "remaining": 13,
       "history": [
         {
           "type": "ADD",
@@ -6442,6 +6442,12 @@
           "qty": 1,
           "note": "ADD_DIRECT",
           "at": "2026-08-23T15:36:21.405Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-10-28T15:00:47.832Z"
         }
       ]
     },
