@@ -2487,19 +2487,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1793261250274-079be524",
-      "nomor": "6288300508959",
-      "requestedBy": {
-        "id": 8977591619,
-        "name": "Dapz",
-        "username": "dapzngeri"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-29T08:07:30.274Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
