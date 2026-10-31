@@ -2495,7 +2495,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793440689749-a09a8686",
+      "nomor": "6288291512272",
+      "requestedBy": {
+        "id": 7283613662,
+        "name": "Syes",
+        "username": "Ac20383"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-31T09:58:09.750Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9058,8 +9070,8 @@
     },
     "7283613662": {
       "limit": 5,
-      "used": 1,
-      "remaining": 4,
+      "used": 2,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -9072,6 +9084,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-27T15:15:48.569Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-31T09:58:09.750Z"
         }
       ]
     },
