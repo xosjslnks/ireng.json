@@ -2494,7 +2494,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793404858027-d303a54b",
+      "nomor": "62883010827284",
+      "requestedBy": {
+        "id": 8963255448,
+        "name": "neplimper",
+        "username": "KinkNevv"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-10-31T00:00:58.027Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9051,8 +9063,8 @@
     },
     "8963255448": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -9065,6 +9077,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-28T21:58:03.461Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-10-31T00:00:58.028Z"
         }
       ]
     }
