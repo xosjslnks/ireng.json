@@ -2495,19 +2495,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1793440689749-a09a8686",
-      "nomor": "6288291512272",
-      "requestedBy": {
-        "id": 7283613662,
-        "name": "Syes",
-        "username": "Ac20383"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-31T09:58:09.750Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
