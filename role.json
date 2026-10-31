@@ -2494,19 +2494,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1793413255618-fcc5030b",
-      "nomor": "6283177000492",
-      "requestedBy": {
-        "id": 8784200056,
-        "name": "PRABOWO SUBIANTO",
-        "username": "Dongo_452"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-10-31T02:20:55.618Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
