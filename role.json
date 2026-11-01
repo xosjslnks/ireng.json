@@ -1014,6 +1014,12 @@
       "name": "〆 𝚇 𝙽𝚘𝚟𝚊𝚊 ❄",
       "username": "NovaBobo",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8443832977,
+      "name": "kira",
+      "username": "KkiraModz",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1161,7 +1167,8 @@
       8977591619,
       8773638151,
       7283613662,
-      1480507502
+      1480507502,
+      8443832977
     ],
     "-1003320005121": [
       6821406318
@@ -11219,7 +11226,7 @@
       {
         "id": "lg-mvxvr477-c908bf",
         "targetUsername": "kkiramodz",
-        "targetUserId": null,
+        "targetUserId": 8443832977,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+ME1pCVUw4iIwZGM9",
@@ -11231,7 +11238,9 @@
           "role": "owner"
         },
         "createdAt": "2026-11-01T13:42:59.950Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-11-01T13:43:15.892Z",
+        "joinedByName": "kira"
       }
     ],
     "history": [
