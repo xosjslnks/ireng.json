@@ -2502,7 +2502,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793541373467-f57948dd",
+      "nomor": "62883846529216",
+      "requestedBy": {
+        "id": 8443832977,
+        "name": "kira",
+        "username": "KkiraModz"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-01T13:56:13.467Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9145,14 +9157,20 @@
     },
     "8443832977": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-11-01T13:43:28.108Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-11-01T13:56:13.467Z"
         }
       ]
     }
@@ -11235,27 +11253,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mvxvr477-c908bf",
-        "targetUsername": "kkiramodz",
-        "targetUserId": 8443832977,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+ME1pCVUw4iIwZGM9",
-        "messageId": 69330,
-        "createdBy": {
-          "id": 8649255064,
-          "name": "Aku Hitori",
-          "username": "AkuHitoriGotou",
-          "role": "owner"
-        },
-        "createdAt": "2026-11-01T13:42:59.950Z",
-        "consumed": true,
-        "consumedAt": "2026-11-01T13:43:15.892Z",
-        "joinedByName": "kira"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
