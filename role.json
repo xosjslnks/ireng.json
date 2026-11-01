@@ -9142,6 +9142,19 @@
           "at": "2026-10-31T00:00:58.028Z"
         }
       ]
+    },
+    "8443832977": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-11-01T13:43:28.108Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
