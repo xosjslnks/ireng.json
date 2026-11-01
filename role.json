@@ -2502,7 +2502,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793575654479-8c7467eb",
+      "nomor": "62883832561963",
+      "requestedBy": {
+        "id": 8443832977,
+        "name": "kira",
+        "username": "KkiraModz"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-01T23:27:34.479Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9145,8 +9157,8 @@
     },
     "8443832977": {
       "limit": 5,
-      "used": 1,
-      "remaining": 4,
+      "used": 2,
+      "remaining": 3,
       "history": [
         {
           "type": "ADD",
@@ -9159,6 +9171,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-11-01T13:56:13.467Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-11-01T23:27:34.480Z"
         }
       ]
     }
