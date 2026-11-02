@@ -2513,6 +2513,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-11-02T03:35:16.863Z"
+    },
+    {
+      "id": "1793606183562-8eee94ba",
+      "nomor": "6285124090459",
+      "requestedBy": {
+        "id": 8963255448,
+        "name": "neplimper",
+        "username": "KinkNevv"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-02T07:56:23.562Z"
     }
   ],
   "numberLimits": {
@@ -9138,8 +9149,8 @@
     },
     "8963255448": {
       "limit": 10,
-      "used": 2,
-      "remaining": 8,
+      "used": 3,
+      "remaining": 7,
       "history": [
         {
           "type": "ADD",
@@ -9158,6 +9169,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-31T00:00:58.028Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-11-02T07:56:23.562Z"
         }
       ]
     },
