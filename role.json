@@ -1020,6 +1020,12 @@
       "name": "kira",
       "username": "KkiraModz",
       "chatId": -1003596848958
+    },
+    {
+      "id": 6882187174,
+      "name": "Yongg",
+      "username": "yongg24",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1168,7 +1174,8 @@
       8773638151,
       7283613662,
       1480507502,
-      8443832977
+      8443832977,
+      6882187174
     ],
     "-1003320005121": [
       6821406318
@@ -11345,7 +11352,7 @@
       {
         "id": "lg-mw4xluw3-849c1a",
         "targetUsername": "yongg24",
-        "targetUserId": null,
+        "targetUserId": 6882187174,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+pzomGJtLvnBkYjU9",
@@ -11363,7 +11370,9 @@
         },
         "createdAt": "2026-11-06T12:09:17.155Z",
         "approvedAt": "2026-11-06T12:09:46.971Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-11-06T12:13:38.685Z",
+        "joinedByName": "Yongg"
       }
     ],
     "history": [
