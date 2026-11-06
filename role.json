@@ -2509,7 +2509,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1793972421373-519e1d83",
+      "nomor": "6285124184639",
+      "requestedBy": {
+        "id": 8942014434,
+        "name": "tazzxx",
+        "username": "-"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-06T13:40:21.373Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9039,14 +9051,20 @@
     },
     "8942014434": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-10-24T05:44:50.947Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-11-06T13:40:21.373Z"
         }
       ]
     },
@@ -9241,6 +9259,12 @@
           "at": "2026-11-06T11:14:36.516Z"
         }
       ]
+    },
+    "6882187174": {
+      "limit": 0,
+      "used": 0,
+      "remaining": 0,
+      "history": []
     }
   },
   "buylimitInvoices": [
@@ -11348,33 +11372,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mw4xluw3-849c1a",
-        "targetUsername": "yongg24",
-        "targetUserId": 6882187174,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+pzomGJtLvnBkYjU9",
-        "messageId": 69966,
-        "createdBy": {
-          "id": 8671854977,
-          "name": "brahim str",
-          "username": "brahimstr",
-          "role": "reseller"
-        },
-        "approvedBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2"
-        },
-        "createdAt": "2026-11-06T12:09:17.155Z",
-        "approvedAt": "2026-11-06T12:09:46.971Z",
-        "consumed": true,
-        "consumedAt": "2026-11-06T12:13:38.685Z",
-        "joinedByName": "Yongg"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
