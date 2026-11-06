@@ -2509,19 +2509,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1793972421373-519e1d83",
-      "nomor": "6285124184639",
-      "requestedBy": {
-        "id": 8942014434,
-        "name": "tazzxx",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-11-06T13:40:21.373Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9051,8 +9039,8 @@
     },
     "8942014434": {
       "limit": 5,
-      "used": 1,
-      "remaining": 4,
+      "used": 0,
+      "remaining": 5,
       "history": [
         {
           "type": "ADD",
@@ -9065,6 +9053,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-11-06T13:40:21.373Z"
+        },
+        {
+          "type": "REFUND",
+          "qty": 1,
+          "note": "ACC_DUPLICATE_OR_INVALID",
+          "at": "2026-11-06T13:42:35.906Z"
         }
       ]
     },
