@@ -10980,7 +10980,8 @@
       "expiresAt": "2026-11-06T11:21:27.607Z",
       "autoCancelAt": "2026-11-06T11:16:27.607Z",
       "chatId": -1003596848958,
-      "createdAt": "2026-11-06T11:11:29.070Z"
+      "createdAt": "2026-11-06T11:11:29.070Z",
+      "lastCheckedAt": "2026-11-06T11:11:34.436Z"
     }
   ],
   "pakasirUsage": {
@@ -11317,9 +11318,10 @@
       }
     },
     "2026-11-06": {
-      "total": 1,
+      "total": 2,
       "endpoints": {
-        "/pakasir/transactioncreate": 1
+        "/pakasir/transactioncreate": 1,
+        "/pakasir/transactiondetail": 1
       }
     }
   },
