@@ -11340,34 +11340,32 @@
     }
   },
   "linkgb": {
-    "pending": [
+    "pending": [],
+    "active": [
       {
         "id": "lg-mw4xluw3-849c1a",
         "targetUsername": "yongg24",
         "targetUserId": null,
         "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-11-06T12:14:16.706Z",
-        "requestedBy": {
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+pzomGJtLvnBkYjU9",
+        "messageId": 69966,
+        "createdBy": {
           "id": 8671854977,
           "name": "brahim str",
           "username": "brahimstr",
           "role": "reseller"
         },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 69962,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 1472,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
+        "approvedBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2"
+        },
         "createdAt": "2026-11-06T12:09:17.155Z",
-        "approvedBy": null,
-        "approvedAt": null
+        "approvedAt": "2026-11-06T12:09:46.971Z",
+        "consumed": false
       }
     ],
-    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
