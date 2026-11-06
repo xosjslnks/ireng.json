@@ -11340,33 +11340,7 @@
     }
   },
   "linkgb": {
-    "pending": [
-      {
-        "id": "lg-mw4wqc8q-f75f52",
-        "targetUsername": "yongg24",
-        "targetUserId": null,
-        "targetName": "-",
-        "cancelled": false,
-        "proofDeadline": "2026-11-06T11:49:46.199Z",
-        "requestedBy": {
-          "id": 8671854977,
-          "name": "brahim str",
-          "username": "brahimstr",
-          "role": "reseller"
-        },
-        "chatId": -1003596848958,
-        "promptMessageId": null,
-        "proofMessageId": 69931,
-        "reviewChatId": -5591850551,
-        "reviewMessageId": 1471,
-        "status": "pending",
-        "inviteLink": null,
-        "inviteMessageId": null,
-        "createdAt": "2026-11-06T11:44:46.685Z",
-        "approvedBy": null,
-        "approvedAt": null
-      }
-    ],
+    "pending": [],
     "active": [],
     "history": [
       {
@@ -11704,6 +11678,23 @@
         },
         "cancelledAt": "2026-10-24T09:01:58.533Z",
         "createdAt": "2026-10-24T09:01:47.174Z"
+      },
+      {
+        "id": "lg-mw4wqc8q-f75f52",
+        "targetUsername": "yongg24",
+        "requestedBy": {
+          "id": 8671854977,
+          "name": "brahim str",
+          "username": "brahimstr",
+          "role": "reseller"
+        },
+        "status": "cancelled",
+        "cancelledBy": {
+          "id": 8671854977,
+          "name": "brahim str"
+        },
+        "cancelledAt": "2026-11-06T12:09:04.206Z",
+        "createdAt": "2026-11-06T11:44:46.685Z"
       }
     ],
     "expireMinutes": 10,
