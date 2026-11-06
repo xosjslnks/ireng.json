@@ -9218,14 +9218,20 @@
     },
     "7071313450": {
       "limit": 10,
-      "used": 0,
-      "remaining": 10,
+      "used": 1,
+      "remaining": 9,
       "history": [
         {
           "type": "ADD",
           "qty": 10,
           "note": "BUYLIMIT BL-MW4VJI47-DF6F",
           "at": "2026-11-06T11:13:49.595Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "ADD_DIRECT",
+          "at": "2026-11-06T11:14:36.516Z"
         }
       ]
     }
