@@ -4000,9 +4000,9 @@
       ]
     },
     "7906329645": {
-      "limit": 62,
+      "limit": 82,
       "used": 48,
-      "remaining": 14,
+      "remaining": 34,
       "history": [
         {
           "type": "ADD",
@@ -4345,6 +4345,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-10-31T01:06:13.887Z"
+        },
+        {
+          "type": "ADD",
+          "qty": 20,
+          "note": "OWNER_ADD",
+          "at": "2026-11-08T03:16:27.475Z"
         }
       ]
     },
