@@ -2510,7 +2510,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1794107047596-4a16ab28",
+      "nomor": "6285119131733",
+      "requestedBy": {
+        "id": 7358111125,
+        "name": "𝙕𝙀𝙉𝙄𝙏𝙃",
+        "username": "Zenith_009"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-08T03:04:07.596Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -5552,8 +5564,8 @@
     },
     "7358111125": {
       "limit": 10,
-      "used": 1,
-      "remaining": 9,
+      "used": 2,
+      "remaining": 8,
       "history": [
         {
           "type": "ADD",
@@ -5566,6 +5578,12 @@
           "qty": 1,
           "note": "RESERVE_PENDING",
           "at": "2026-08-09T00:23:44.698Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-11-08T03:04:07.597Z"
         }
       ]
     },
