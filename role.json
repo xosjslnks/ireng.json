@@ -9285,6 +9285,19 @@
       "used": 0,
       "remaining": 0,
       "history": []
+    },
+    "8163475864": {
+      "limit": 5,
+      "used": 0,
+      "remaining": 5,
+      "history": [
+        {
+          "type": "ADD",
+          "qty": 5,
+          "note": "OWNER_ADD",
+          "at": "2026-11-08T22:52:10.956Z"
+        }
+      ]
     }
   },
   "buylimitInvoices": [
@@ -11392,27 +11405,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mw8fb48w-5fc70d",
-        "targetUsername": "vielzsturre",
-        "targetUserId": 8163475864,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+RpKQL2O-6IMyMTU1",
-        "messageId": 70570,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-11-08T22:48:07.722Z",
-        "consumed": true,
-        "consumedAt": "2026-11-08T22:51:08.110Z",
-        "joinedByName": "vielzstore"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
