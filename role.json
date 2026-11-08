@@ -11385,7 +11385,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mw8fb48w-5fc70d",
+        "targetUsername": "vielzsturre",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+RpKQL2O-6IMyMTU1",
+        "messageId": 70570,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-11-08T22:48:07.722Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
