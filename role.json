@@ -1027,6 +1027,12 @@
       "name": "Yongg",
       "username": "yongg24",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8163475864,
+      "name": "vielzstore",
+      "username": "Vielzsturre",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1176,7 +1182,8 @@
       7283613662,
       1480507502,
       8443832977,
-      6882187174
+      6882187174,
+      8163475864
     ],
     "-1003320005121": [
       6821406318
@@ -11389,7 +11396,7 @@
       {
         "id": "lg-mw8fb48w-5fc70d",
         "targetUsername": "vielzsturre",
-        "targetUserId": null,
+        "targetUserId": 8163475864,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+RpKQL2O-6IMyMTU1",
@@ -11401,7 +11408,9 @@
           "role": "owner"
         },
         "createdAt": "2026-11-08T22:48:07.722Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-11-08T22:51:08.110Z",
+        "joinedByName": "vielzstore"
       }
     ],
     "history": [
