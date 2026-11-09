@@ -2517,19 +2517,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1794203971168-65af2248",
-      "nomor": "6285797865250",
-      "requestedBy": {
-        "id": 8163475864,
-        "name": "vielzstore",
-        "username": "Vielzsturre"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-11-09T05:59:31.168Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
