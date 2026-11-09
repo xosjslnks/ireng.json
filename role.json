@@ -2517,7 +2517,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1794203971168-65af2248",
+      "nomor": "6285797865250",
+      "requestedBy": {
+        "id": 8163475864,
+        "name": "vielzstore",
+        "username": "Vielzsturre"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-09T05:59:31.168Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
@@ -9288,14 +9300,20 @@
     },
     "8163475864": {
       "limit": 5,
-      "used": 0,
-      "remaining": 5,
+      "used": 1,
+      "remaining": 4,
       "history": [
         {
           "type": "ADD",
           "qty": 5,
           "note": "OWNER_ADD",
           "at": "2026-11-08T22:52:10.956Z"
+        },
+        {
+          "type": "CUT",
+          "qty": 1,
+          "note": "RESERVE_PENDING",
+          "at": "2026-11-09T05:59:31.168Z"
         }
       ]
     }
