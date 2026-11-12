@@ -931,7 +931,7 @@
       "id": 7789730415,
       "name": "𝕊𝕌𝕂𝕄𝔸 ℙℝ𝔸𝕄ℤ",
       "username": "SUKMAPRAMZ",
-      "chatId": 7789730415
+      "chatId": -1003596848958
     },
     {
       "id": 8060626705,
@@ -2518,7 +2518,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1794487008838-d745121a",
+      "nomor": "6285822517420",
+      "requestedBy": {
+        "id": 8475125111,
+        "name": "FIFZ",
+        "username": "fifzsturrganteng"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-12T12:36:48.839Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
