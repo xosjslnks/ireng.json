@@ -2518,7 +2518,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1794633186113-a8bc79e3",
+      "nomor": "6288345251646",
+      "requestedBy": {
+        "id": 8784200056,
+        "name": "𝗣𝗥𝗔𝗕𝗢𝗪𝗢 𝗦𝗨𝗕𝗜𝗔𝗡𝗧𝗢",
+        "username": "Dongo_452"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-14T05:13:06.114Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
