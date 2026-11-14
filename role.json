@@ -2518,19 +2518,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1794645907232-bdfcbd56",
-      "nomor": "6295429030881",
-      "requestedBy": {
-        "id": 7714855806,
-        "name": ".",
-        "username": "XyNeRz724"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-11-14T08:45:07.233Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
