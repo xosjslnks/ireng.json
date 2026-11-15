@@ -2518,7 +2518,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1794709595463-7c93f2cb",
+      "nomor": "85124903844",
+      "requestedBy": {
+        "id": 7399411792,
+        "name": "Renjiee",
+        "username": "rnjieyeah"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-15T02:26:35.463Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
