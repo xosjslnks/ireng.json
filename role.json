@@ -2529,6 +2529,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-11-15T02:26:35.463Z"
+    },
+    {
+      "id": "1794709639260-e5a355a4",
+      "nomor": "6285124903844",
+      "requestedBy": {
+        "id": 7399411792,
+        "name": "Renjiee",
+        "username": "rnjieyeah"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-15T02:27:19.261Z"
     }
   ],
   "numberLimits": {
