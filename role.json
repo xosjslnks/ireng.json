@@ -2518,7 +2518,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1794707888666-d1198e22",
+      "nomor": "6285745880977",
+      "requestedBy": {
+        "id": 7865711278,
+        "name": "⏤͟͟͞͞ ⃟Di|zZ",
+        "username": "DilszZRoawrR"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-15T01:58:08.666Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
