@@ -11418,7 +11418,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mwhttpwn-e014d0",
+        "targetUsername": "kinkdippzzy",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+cjixMkl8E50zNGJl",
+        "messageId": 71536,
+        "createdBy": {
+          "id": 8649255064,
+          "name": "ChojiM4rket.ID",
+          "username": "ChojiM4rket",
+          "role": "owner"
+        },
+        "createdAt": "2026-11-15T12:44:25.725Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
