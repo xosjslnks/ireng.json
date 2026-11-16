@@ -2531,19 +2531,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1794832013662-85ba7d55",
-      "nomor": "6285710335580",
-      "requestedBy": {
-        "id": 8621873962,
-        "name": "世界 || ⏤͟͟͞͞𝑫𝒊𝒑𝒛𝒛",
-        "username": "KinkDippzzy"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-11-16T12:26:53.662Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
