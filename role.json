@@ -2531,19 +2531,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1795072059167-baab3f02",
-      "nomor": "6285284434436",
-      "requestedBy": {
-        "id": 7209132612,
-        "name": "how",
-        "username": "how11z"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-11-19T07:07:39.167Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
