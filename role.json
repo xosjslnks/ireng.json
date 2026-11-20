@@ -11425,7 +11425,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mwoohg99-68a899",
+        "targetUsername": "hakzy_renz",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+kUVmRSKQpOIwYjE1",
+        "messageId": 71854,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀¹⁰",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-11-20T07:49:18.482Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
