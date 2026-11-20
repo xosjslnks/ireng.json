@@ -44,7 +44,7 @@
       "id": 8492332284,
       "name": "𝙭𝙊𝙗𝙀¹⁰",
       "username": "xobedevelopment2",
-      "chatId": -1003596848958
+      "chatId": 8492332284
     },
     {
       "id": 8272410627,
@@ -11433,27 +11433,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mwoohg99-68a899",
-        "targetUsername": "hakzy_renz",
-        "targetUserId": 9061384069,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+kUVmRSKQpOIwYjE1",
-        "messageId": 71854,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀¹⁰",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-11-20T07:49:18.482Z",
-        "consumed": true,
-        "consumedAt": "2026-11-20T07:54:28.014Z",
-        "joinedByName": "Hakz"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
