@@ -1053,6 +1053,12 @@
       "name": "Hakz",
       "username": "hakzy_renz",
       "chatId": -1003596848958
+    },
+    {
+      "id": 8920023016,
+      "name": "V",
+      "username": "vanzzaja10",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1205,7 +1211,8 @@
       6882187174,
       8163475864,
       8621873962,
-      9061384069
+      9061384069,
+      8920023016
     ],
     "-1003320005121": [
       6821406318
@@ -11437,7 +11444,7 @@
       {
         "id": "lg-mwq2qs11-1ff5d8",
         "targetUsername": "vanzzaja10",
-        "targetUserId": null,
+        "targetUserId": 8920023016,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+OXSOm2jOTZ4xYjQ1",
@@ -11449,7 +11456,9 @@
           "role": "owner"
         },
         "createdAt": "2026-11-21T07:16:14.427Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-11-21T07:17:11.166Z",
+        "joinedByName": "V"
       }
     ],
     "history": [
