@@ -37,7 +37,8 @@
     8671854977,
     7906329645,
     1480507502,
-    9061384069
+    9061384069,
+    8920023016
   ],
   "users": [
     {
@@ -11440,27 +11441,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mwq2qs11-1ff5d8",
-        "targetUsername": "vanzzaja10",
-        "targetUserId": 8920023016,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+OXSOm2jOTZ4xYjQ1",
-        "messageId": 72108,
-        "createdBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀¹⁰",
-          "username": "xobedevelopment2",
-          "role": "owner"
-        },
-        "createdAt": "2026-11-21T07:16:14.427Z",
-        "consumed": true,
-        "consumedAt": "2026-11-21T07:17:11.166Z",
-        "joinedByName": "V"
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
