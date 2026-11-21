@@ -11433,7 +11433,25 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [],
+    "active": [
+      {
+        "id": "lg-mwq2qs11-1ff5d8",
+        "targetUsername": "vanzzaja10",
+        "targetUserId": null,
+        "targetName": "-",
+        "chatId": -1003596848958,
+        "inviteLink": "https://t.me/+OXSOm2jOTZ4xYjQ1",
+        "messageId": 72108,
+        "createdBy": {
+          "id": 8492332284,
+          "name": "𝙭𝙊𝙗𝙀¹⁰",
+          "username": "xobedevelopment2",
+          "role": "owner"
+        },
+        "createdAt": "2026-11-21T07:16:14.427Z",
+        "consumed": false
+      }
+    ],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
