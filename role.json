@@ -1060,6 +1060,12 @@
       "name": "VANZ",
       "username": "vanzzaja10",
       "chatId": -1003596848958
+    },
+    {
+      "id": 7478169019,
+      "name": "• —𝑵̲̅𝑶𝑿 𝑫𝒓𝒆𝒏𝒙 影",
+      "username": "Cumanrenzx",
+      "chatId": -1003596848958
     }
   ],
   "groupUsers": {
@@ -1213,7 +1219,8 @@
       8163475864,
       8621873962,
       9061384069,
-      8920023016
+      8920023016,
+      7478169019
     ],
     "-1003320005121": [
       6821406318
@@ -11445,7 +11452,7 @@
       {
         "id": "lg-mwrnurfo-78fa1c",
         "targetUsername": "cumanrenzx",
-        "targetUserId": null,
+        "targetUserId": 7478169019,
         "targetName": "-",
         "chatId": -1003596848958,
         "inviteLink": "https://t.me/+KF6G-mK0Z6ExNjY9",
@@ -11457,7 +11464,9 @@
           "role": "owner"
         },
         "createdAt": "2026-11-22T09:54:58.424Z",
-        "consumed": false
+        "consumed": true,
+        "consumedAt": "2026-11-22T09:56:09.358Z",
+        "joinedByName": "• —𝑵̲̅𝑶𝑿 𝑫𝒓𝒆𝒏𝒙 影"
       }
     ],
     "history": [
