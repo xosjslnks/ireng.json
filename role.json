@@ -2554,7 +2554,19 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [],
+  "pendingNumbers": [
+    {
+      "id": "1795439599677-071262da",
+      "nomor": "639552786422",
+      "requestedBy": {
+        "id": 7358111125,
+        "name": "𝙕𝙀𝙉𝙄𝙏𝙃",
+        "username": "Zenith_009"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-23T13:13:19.677Z"
+    }
+  ],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
