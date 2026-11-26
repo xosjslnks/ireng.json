@@ -2554,19 +2554,7 @@
       "addedAt": "2026-08-08T05:58:43.778Z"
     }
   ],
-  "pendingNumbers": [
-    {
-      "id": "1795663974149-ed9c3f3c",
-      "nomor": "6285137206780",
-      "requestedBy": {
-        "id": 8942014434,
-        "name": "tazzxx",
-        "username": "-"
-      },
-      "chatId": -1003596848958,
-      "requestedAt": "2026-11-26T03:32:54.149Z"
-    }
-  ],
+  "pendingNumbers": [],
   "numberLimits": {
     "3": {
       "limit": 1064940846,
