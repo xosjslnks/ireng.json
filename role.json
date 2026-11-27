@@ -2565,6 +2565,17 @@
       },
       "chatId": -1003596848958,
       "requestedAt": "2026-11-26T08:27:52.406Z"
+    },
+    {
+      "id": "1795741618546-4cf2cc51",
+      "nomor": "6285147551499",
+      "requestedBy": {
+        "id": 7209132612,
+        "name": "how",
+        "username": "how11z"
+      },
+      "chatId": -1003596848958,
+      "requestedAt": "2026-11-27T01:06:58.547Z"
     }
   ],
   "numberLimits": {
