@@ -11449,31 +11449,7 @@
   },
   "linkgb": {
     "pending": [],
-    "active": [
-      {
-        "id": "lg-mwzbqc8x-c68416",
-        "targetUsername": "kafzysajahh",
-        "targetUserId": null,
-        "targetName": "-",
-        "chatId": -1003596848958,
-        "inviteLink": "https://t.me/+gGeQuyq9CK85ZTM9",
-        "messageId": 73199,
-        "createdBy": {
-          "id": 8788855625,
-          "name": "OWN DKK ANOMALI",
-          "username": "MakloSukaYangaAmpos",
-          "role": "partner"
-        },
-        "approvedBy": {
-          "id": 8492332284,
-          "name": "𝙭𝙊𝙗𝙀¹⁰",
-          "username": "xobedevelopment2"
-        },
-        "createdAt": "2026-11-27T18:37:46.199Z",
-        "approvedAt": "2026-11-27T21:46:19.049Z",
-        "consumed": false
-      }
-    ],
+    "active": [],
     "history": [
       {
         "id": "lg-msjypbub-c6fc58",
@@ -11827,6 +11803,20 @@
         },
         "cancelledAt": "2026-11-06T12:09:04.206Z",
         "createdAt": "2026-11-06T11:44:46.685Z"
+      },
+      {
+        "id": "lg-mwzbqc8x-c68416",
+        "targetUsername": "kafzysajahh",
+        "targetUserId": null,
+        "requestedBy": {
+          "id": 8788855625,
+          "name": "OWN DKK ANOMALI",
+          "username": "MakloSukaYangaAmpos",
+          "role": "partner"
+        },
+        "status": "expired",
+        "expiredAt": "2026-11-27T21:56:27.078Z",
+        "createdAt": "2026-11-27T18:37:46.199Z"
       }
     ],
     "expireMinutes": 10,
